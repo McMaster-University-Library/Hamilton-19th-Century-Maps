@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of Clairmont Park Survey</title>
+    <subTitle>Lot XV, Concession IV, Barton</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Tyrell, James Williams, 1863-1945</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Ontario Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1897-09-15</dateCreated>
+    <publisher>The County of Wentworth</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1897-09-15</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7637</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1200]</extent>
+    <note>1 map : 43 x 74 cm. There is some discolouration, particularly on the right side; presumably from being in contact with rust. Map is printed on rag linen paper and lined with a similar archival paper on verso.</note>
+  </physicalDescription>
+  <note>This is a survey plan for “Clairmont Park” in Lot 15, Concession 4 of Barton Township. It is highly detailed and generally legible. The scale is listed below the title (“Scale:-100Ft. = 1 In.”). The directional arrow is found in the upper right hand corner. The map is also numbered in the upper right hand corner: “County No. 16.” The streets listed on the map include: “Fifth Concession Road” [now Fennell Avenue], “macadamized road between lots 14 &amp; 15” [now Upper James Street], “Prospect Avenue” [now Claremont Drive], “Clairmont Avenue” [now Arcade Crescent], “First Avenue” [now approximately Inverness Court], “Second Avenue” [now approximately Gateview Drive], “Third Avenue” [now approximately Brantdale Avenue], and an unnamed road between lots 15 &amp; 16 [now West 5th Street]. There are 78 lots parceled on this plan, including a large park known as “Clairmont Park Reserve.” Also noted here is the “Incline Railway Depot” travelling down from the escarpment brow [this transportation infrastructure was designed by Tyrell]. There are numerous signatures of officials on the plan. In the top left, there is a witness statement and signature by “Charles J. Layland” as well as a signature by Wentworth County official: Judge Alexander Logie. Logie (1823-1873) was active in Hamilton politics, the local justice system, and local Presbyterianism. He also served as judge for the Wentworth County Court from 1854-1873. (“Alexander Logie fonds PF 59,” in the Law Society of Upper Canada Archives, prepared 2013). In the bottom left there are signatures and a date (“Hamilton 15 Sept. 1897”). Those who gave the plan approval include: “Watson G. Walton”, “William Magee Jr.”, and “James Chisholm”. Chisholm (1858-1944) was an active Hamilton lawyer who enlisted in the Queen’s Rifles and eventually attained the rank of Colonel. Also found on this map is a signature by George Aurey, the Acting Registrar for the County of Wentworth, and a date “the sixteenth day of September, A.D. 1897.” Finally, in the bottom right corner is a certification statement and signature by the surveyor “J.W. Tyrell”. James Williams Tyrell (1863-1945) was one of Canada’s most prolific surveyors, explorers, and map makers during the 19th century. He practiced as an engineer and surveyor until 1893 when he embarked on an exploration into the Canadian interior with his brother Joseph Burr Tyrell (“Tyrell, James Williams,” Historica Canada, http://www.thecanadianencyclopedia.ca/en/article/james-williams-tyrell, accessed July 10, 2015). The survey itself showcases the severance and subdividing of the property of former politician and mercantile baron Isaac Buchanan (1810-1883). Buchanan termed his illustrious estate Claremont (alternatively spelled “Clairmont”) and it included a number of buildings including Auchmar. Buchanan purchased the land in 1852 but lost most of it to over-ambitious business maneuvers in the latter-half of the 19th century. Of note on this map, in lot 32, is a building footprint which symbolizes the “Claremont Gatehouse” at 71 Claremont Drive (Robert J. Williamson, “Claremont Drive,” in Hamilton Street Names, Margaret Houghton, ed. Toronto: James Lorimer and Co., 2002).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Southam neighbourhood</citySection>
+      <area>Lot 15, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

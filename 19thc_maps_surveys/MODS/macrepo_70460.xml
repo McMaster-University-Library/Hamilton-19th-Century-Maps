@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Part of Hamilton</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1820</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>Canada</place>
+    <place>[Hamilton]</place>
+    <dateOther>[between 1820 and 1900]</dateOther>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+  </originInfo>
+  <language>eng</language>
+  <identifier type="local">RMC_7566</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:768]</extent>
+    <note>1 map : 35 x 72 cm., on sheet 53 x 72 cm. Map has multiple tears along its edges. There is a significant tear running horizontally across the centre of the map. An attempt has been made, on the centre-left and along the edges, to mend the significantly torn portions. There are pencil markings throughout, indicating such things as lot dimensions and lot owners. The map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>The map's title appears to be "Part of Hamilton". It appears as if a portion of the eastern side of the map may have been cut short. The map outlines an area in Hamilton's north end, near the West Harbour and the current CN Railway Company yard. Streets listed are Stratchan Street, Stuart Street, Bay Street, Fawcott Street [now nonexistant], and Tiffany Street [still in existence but its northern section has been replaced by the CN tracks]. Burlington Bay figures prominently on the map; a curved line roughly indicates the location of the shoreline. The scale is found in the bottom right-hand corner in linear form, showing 1 inch as approximately 64 feet. Located in the vicinity of this map are the following sites:  Bayfront Park and the Custom House on Stuart Street [now the Workers Arts and Heritage Centre].</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>North end</citySection>
+      <area>Lot 15, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+</mods>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of Beach</title>
+    <subTitle>applied for by the Board of Water Commissioners for the City of Hamilton</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateCreated>1881</dateCreated>
+    <dateOther>[between 1881 and 1899]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7618</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:480]</extent>
+    <note>1 map : 51 x 57 cm, on sheet 54 x 84 cm. Map shows only minor tearing, largely around its edges. There are a few black smudges on the paper [presumably ink]. Map is drawn on rag linen paper and lined with archival paper, made of similar material, on verso.</note>
+  </physicalDescription>
+  <note>This is a survey sketch of lots 28-34 in Concession BF and Concession 1 in the former township of Saltfleet. Surveyed for the utility requirements of the Board of Water Commissioners for the City of Hamilton. The scale is found below the title: "400 feet to an inch". There is no date or directional arrow included on the map. In bottom left hand corner is written "No 98 Drawer 3 Burlington Beach" and the number "184" encircled. The map is oriented so that north is at the base of the map along with Lake Ontario and Burlington Bay. There are a number of utilities and infrastructure featured on the map including is a "pumping main" which cuts across the survey and connects to an "engine house" and a "filtering basin" along Burlington Beach. Also drawn along the beach is a "road from Stony Creek" which crosses the Windemere Basin and becomes "the Beach Road".  The Great Western Railway spans the top of the map (the southernmost boundary). The property owners listed on the map include: George Lottridge (lot 29), William and John Bates (east part of lot 31), Henry Waterberry (west part of lot 31), George Gant (lot 32), and Thomas Jones (lot 34). In terms of dating the map, we know that it was completed after the construction of the Great Western Railway (1854) and after the publication of the 1875 Wentworth County Atlas which lists many differing owners on these lots in years prior. Hamilton City Directories indicated that prior to 1881, not all of the above-named individuals were listed as owning property in Saltfleet. I have noted 1889 as the last possible date for the map; that is the year in which George Lottridge died. Given that Lottridge is shown as a property owner on the map, it cannot be any older.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township, Saltfleet Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Parkview West and Industrial Sector J and G</citySection>
+      <area>Lots 28-34, Concessions BF-1</area>
+    </hierarchicalGeographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Saltfleet (Ont.)</geographic>
+  </subject>
+</mods>

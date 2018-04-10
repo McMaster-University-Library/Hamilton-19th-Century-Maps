@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Part of the Blakie Estate]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>[1820-1882]</dateOther>
+    <dateCreated>1820</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7630</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map: 20 x 23 cm. Map has a few pieces missing along its edges, most noticeably in the bottom right-hand corner. Map is detailed on blue paper. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This is a small sketch map of the Corktown, Centremount &amp; Stinson neighbourhoods, with the Niagara Escarpment featured prominently in the centre. The map does not have a title, date, author, publisher, or directional arrow listed. Its' orientation is such that it faces south. On the verso of the map it reads "Part of the Blakie Estate". It is unclear whether the author is referring to the lot owner being a "Blaikie" or "Blakie", presumably having misspelled the surname. It is possible that the author is referring to local landowner William Blaikie (see RMC 7610 "Plan of survey of park lots in the Township of Saltfleet) or Scottish-born Toronto businessman John Lang Blaikie (1823-1912). The map itself is highly detailed, showcasing 19 lots as well as a number of some featured buildings. The streets listed are Wellington Street, John Street, "proposed road" [approximately Arkeldun Avenue], "Concession Road &amp; south limit of City of Hamilton" [now Concession Street], and Charlton Avenue (street not labelled). The intersection of streets in this vicinity has been changed with the addition of multi-lane access collector roads: Jolley Cut, Claremont Access, and Sherman Access. Spanning the middle of the map is the escarpment with a quarry shown on its north side (or the "Quarry Face of Mountain"). There is an "Orphan Hospital" drawn on Wellington Street at Charlton Avenue which is the original Hamilton Orphan Asylum (1848-1958). The orphanage was "the first children's home to be established in the province...opened by the Ladies Benevolent Society of Hamilton in 1848," (Charlotte Neff, "The Use of Apprenticeship and Adoption by the Toronto Protestant Orphans' Home, 1853-1869," Journal of Social History, Vol. 30, No 60, 1997). The orphanage was then expanded to offer care for elderly women in 1877 and closed down in 1914. It was eventually demolished in 1958 (Mark McNeil, "The bygone era of Hamilton's orphanages", The Hamilton Spectator, Nov. 14, 2014). Also north of the escarpment is land owned by "Hiram Clarke's heirs" and "Dr. Roseburgh". Dr. Roseburgh is listed on the 1875 Wentworth County Atlas as owning part of lots 13-14 in concession 3, Barton Township. Along the mountainside is shown "McInne's house". This is the famous Gothic Revival home known as "Rock Castle", located at 95 Arkledun Avenue. It was built by Alexander Carpenter (1806-1866) and was owned circa 1871-1882 by Hugh MacInnes and his wife Margaret Ann Carpenter. MacInnes was the brother of Donald MacInnes (1824-1900), the well-known Hamilton businessman and Conservative politician (Anne Marie Rajic, "Rock Castle," L.A.C.A.C. Report, August 1980). South of the escarpment is found "Belmont Terrace" (likely a park and viewing platform), a series of lots, and the property of "Colbeck" including a house and a barn. South of the terrace it reads "these lots belong to different...[indecipherable word]." There is also a 1 acre lot owned by "Dr. Craigie". William Craigie (1799-1863) was a Scottish physician who emigrated to Ancaster in 1834 and moved to Hamilton in 1845 (Katherine Greenfield, Thomas Melville Bailey ed., Dictionary of Hamilton Biography, Vol. I 1791-1875. Hamilton: W.L. Griffin Ltd., 1981). Finally, in the south-east corner of the map is the "Jolley house", home of James Jolley (1813-1892). Jolley was a Scottish-born saddler and harnessmaker whose shop was on John Street South. In 1864 he moved to the Mountain and built a home he called "Bellemont" at the corner of Concession and East Fifteenth streets [now an apartment complex]. He was influential in the creation of a toll-free road from his home on the mountain to Rock Castle on John Street, known as the Jolley Cut, in 1873 (Thomas Melville Bailey ed., Dictionary of Hamilton Biography, Vol. I 1791-1875. Hamilton: W.L. Griffin Ltd., 1981).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Corktown, Centremount, &amp; Stinson neighbourhoods</citySection>
+      <area>Lots 12-14, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

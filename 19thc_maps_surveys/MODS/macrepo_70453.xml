@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Hamilton, Main and Emerald Streets]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1810</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.?]</placeTerm>
+    </place>
+    <dateOther>[between 1810 and 1860?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; sheet 70 x 47 cm. The map is very faded with many overlapping pencil markings, making it very difficult to read. There are creases and wear marks along its edges. There is one small section of black writing in pen found in the bottom left hand corner. Lastly, there is a band of tape along the road labelled "Main St" at the base of the map. It has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Manuscript map.  Cartographer unknown.  This plan does not include a title, scale, date, or directional arrow. It outlines an area in central Hamilton, at the base of the Escarpment. The streets listed are the following: Emerald Street, Main Street, Clarke Street [now Hunter Street], and Maria Street [now Stinson Street].  The map highlights 78 lots around Clarke Street to be developed. It also outlines landowner properties with lots marked as "Mackenzie", "Glen", and "Rev. Rice" [may be Rev. Harvey J. Rice]. The map covers an area south of Main and east of Emerald Street, the former St. Patrick's Ward, near the eastern border of the former city. Today, the area is now the Stinson neighbourhood, more precisely surrounding Tisdale Street. Subsequent maps indicate that the plan was never realized as drawn. Marcus Smith's 1850-51 Map of the City of Hamilton shows that Clarke Street was renamed Peel Street [now Hunter] and Maria Street was renamed Jane Street [now Stinson]. The map also shows land owned in the vicinity by Hiram Clarke [after which the street is named].  Near the upper left corner there is a somewhat illegible signature, "W.B. [Johnston?]". The 1876 Hamilton City Directory shows two entries for "W. Johnston"; one as a clerk and the other as a carpenter.  Handwritten along lower edge, "No 42, Drawer 5".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+      <citySection>Stinson neighbourhood</citySection>
+      <area>Lot 11, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7567</identifier>
+</mods>

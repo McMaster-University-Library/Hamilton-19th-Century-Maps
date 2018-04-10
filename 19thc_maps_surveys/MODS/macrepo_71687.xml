@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of John Fergusons property in the City of Hamilton</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1858</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>[between 1858 and 1880]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7638</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <note>1 map : 70 x 44 cm. There is some tearing along the top margin of the map, otherwise it is in satisfactory condition. Map is lined with archival paper on verso.</note>
+    <extent>Scale not given.</extent>
+  </physicalDescription>
+  <note>This is a plan for John Ferguson’s property in central Hamilton (the plot labeled “entailed property”). The plan does not include a date, directional arrow or scale. There are 194 subdivided lots depicted on the map surrounding Ferguson’s property. At the northern extremity of the plan is the Great Western Railway running east to west. The streets listed on the map are all in existence today. They include: Cannon Street, Robert Street, Barton Street, Murray Street, Wellington Street, Cathcart Street, Ferguson Avenue, Elgin Street, and Mary Street. Circa 1858 would be the earliest the map could be dated. This is the year that Cherry Street was renamed Ferguson Avenue (W.A. Shepard, The City of Hamilton Directory, 1858). The building footprint drawn on the plan is the original Ferguson family home built by John’s ancestor and of one of Hamilton’s earliest settlers, Peter Ferguson (1795-1824). In 1802, Peter settled on 100 acres of land at Lot 13, Concessions 1-2. This plan outlines a portion of that originally-ceded Crown grant (Margaret Houghton, “Ferguson Avenue,” in Hamilton Street Names. Toronto: James Lorimer &amp; Co., Publishers, 2002, 36). By the time of the middle of the 19th century, despite being close to the town centre of Hamilton, most of the Ferguson family land on lot 13 was still undeveloped. Peter Ferguson’s son Archibald took ownership of the land following his father’s death. Though the Ferguson lands were located at the eastern edge of the city, as Michael Doucet and John Weaver point out, “[Archibald] Ferguson annoyed the Board of Police for his failure to open a street and he had a mere seven people dwelling on his 200 acres in 1839. A pioneer agrarian with a low lying farm, he was not an assertive developer with a desirable tract” (Michael Doucet and John Weaver, “Town Fathers and Urban Continuity,” in Urban History Review 13:2, 1984, 81). Twelve years later, at the time of the publication of the 1851 Marcus Smith Map of the City of Hamilton, the Ferguson lands were still largely undeveloped, especially compared to the built area surrounding their farmland. There were subdivided lots to the east of Wellington Street and to the west of Mary Street. But, as mentioned Dictionary of Hamilton Biography, in 1856 the land was parceled into urban lots and developed (T. Melville Bailey, ed, “Ferguson, Peter,” in Dictionary of Hamilton Biography, Vol. 1, Hamilton: W.L. Griffin Ltd., 1981, 72). The 1859 Map of the County of Wentworth by Robert Surtees confirms this fact. It shows the Ferguson tract as entirely subdivided south of Barton (Lot 13, Concession 2) while north of Barton the undeveloped the broken front marshland (which would have been difficult to build upon) was retained by Archibald. By 1876, all of the Ferguson lands were urbanized. The Wentworth County Atlas shows that the northern parcel of land was developed right up to the bay. This plan was created after this land was subdivided for the property of John Ferguson. It is possible that John subdivided and sold some of the land once he took over ownership. Very little information could be found on John Ferguson himself. It unclear whether or not John was the son or the brother of Archibald Ferguson. The 1876 Wentworth County Atlas does list John Ferguson as owning some land in Barton Township during this period.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Beasley neighbourhood</citySection>
+      <area>Lot 13, Concessions 1-2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

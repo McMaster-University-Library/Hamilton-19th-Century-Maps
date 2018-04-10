@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Dundas]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1810</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.?]</placeTerm>
+    </place>
+    <dateOther>[between 1810 and 1875]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map on 2 sheets ; colour ; 40 x 57 cm, on sheet 40 x 65 cm. Map is printed on rag linen paper and lined with archival paper on verso. Colouration is used (red, blue, and yellow) to outline a number of lots. Map has some has fading and deterioration in bottom right hand corner. The map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Sheet 1 of 2; south sheet. This map does not include a title, scale, date, or directional arrow. The map shows the lots found in the centre of the former Town of Dundas. The streets listed on the map are all in existence today with the exception of Macnab St. [now nonexistent]. They are the following: Sydenham Rd., York Rd., Park St., Mellville St. [now Melville St.], Victoria St., Alma St., and Cayley St. This map depicts lots 1-155, including a large lot atop which is written "The quantity of Land contained within the dark red line is 46.89 acres". There are two property owners listed on map: "G. Rolph" and "T.H. McKenzie".  &#13;
+&#13;
+George Rolph (1794-1875) was a well-known Reformer, lawyer, and politician. Rolph has a small street named after him in Dundas (found approximately where Macnab St. is shown on this map).&#13;
+Rolph served as a lieutenant in the War of 1812 and he was the brother of well known Reformer and physician Dr. John Rolph (1793-1870). Upon settling in Dundas he took up a position as the first clerk of the peace in the Gore District. He also built a house at 43 Cross Street (currently the oldest standing home in Dundas). Rolph aligned himself with Reformers such as William Lyon Mackenzie which, along with his marital infidelity, led him to be tarred and feathered at the hands of a mob of Tories (including Allan N. MacNab). Before he died, MacNab managed to ascertain and relocate Rolph's property gates which now stand on the premises of Dundurn Castle (known as the Rolph Gates).  &#13;
+&#13;
+Thomas Howard McKenzie (1811-?) was a mapmaker, merchant, explorer, and politician in Dundas. He came to Canada from Scotland in 1830, began as a clerk for then mayor Colin Ferrie. He was elected to the Dundas town council for five years and served as mayor for three.</note>
+  <subject>
+    <geographic>Dundas (Ont.)</geographic>
+    <geographic>West Flamborough (Ont. : Township)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of West Flamborough</region>
+      <county>Wentworth County</county>
+      <city>Dundas</city>
+      <citySection>Central Dundas, Sydenham neighbourhood, York Heights neighbourhood</citySection>
+      <area>Lots 15-16, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7560A</identifier>
+</mods>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[West limits of the City of Hamilton around Paradise Street]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1850</dateCreated>
+    <dateOther>[between 1850 and 1870?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7695</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; 71 x 60 cm, on sheet 73 x 66 cm. Map lined with archival paper on verso. Large tear running from the lower edge to the middle of the sheet. Upper left corner of sheet lacking.</note>
+  </physicalDescription>
+  <note>Cartographer uncertain, likely Thomas Allen Blyth. Today, the area is approximately between King Street and Norwood Road, and Longwood Road and Macklin Street. Shows toll gate located along King Street.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+</mods>

@@ -1,0 +1,44 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Subdivision of lots 7 &amp; 8 and east half of lot 6 in Michael Aikmans survey</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1872-06-30</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1872</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map ; 50 x 31 cm. Light hint of colour on roadways. Map lined with archival paper on verso.  Notes and numbers are scribbled throughout the map.</note>
+  </physicalDescription>
+  <note>&quot;Scale 50 ft = 1 Inch.&quot;  On left edge of map it reads, &quot;No 57 Drawer 2&quot;. The map is oriented so that the north arrow points to the bottom of the map and south is at the top. Streets listed are: Wentworth Street, Main Street, and Ida Street. Ida Street, which can be found as such on Hamilton maps between 1903 and 1910, is now known as Delaware Avenue.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>St. Clair neighbourhood</citySection>
+      <area>Lot 10, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7496</identifier>
+</mods>

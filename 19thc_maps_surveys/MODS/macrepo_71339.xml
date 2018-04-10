@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of escarpment in east Hamilton]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>[1837]</dateCreated>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <publisher>[Publisher unknown]</publisher>
+    <dateOther>[between 1837 and 1880]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7631</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 25 x 38 cm. There are numbers written in various places across the map in pencil. Map is printed on rag linen paper and lined with a similar archival paper on verso.</note>
+  </physicalDescription>
+  <note>This is a map of east Hamilton which features the escarpment spanning its width. There is no title, author, date, publisher, or directional arrow. The map's orientation is such that it faces east. This map includes 14 separate landowners on 4 concessions and 5 lot lines within the former jurisdiction of Barton Township. At the top-right extent of the map (the furthest east) is a hatched line indicating the boundary between Saltfleet Township. The map features a number of unlabelled roads. The following streets run north-south: Upper Kenilworth Avenue, Kenilworth Avenue, Upper Ottawa Street, and Ottawa Street. The following streets run east-west: Limeridge Road East, Mohawk Road East, Fennell Avenue East, Concession Street, King Street East, and Main Street East. Today, the area's arterial road network follows largely the same configuration, with the addition of access roads. Along the mountain brow there are a number of landowners shown with small parcels. Many of these names are unreadable. Those that are legible include" Adam Condy, Thomas Best, H.C. Baker, David Crosthwaith [later written "Crosthwaite"], and Jacob Burkholder. The largest landowners listed on the map (some owning entire lots), include: John Gage, William Mills, Thomas Waddell, and Abigail Gage.  John Gage (1819-1900) is listed as a farmer in the 1851 Census, owning Lot 1, Concession 3 in Barton Township. Gage married Hannah Cline in 1839. The 1851 Canada West Census also shows a William Mills as a 36-year old English-born merchant by trade and Wesleyan Methodist by religion. The 1871 Canada West Census lists a William Mills as a 60-year old "gate keeper" by trade and Wesleyan Methodist by religion. Another one of the landowners on the map is Thomas Waddell (1797-1859). Waddell was one of the earlier settlers in Wentworth County, marrying Mary Gage in 1825 and owning property in both Saltfleet and Barton Townships ("Waddell, Thomas", Upper and Lower Canada Marriage Bonds, Library and Archives Canada, 2005). Lastly, landowner Abigail Gage (1823-1882) was married to Daniel Gage and was an inmate at the Hamilton Insane Asylum. She died at the age of 59 from tuberculosis. The inclusion of Gage's name on this map may give more strength to the idea that the map was drawn post-1859, the year Upper Canada passed legislation to grant married women certain property rights (the "Act to Secure to Married Women Certain Rights of Property").</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Sherwood, Huntington, Delta, and Rosedale neighbourhoods</citySection>
+      <area>Lot 1-5, Concession 3-6</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

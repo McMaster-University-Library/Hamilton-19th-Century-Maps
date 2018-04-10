@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of lots in this Town of Hamilton - now the City of Hamilton</title>
+    <subTitle>made by me [illegible name] home of Sir A.N. MacNab</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1838-08-24</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1838</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7537</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>No scale given</extent>
+    <note>1 map: col. ; 17 x 33 cm. Map is printed on rag linen paper and lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Map does not include a scale or any information on a publisher or surveyor. Below the title it is dated "August 24th/38". Above the title is found the word "copy" and a directional arrow pointing to the left of the map as north. The map shows a rough outline plan for lots in the Corktown neighbourhood. With the exception of Aurora Street, none of the streets listed are in existence on modern maps. Notable changes from this plan include: the relocation of Corktown Park and the renaming of Cherry Street to Ferguson Avenue. The map shows the "Park of Corktown" at the base of the map, but current location is north of Aurora Street, indicating that the location of the park may have been moved from the base of the escarpment.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Corktown neighbourhood</citySection>
+      <area>Lot 14, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

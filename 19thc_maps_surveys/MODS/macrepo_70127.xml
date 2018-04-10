@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Tracing of plan showing the position of lots comprising the Village of Freelton, Township of West Flamborough</title>
+    <subTitle>County of Wentworth, C.W.</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1848</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Freelton?]</placeTerm>
+    </place>
+    <dateOther>[between 1848-1870]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 69 x 46 cm. Many tears throughout the map, especially along the edges. The top left and bottom right corners exhibit sections that are entirely lacking. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This plan does not include a scale, date, or directional arrow. To the left of the title is found the word "Freelton" and in the bottom right hand corner it reads "37. Book 1". The map details a plan for the 200 central lots that make up the "Village of Freelton" in the former Township of West Flamborough.  The familiar triangular layout is still in existence today, though there are many differences between the plan's layout and current maps of Freelton, especially in the westernmost portion of the map. Street names still in use today are: "Peter St.", "William St.", "Douglas Pl.", "Edward St.", "Mill St.", and "Louisa St." Freelton was originally laid out by Irish immigrant Patrick Freel (1817-1884) who owned over 100 acres. Freel was an innkeeper, miller, insurance agent, and Justice of the Peace. Freel and his wife Elizabeth were buried in the cemetery of Our Lady of Mount Carmel Catholic Church in Freelton.</note>
+  <subject>
+    <geographic>West Flamborough (Ont. : Township)</geographic>
+    <geographic>Flamborough (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of West Flamborough</region>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+      <citySection>Freelton</citySection>
+      <area>Lots 7 &amp; 8, Concession 9</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7568</identifier>
+</mods>

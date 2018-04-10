@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Ancaster</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario. Department of Crown Lands</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <publisher>Crown Lands Department</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">[Canada]</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Montreal]</placeTerm>
+    </place>
+    <dateOther>[1846]</dateOther>
+    <dateCreated>1846</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:31680]</extent>
+    <note>1 map ; 57 x 82 cm., on sheet 59 x 84 cm. Top right corner of the map is lacking. There are small sections missing in bottom right corner and along both the bottom and right edges due to folding. The map has been folded and creased horizontally and vertically. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This map is an enlarged concession plan of the Township of Ancaster. The map only shows the concessions and early lot lines, with no subsequent detail. The map's title, found in the bottom right corner, reads "Ancaster". Just below the title is the scale: "Scale forty chains to one inch" and the publisher: "Crown Lands Department". In the top left hand corner is the word "Copy".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Ancaster (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Ancaster</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Ancaster</citySection>
+      <area>Lots 1-54, Concessions 1-7</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7562</identifier>
+</mods>

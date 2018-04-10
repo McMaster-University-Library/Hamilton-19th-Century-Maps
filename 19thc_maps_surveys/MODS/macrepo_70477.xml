@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of Ontario</title>
+    <subTitle>10 miles east of Hamilton, according to the survey made by T.A. Blyth, P.L.S.</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1869-10-20</dateCreated>
+    <publisher>Ths. Allen Blyth, P.L.S.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1869</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:3170]</extent>
+    <note>1 map : 58 x 41 cm., on sheet 63 x 56 cm. Map has many tears and discolourations throughout. Significant portions are missing in the centre-top of the map and in the bottom left corner. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This map shows a plan for a lakeshore community known as “Ontario”, some “10 miles east of Hamilton”. Geographically, this would locate the plan in Winona, Ontario. Although there is no directional arrow, the map is oriented so that north (and the shoreline) are found at the bottom of the map. The scale is noted just below the title as “4 Chains to an Inch”.  There is a note of certification found along the left margin of the map which shows that it was registered and dated “at Hamilton 20 Octr. 1869”. The note has been signed by ThS. A Blyth, P.L.S. and H.B. Willson [presumably Hugh Willson, brother of John Willson]. The streets listed are: East Avenue, Centre Avenue, West Avenue, Willson Street [named after the Willson family], Concession Street, Ontario Street, Railway Street, and Elizabeth Street [named for the wife of Hon. John Willson]. Today, East Avenue is now East Street (in a section north of the QEW), Centre Avenue is now Winona Road, and West Avenue is still West Avenue (in a small section south of the QEW). All other streets are no longer in existence. In both top corners are the words “Book 3, Plan 11”. The map outlines a number of buildings and named lots. Just south of the railroad tracks is the “Depot G.W.R.” [Great Western Railway]. Along the shoreline, near the pier [which was built by Wilson], are found a hotel and three large lots owned by “W.P. McLaren, Esqr”, “Hon. John Willson”, and “J.W. Willson”. William Patterson McLaren (1810-1866) was a well-known Scottish businessman, philanthropist and politician who settled in Saltfleet Township. He served as Chairman on the Board of Directors for the Great Western Railroad Company and on the Legislative Assembly of Upper Canada. He was also well-known for his hobby of fruit farming. McLaren’s peaches were even hailed by the famous landscape architect Andrew Jackson Downing (1815-1852) in his journal The Horticulturalist. Hon. John Willson (1776-1860) was a New Jersey-born loyalist who served in the Legislative Assembly of Upper Canada. He was the Speaker of the Assembly from 1825-1828 and he was appointed to the Legislative Council in 1839. He was also a justice of the peace in the Gore District and a judge in the district court. Lastly, (J.W.) John Wesley Willson (1819-1889) was the son of John Willson. The former home of John Wesley became the well-known Winona Park Hotel, an idyllic destination for the passengers of the nearby railway. It is unclear whether the “hotel” depicted in lots 45-47 in the plan is the Winona Park Hotel or if it is the “Lake House” which is illustrated in great detail atop the map. The “Lake House” was the work of listed architect “W. Boultbee” [William Boultbee (1832-1902)]. It is a late Georgian-Italiante structure. The scale of the building is listed as “12 ft to an Inch” [1:144]. It is worth mentioning that the Willson family continued to live in this area for many subsequent years. The 1875 Wentworth County Atlas, for example, shows both “A.B. Wilson” and “J.W. Wilson” in the vicinity of Winona, Ontario (Lots 4-5, Concession BF-1). Much of the land drawn on the map is now residential property today, though the area also includes the John Willson Park and Liuna Gardens.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Saltfleet (Ont.)</geographic>
+    <geographic>Stoney Creek (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Saltfleet</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Winona</citySection>
+      <area>Lot 4, Concession BF-1</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7572</identifier>
+</mods>

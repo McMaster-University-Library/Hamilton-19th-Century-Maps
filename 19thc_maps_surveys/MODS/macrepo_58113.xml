@@ -1,0 +1,49 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Plan of building lots in the City of Hamilton</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1856</dateCreated>
+    <publisher>H. Gregory Lith.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>[1856?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1200]</extent>
+    <note>1 map : col. ; 52 x 46 cm., on sheet 54 x 49 cm. Map lined with archival paper on verso.
+The top left corner of the map is lacking, making part of title illegible. The edges of the map have minor fraying. Colour and shading on the map itself are still fully visible. Map scale: &quot;100 Feet to the Inch.&quot;</note>
+  </physicalDescription>
+  <note>Under the title it reads, &quot;Advertised to be sold by public auction, on the ground on Monday 23, June 1856 at noon by the proprietor, J. Richard Thomson Esquire, Thos. A. Blyth, P.L.S., Hamilton; H. Gregory Lith. Hamilton, J.T. Nottle, Agent.&quot; 
+In top right hand corner, the words &quot;Book 1, part of Plan 10, south of King&quot; are found handwritten.
+All street names found on the map are in existence today, in the locations shown, with the exception of Peel Street (now Hunter Street) and Duke Street (now Stinson Street).  The boundaries on this map are: Wellington Street to the west, Emerald Street to the east, King Street to the north, and Duke Street (Stinson Street) to the south. A number of lots on the map are coloured and shaded. 
+
+Described in Winearls, Mapping Upper Canada 1780-1867, entry 1142, p. 318.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>South of King</citySection>
+      <area>Lot 12, Concessions 2 &amp; 3</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7454</identifier>
+</mods>

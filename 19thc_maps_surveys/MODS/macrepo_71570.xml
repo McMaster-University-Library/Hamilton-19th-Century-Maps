@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of part of the City of Hamilton</title>
+    <subTitle>laid out into lots by the late George Hamilton, Esq. and Robert J. Hamilton, Esq.</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1858-08-06</dateCreated>
+    <publisher>Ths. Allen Blyth, P.L.S.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1858-08-06</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7635</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1580]</extent>
+    <note>1 map : 88 x 59 cm. Map has tearing throughout, especially across folding lines. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This is a plan for property lots in central Hamilton, as originally laid out by early settlers George and Robert Hamilton. To the left of the title the map is numbered: "No. 19 Drawer No. 2". Below the map's title is its directional arrow which is oriented so as to point towards the base as north (upside down). Below that is the surveyor information, scale and date: "Surveyed by the late Samuel Rykman, P.L.S., and Thos. A. Blyth P.L.S.", "Scale: 2 chains = 1 Inch", "Ths. Allen Blyth P.L.S., Hamilton, August 6th 1858." The streets listed on the map include the following: King Street, Main Street, Tyburn Street [now Jackson Street], Peel Street [now Hunter Street], Augusta Street, Catharina Street [now Young Street], Maria Street [now Forest Avenue], Hannah Street/Jane Street [now Charlton Avenue], James Street, John Street, Catherine Street, Cherry Street [now Ferguson Avenue], Morrison Street [now Foster Street], and a "macadamized road" [now approximately Arkledun Avenue and Claremont Access]. The other roads not labelled are Concession Street and Walnut Street (Margaret Houghton, Hamilton Street Names: An Illustrated Guide. Toronto: James Lorimer &amp; Co. Publishers, 2002). The plan builds upon the original town plot designed by George Hamilton (1788-1836) and Nathaniel Hughson (1755-1837) in 1816. The land was purchased by the pair from James Durand (1775-1833) and, as is shown on this map, the lots were parceled into the popular grid pattern. George Hamilton gave his name to the site, which eventually became the City of Hamilton. The original plan (entitled "Early Plan of Hamilton [1820?]") can be viewed in Dear, Drake and Reeds (eds.) "Steel City," Toronto: University of Toronto Press, 1987, 100. George was also the son of early settler Robert Hamilton (1753-1809), "the chief land speculator in early Upper Canada." At his peak, he owned a total of 130,170 acres (Bruce G. Wilson, "Hamilton, Robert," Dictionary of Canadian Biography, www.biographi.ca/en/bio/hamilton_robert_5E.html). George's son was also named Robert Hamilton (1811-1892), making it unclear as to which Robert the map refers. In the top left corner of the map (just north of the escarpment base) is a "Family Burial Ground". This is the burial plot of the Hamilton family, one of the earliest in the city. Interred in this cemetery are George Hamilton, James Durand, and Dr. William Case (1776-1848) among others. The bodies were exhumed from the burial ground and moved to other cemeteries when the city widened the Jolley Cut during the 1950's (correspondence with historian Robin McKee, July 10, 2015). In the top right-hand corner of the map is a large parcel of land owned by "S.B. Freeman, Esq." Samuel Black Freeman (1814-1874) was a Hamilton lawyer who owned a practice on King Street East. He worked in partnership with both William Proudfoot and William Craigie. Freeman was also a clerk of the peace and politician who ran, unsuccessfully, against Isaac Buchanan for the assembly of the Province of Canada in 1861.  Freeman was married to Catherine Hamilton, one of the daughters of George Hamilton. Today, a portion of his land now makes up "Freeman Place", a street which runs east to west from Mountwood Avenue to James Street South (Thomas Melville Bailey ed., "Freeman, Samuel Black," in Dictionary of Hamilton Biography, 76). The plan also outlines the original "hay market" that was installed by George Hamilton in the 1830's. It is found between John and Hughson, just north of Augusta Street. Today, as a tribute, there is a small street south of the Hamilton GO rail station known as "Haymarket Street". The surveyors listed on the plan are "Samuel Rykman, P.L.S.," and Thos. A. Blyth, P.L.S." It appears as though Rykman was the original surveyor on Hamilton's townsite while Blyth acted as the surveyor for this particular plan. Blyth was an established surveyor in Hamilton. For more information on Blyth, see RMC 7609: "Sketch of survey of lot 23 in the 4th Con. and lot 23 in the 5th Con., Saltfleet." Samuel Ryckman (1777-1846) (also spelled as "Rykman") was a farmer and Crown land surveyor who came to Hamilton following the American Revolution. Ryckman completed surveys across Upper Canada. In payment for his surveys, Ryckman received 700 acres of land, centring on Upper James Street and Rymal Road. The hamlet of "Ryckman's Corners" was named after Samuel (Donna Reid and Robin McKee, "Samuel Ryckman" in The Hamiltonians, Margaret Houghton, ed. Toronto: James Lorimer and Co. Publishers, 2003).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Corktown and Beasley neighbourhoods</citySection>
+      <area>Lot 12-13, Concessions 2-3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

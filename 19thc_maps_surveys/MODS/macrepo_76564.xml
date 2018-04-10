@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Hamilton property of Malcolm Cameron]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1850</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>[between 1850 and 1899?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7738</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; sheet 65 x 29 cm. Lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Manuscript map. Cartographer unknown. Handwritten note on verso, "Plan of Hamilton, property [illegible writing] M Cameron". North arrow lacking; north is oriented to the bottom. Map shows extent of land from Cootes Paradise to Third Concession and includes 10 numbered lots as well as undivided land. Some handwritten notes in pencil.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+      <citySection>Cootes Paradise</citySection>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Dundas, east of Sydenham Street]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>[Between 1850 and 1880?]</dateOther>
+    <dateCreated>1850</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7736</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; 79 x 71 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Manuscript map.  Cartographer unknown.  Map is bounded by Sydenham Street in the west and York Street in the east and extends south from the G.W. Railway [Great Western Railway] to Alma Street, Victoria Street, Melville Street, and Park Street.  Some streets north of Alma are not labeled.  A line extending across the map captures a tributary to the Desjardins Canal. The map show 185 numbered lots.  "170" is circled in the bottom right corner.</note>
+  <subject>
+    <geographic>Dundas (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+      <citySection>Dundas</citySection>
+    </hierarchicalGeographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+</mods>

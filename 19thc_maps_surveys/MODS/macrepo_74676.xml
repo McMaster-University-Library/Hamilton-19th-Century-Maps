@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of lots in the city of Hamilton, the property of V.H. Tisdale, Esq.</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1854</dateCreated>
+    <place>
+      <placeTerm type="text">Toronto, Ont.</placeTerm>
+    </place>
+    <dateOther>1854</dateOther>
+    <publisher>Maclear &amp; Co. Lith.</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7683</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map : colour ; 81 x 55 cm. Map lined with archival paper on verso. Large portion of the lower left corner of the sheet lacking. Much damage along the sheet edges.</note>
+  </physicalDescription>
+  <note>“Scale, 50 Feet to 1 Inch.” "Surveyed by T.A. Blyth P.L.S." Streets appearing on map include Wilson Street, East Market Street [now King William Street], King Street, Emerald Street, Tisdale Street, and Steven Street. “Drawer 1, No 1” is written along the upper edge. The word "King" is cut off at the bottom of the sheet. Shows numbered lots ranging from 1 to 100.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+  <name type="corporate">
+    <namePart>Maclear &amp; Co.</namePart>
+  </name>
+</mods>

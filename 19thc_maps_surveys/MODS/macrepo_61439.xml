@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>[Map of Barton and South Streets, Hamilton, Ontario]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1830</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>[between 1830 and 1893]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>No scale given</extent>
+    <note>1 map : col. ; 32 x 39 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>No scale listed. This map also does not list a title, legible author, surveyor, or date.
+On the right side of the map, atop an strip of paper, it reads &quot;No 33, Drawer 6.&quot;  In the top left corner of the map the number &quot;33&quot; is written. The bottom right hand corner features a building labelled &quot;Foundry Mess - Fisher &amp; Coy [Company]&quot;.  There is no directional arrow on the map but it is oriented so that north is at the bottom and south is at the top. Near the bottom of the map is the &quot;Line of the Great Western Railway.&quot; The subdivided lots between Emerald and Victoria have &quot;See No 88&quot; penciled in and the word &quot;Reserved&quot; written across five lots. A number of lots are coloured in green.  
+Boundaries are Barton Street to the south, South Street [now Birge Street] to the north, Emerald Street North to the east, and Wellington Street North to the west. The streets on the map running north-south are written in pencil and are faded yet legible. The larger lots on the western portion of the map are now the location of Hamilton General Hospital.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Landsdale neighbourhood</citySection>
+      <area>Lot 12, Concession 1</area>
+    </hierarchicalGeographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_7457</identifier>
+</mods>

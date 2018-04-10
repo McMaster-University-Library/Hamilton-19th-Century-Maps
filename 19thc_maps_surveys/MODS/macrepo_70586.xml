@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Grand Trunk Railway</title>
+    <subTitle>Connection between the G.W. and N &amp; NW Divisions, Township of Saltfleet</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Hobson, Joseph, 1834-1917</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Engineer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1888-11-21</dateCreated>
+    <publisher>J.W. Tyrrell &amp; Co., Engineers &amp; Surveyors</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1888</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7579</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <note>1 diagram on 3 sheets attached: colour ; 140 x 26 cm, on sheet 186 x 26 cm. Diagram is printed on rag linen paper and lined with a similar material on verso. It is extremely wide and requires folding to transport. There are a few very tiny tears around the "18" written above the title. There is some discolouration in the middle of the profile, at approximately line 20.</note>
+  </physicalDescription>
+  <note>Cross-sectional profile of the Grand Trunk Railway in the Township of Saltfleet. It shows a lateral view of the topography of the area drawn for the engineering purposes of the railway. Below the title is listed the word "Profile" and the two scales: "Horizl 200ft to 1 inch" and "Vertl 20 ft to 1 inch". Also below the title is found the signature of the author: "Joseph Hobson, Chief Engineer, Hamilton, Ont., 21st Novr. 1888" and the signature of the registrar: "Received from R. A[illegible surname] &amp; fyled this 26 day of December A.D. 1888 at 1:10 P.M, M. Martin, Dep. Reg." On left and right edges, it reads "Book 5, Plan 18" and the number "18" has been written above the title and in the top left edge. In the diagram's title, "G.W." stands for "Great Western" and " N &amp; NW" stands for "Northern and Northwestern Railway" both companies at the time.&#13;
+The profile shows all roads and creeks along the length of the landscape as well as detail on the level of Lake Ontario, with caption "Datum = water level Lake Ontario". The curvature of the land is detailed across the profile (in degrees from parallel) and notes on the gradation from level are also made.&#13;
+The entire profile spans approximately 3.35 kilometres or 2 miles. It appears as if it covers approximately lots 26 to 32 in the Broken Front Concession (from Burgess Avenue to Centennial Parkway, along the waterfront). Sources indicate that the diagram's author, Joseph Hobson, was a well known surveyor and engineer. Born in England, Hobson contributed to the profession by designing bridges and railway spans in Montreal, Sarnia, Niagara, Bruce County, Ohio, Michigan, and Nova Scotia. His son, Robert Hobson, surpassed Joseph in fame and capital, becoming a wealthy industrialist and an early leader in the Hamilton steel industry.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Stoney Creek (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Saltfleet</region>
+      <county>Wentworth County</county>
+      <city>Hamilton, Stoney Creek</city>
+      <citySection>Parkview and Nashdale neighbourhoods</citySection>
+      <area>Lots 26-32, Concession BF</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of lots I to IX both inclusive in the Vth and VIth Concessions of Saltfleet</title>
+    <subTitle>Surveyed under instructions from the Honble. the Commr. of Crown Lands</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Dennis, John Stoughton, 1820-1885</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1860-06-04</dateCreated>
+    <publisher>J. Stoughton Dennis, P.L.S.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <dateOther>1860</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7608</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:19800]</extent>
+    <note>1 map : col., 29 x 25 cm, on sheet 38 x 27 cm. Profile is printed on rag linen paper and lined with a similar material on verso.</note>
+  </physicalDescription>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Saltfleet (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Saltfleet</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Stoney Creek</citySection>
+      <area>Lots 1-9, Concessions 5-6</area>
+    </hierarchicalGeographic>
+  </subject>
+  <note>Plan of lots 1 to 9 and Concessions 5 and 6 in the Township of Saltfleet. The area is located just south of the community of Winona. At the base of the plan the scale is listed: "Scale 25ch to one Inch" as well as a date and signature: "Toronto 21 Nov 1860, J. Stoughton Dennis, P.L.S." Just below the title, another date is listed: "Dated 14th June 1860". On the right hand side of the map there is an inset showing a larger view of Concessions 5 and 6 with a note on geographical bearings by surveyor John Stoughton Dennis (1820-1885). Dennis was a well-known surveyor and military commander whose ancestors served in both the War of 1812 and the American Revolutionary War. Dennis worked on surveys for the Grand Trunk and Great Western Railways as well as plans for numerous Upper Canadian towns and townships including: Weston, Muskoka, Haliburton, Parry Sound, Nipissing, and the Bruce Peninsula. He was also credited with completing the surveying for the well-known 1851 "Topographical Plan of the City of Toronto". Through his social status Dennis managed to insert himself into the Canadian military and in 1856 he was made commander of the Toronto Field Battery. In 1862 he was promoted as the new leading officer in the 5th Military District as Lieutenant-Colonel. In 1866 Stoughton was involved in leading contingents in the Battles of Ridgeway and Niagara against the Fenians. He was criticized for abandoning his men in a Fenian attack which resulted in 34 lost lives, effectively ending his military career. Dennis also was made famous for his involvement in helping to trigger he 1869 Red River Rebellion. His confrontational surveying methods led to disdain and uprising among the Manitoba Métis. Stoughton had a son, J.S. Dennis Jr., who also became a prominent surveyor and military officer. Stoughton died in July of 1885. Today the area is largely farmland with a large aggregate quarry in the centre (approximately lot 8, Concession 6 on the plan).</note>
+</mods>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the survey of the 3rd, 4th, &amp; 5th Concessions of the Township of Beverly</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Mackintosh, James</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1861-05-29</dateCreated>
+    <publisher>[Publisher Unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Strabane, Ontario</placeTerm>
+    </place>
+    <dateOther>1861</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7518</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:31680]</extent>
+    <note>1 map : col. ; 26 x 64 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"Scale = 40 Chains to an Inch". The map is numbered “No 31” in the top right corner and on the verso. There are two small directional arrows on the bottom edges of the plan indicating north. The bottom right hand corner of the map features a date and a signature by the surveyor: "MacKintosh, P.L.Surveyor, Strabane P office, 29th May 1861." The map outlines the lots of Concessions III-V but does not indicate settlement. A road is shown going diagonal across the map and labelled “Waterloo Road” [now Hwy 8]. Four concession roads are also featured but unlabelled [they are now Hwy 5 W, Concession 4 W, Concession 5 W, and Concession 6 W]. There are three small communities located within the boundaries of the map: Rockton, Westover, and Troy. It is interesting to note that there was a Strabane Post Office located just east of Freelton in the Township of Flamborough West (as seen on the 1875 Wentworth County of Atlas). Presumably, as per the map's writing, this was the location from which the map was produced and dated.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Beverly (Ont.)</geographic>
+    <geographic>Flamborough (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Beverly</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Ward 14</citySection>
+      <area>Concession 3 to 5</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

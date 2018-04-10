@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Entrance to Crystal Place Grounds</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1860-07</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>[1860 or 1869?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7729</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:240]</extent>
+    <note>1 map ; 44 x 27 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Manuscript map.  "T.A. Blyth P.L.S. July [1860 or 1869]" --date is difficult to transcribe with certainty. Scale "20 ft = one Inch".  Shows entrance to Crystal Palace at intersection between Railway Street [now Locke Street] and Main Street [likely King Street], as well as 20 numbered lots north of "Main Street".  &#13;
+&#13;
+According to an article entitled, "Vanished Hamilton: A litany of loss", in the Hamilton Spectator (Feb. 17, 2013), "the cornerstone of the Crystal Palace was laid in 1860, in preparation for Hamilton to play host to the Provincial Exhibition (which evolved into the Canadian National Exhibition (CNE)). The building was key to the development of the city’s west end.... In 1891, the Crystal Palace and its building were auctioned off to the public." "32" is handwritten in pencil near the top of the sheet.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

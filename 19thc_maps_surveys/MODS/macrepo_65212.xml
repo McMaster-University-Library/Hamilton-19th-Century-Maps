@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of Park and other lots in John Hill’s Survey, Barton 1846</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Sparks, Robert</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1848</dateCreated>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1848</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7517</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1580]</extent>
+    <note>1 map : col. ; 25 x 29 cm. Map lined with archival paper on verso. The top edge is torn significantly. There are major folding marks running in the length and width of the map. These creases are now tears in the material.</note>
+  </physicalDescription>
+  <note>“Scale ½ in to the chain”. The directional arrow is found to the left of the title. Below the title are the initials of the surveyor “R.S.” [Robert Sparks]. The plan shows five lots laid out along the right edge and another lot along the left edge. The centre of the map shows open space, presumably laid out as land for a park. Written across this open space are the words “Hill’s Boro[…]” Atop the map it reads “Concession Road [illegible number]” presumably Concession Road 4 [now Concession Street]. Along the right edge is “Side Line” [now Upper Wentworth Street]. There is writing found on the verso of the map: “Plan of Park Lots in the 11th lot in 4th Concession, Barton. Property of John Hill, 1848. Surveyed by Ro Sp[arks].” The number “134” is also found on the back.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Inch Park neighbourhood</citySection>
+      <area>Lot 10, Concession 4</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

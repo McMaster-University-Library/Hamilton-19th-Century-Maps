@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of planned village at present-day Winona, Ontario]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1820</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.?]</placeTerm>
+    </place>
+    <dateOther>[between 1820 and 1869]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7611</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 37 x 26 cm., on sheet 47 x 31 cm. Map has multiple creases and tears throughout, most notably along folding lines. Along the bottom right side there is a significant portion missing. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This plan is a proposal for lots along Lake Ontario, the location is in present-day Winona in the former Township of Saltfleet. The outline of lots corresponds to the same location of other maps in our collection: RMC 7572 and RMC 7573. The map does not include a title, scale, author, or directional arrow.&#13;
+&#13;
+The map is oriented so that lot numbers are written north-to-south and writing and labeling is written south-to-north. The Great Western Railway tracks are shown at the top of the map (the southern boundary) and the waterfront is shown at the bottom of the map (the northern boundary). There are no street names listed on the plan but the north-south running streets correspond approximately with East Street, Winona Road, and Lido Drive.  The east-west running streets correspond approximately with North Service Road (“Baseline of first Concession”) and Winona Park Road (“This Street…about 850 to 900 feet from the Lake…”). &#13;
+&#13;
+Atop the map is written “The village lots marked thus X…” and there are numerous X’s penciled on various lots on the plan. There are other marking on the map including “Hon. J. Willson” in lot 46 and “J.W. Willson” in lot 49. These locations, including the barn drawn in lot 25, are consistent with the locations of the property of the Willson family as found in the “Plan of Ontario” (RMC 7572) and the 1875 Wentworth County Atlas (the family name is sometimes written as “Willson” and other times as “Wilson”). For more information on John Wesley Willson (1819-1889) and Hon. John Willson (1776-1860), see “Plan of Ontario” (RMC 7572). &#13;
+&#13;
+Adjacent to these lots is lot 69 atop of which is written the following: “This lot is to be reserved for Capt [Mafren?]”. Along the north shore is an object which appears to be a pier jutting out into the lake. Next to the drawing it reads “Pier to be about [?] rods wide”. Another possibility based on the appearance of the calligraphy is that the word is actually “weir” which is a dam across a waterway which alters its flow. &#13;
+&#13;
+The map also features descriptive writing along the right side and at the base of the map. Along the right side is written “J.W. Willson to have 5 acres with house [,] barn”. At the base of the map is a paragraph of writing which is largely illegible, though some words can be deciphered: “Mr Blyth will please us…in buying out the property…Lake or water lots to be about 90 to 100 feet…250 deep as they may angle…the other village lots…not over 1¾ acres each.  Here John Willson to have… ” The “Mr. Blyth” mentioned in the paragraph was likely Thomas Allen Blyth, P.L.S., a well recognized local land surveyor who also laid out the corresponding “Plan of Ontario” (RMC 7572).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Saltfleet (Ont.)</geographic>
+    <geographic>Stoney Creek (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Saltfleet</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Winona</citySection>
+      <area>Lots 4-5, Concession BF-1</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

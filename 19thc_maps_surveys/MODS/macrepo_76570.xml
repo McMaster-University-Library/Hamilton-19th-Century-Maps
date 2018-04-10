@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of part of lot no. 27 in the 2nd Conn. Flamboro West. Containing 18-1/2 acres.</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1856-03-29</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1856</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7494</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:2400 approximately]</extent>
+    <note>1 map ; sheet 29 x 42 cm. Roads hand coloured. Hole 2 cm in diameter in middle of map. Lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Manuscript map. "Thos. Allen Blyth, P.L.S., Hamilton Novr. 18th, 1853" North arrow oriented to the left. Scale "3c[hains] to one Inch". Map extends from Burlington Bay in the east to "Road leading over Burlington Heights" [currently York Boulevard] in the west. A road labelled "Road from Dundas to Wellington Square" bounds the north. Lower half of map sheet contains "Reference" for "Survey of Grave Yard" and "Survey of Road leading to the Grave Yard". Upper right corner and centre of map sheet contain handwritten notes of certification in ink. Along left edge, "Book 1, Plan 50". Upper left corner, "30th page". Handwritten on verso, "Page 30th, [illegible writing] Hopkins".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+      <citySection>Burlington Heights</citySection>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the south ends of lots nos 13 and 14 in the 4th Conn of Barton, divided into 59 lots of about one acre each</title>
+    <subTitle>including Sheriff Thomases' private survey</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allan</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1853-06-23</dateCreated>
+    <dateOther>1853</dateOther>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:2,380]</extent>
+    <note>1 map : colour ; 36 x 42 cm. Map lined with archival paper on verso. Large portion of sheet's right edge lacking.</note>
+  </physicalDescription>
+  <note>"Scale 3 chs. one inch". The bottom right includes surveyor's signature and date, "Ths. Allen Blyth P.L.S., Hamilton, June 23rd 1853". The left edge of the sheet has handwritten note, "No 72. Sheriff Thomases, Drawer No 1". Map indicates that "Robt Hamilton's Survey" extends from James Street.  Streets appearing on the map include: Original Road allowance [now Wellington Street], Fifth Concession Road [now Fennell Avenue], William Street [now Brucedale Avenue], and James Street [now Queensdale Avenue].  Current street information is according to the Historical Atlas of the County of Wentworth (1875). The exact street correlation of the "Macadamized Road" is unknown.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+      <area>Concession 4</area>
+    </hierarchicalGeographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_7643</identifier>
+</mods>

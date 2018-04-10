@@ -1,0 +1,46 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Plan of survey of part of lot no 24 in the 2nd conn Flamboro&apos; West containing 18 1/2 acres</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1853-11-18</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1853</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:2380]</extent>
+    <note>1 map: col. ; 29 x 42 cm. Map lined with archival paper on verso. There is a small tear in the centre of the map, just above the directional arrow. Along the right edge of the map there is a line of significant fading and discolouration.</note>
+  </physicalDescription>
+  <note>&quot;Scale 3c to one Inch.&quot; This map features a significant amount of writing surrounding the survey itself. Below the title, in the bottom right corner there is a date and signature, &quot;Ths. Allen Blyth P.L.S., Hamilton - Nov. 18th 1853.&quot;  In the centre of the map there is illegible script that is dated &quot;this 29th day of March A.D. 1856...&quot; Below this there is print script outlining the dimensional details of the &quot;Survey of Road leading to the Grave Yard...&quot; To the left of this information are details of the &quot;Survey of the Grave Yard.&quot; This is found under the &quot;Reference&quot; section. At the top right of the map there is a paragraph of illegible script signed &quot;J.S. Hopkins&quot;. &quot;Book1, Plan 50&quot; is written on the left edge of the map. Other writing and numbering found on the map includes &quot;30th Page&quot;, &quot;# 195&quot;, and &quot;17&quot;. The directional arrow is found in the centre of the survey, indicating that the map is oriented with east being up. On the upper right hand corner of the verso it reads, &quot;Page 30th, Joseph Hopkins.&quot;  The roads featured on the map are titled &quot;Road leading to Burlington Heights&quot; [now Old Guelph Road] and &quot;Road from Dundas to Wellington Square&quot; [now York Road]. The graveyard mentioned on the map matches the exact location of the Hopkins Family Cemetery today (also known as the Valley Cemetery).</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Flamboro West</region>
+      <county>Wentworth County</county>
+      <citySection>Guelph neighbourhood, northeast of Dundas</citySection>
+      <area>Lot 24, Concession 2</area>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+    <geographic>Dundas (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Flamborough (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_7494</identifier>
+</mods>

@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Sketch of survey lots in the City of Hamilton, the property of Robert N. Law, Esqr.</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1853-06-10</dateCreated>
+    <publisher>Tho. Allen Blyth, P.L.S.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1853</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1200]</extent>
+    <note>1 map : col. ; 50 x 39 cm. Map lined with archival paper on verso. There are a number of creases and tears running from the top to the bottom of the map. The bottom right hand corner has a portion missing, appears as though it was cut out.</note>
+  </physicalDescription>
+  <note>&quot;Scale 100 Feet to the Inch.&quot; The map is numbered, on the left edge it reads &quot;No 29 Drawer 6&quot; in handwriting. The top right hand corner features a hand-drawn box with a penciled sketch. There is an inelligible note written in pencil above Roswell Street regarding the lots below. The signature reads &quot;R.N. Law&quot;. The streets listed include Queen Street North, Robert Street, Douglas Street, and Roswell Street. Only Queen Street is in existence, in place, today.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Central</citySection>
+    </hierarchicalGeographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_7495</identifier>
+</mods>

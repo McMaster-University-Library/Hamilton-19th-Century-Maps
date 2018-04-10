@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Carroll's Point, Hamilton]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1840</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>[between 1840 and 1880?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7855</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : colour ; sheet 70 x 42 cm. Hand coloured. Lined with archival paper on verso. Relief shown by hachures.</note>
+  </physicalDescription>
+  <note>Manuscript map. "Thomas Allen Blyth, Esq. with [illegible writing]". North arrow lacking; north is oriented to the upper left. Map covers the property of Peter Carrol [currently known as Carroll's Point with double "l" spelling], the Desjardins Canal, and surrounding area. Colour is used to identify water areas as well as a pink polygon with "2 degree curve, Radius of curve 2865 feet" written inside. Near the centre of the map, "XIII". In lower left corner, handwritten "No. 99, Drawer 3".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+      <citySection>Desjardins Canal, Carroll's Point</citySection>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

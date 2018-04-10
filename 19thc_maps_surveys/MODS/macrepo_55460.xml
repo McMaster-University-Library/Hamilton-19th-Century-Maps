@@ -1,0 +1,52 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Plan of lot no. 1 in the broken front &amp; part of lot no. 17 in 2nd conn, Township of Barton, the property of Allan MacNab Esqr.</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Black, Hugh, 1792-1854</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1833-09-12</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">[Canada]</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+    <dateOther>1833</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1,580]</extent>
+    <note>1 map : col. ; 58 x 40 cm.   Three corners of the sheet, particularly the upper right corner, are lacking.  Tears appear along the right and lower edges.  There is also a tear extending down the sheet, near the left edge, where pieces of the sheet are lacking.  Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>The written title of the map is &quot;Plan of Lot No 1 in the Broken Front &amp; Part of Lot No 17 on 2nd Conn, Township of Barton, The Property of Allan MacNab, Esqr.&quot; On the right side of the map is written &quot;No 3, Drawer 5&quot;, indicating this is the fifth drawing of map number three (of a series). 
+Under the title of map, it reads &quot;Surveyed by Hugh Black Sept 12th 1833.&quot; Bottom right hand corner is lacking part of the map, causing omission in handwritten information, it reads: &quot;A Copy by Allan...D. Pe...Aug. 2nd 18....&quot;. There are additional residential lots, handwritten in red, found at the corner of Concession and &quot;Road Granted by Mr. McNab&quot;. 
+
+Scale: &quot;2 Chs. to one Inch&quot; found handwritten in bottom left hand corner.
+
+The map is oriented so that south is up and north is down, as indicated by the directional arrow near the centre and Burlington Bay at the bottom of the map. 
+The boundaries on the map are: York Street to the south, Burlington Bay to the north, &quot;Road Granted by Mr. MacNab&quot; (now Locke Street) to the west, and &quot;Original Road Allowance&quot; (now Queen Street) to the the east. Concession 2 (now Barton Street) runs east to west in the middle of map. The map location is just east of Inchbury Street and east of the estate property of Sir Allan MacNab.
+
+In Winearls&apos; Mapping Upper Canada 1780-1867, entry 1436, p.317, there is an entry of a plan &quot;purporting to be a true copy of a survey made by Hugh Black D.P.S. in September 12th 1833 to which is added the red lines exhibiting the proposed site of the Great Western Rail Road...&quot; This indicates that a subsequent copy of this map was made with additions.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Strathcona neighbourhood</citySection>
+      <area>Lot 17, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7499</identifier>
+</mods>

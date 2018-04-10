@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Hamilton from MacNab Street to Great Mary Street]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1836</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>[1836]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7533</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:800 approximately]</extent>
+    <note>1 map ; sheet 49 x 73 cm. Some handwritten details in red ink. Some handwritten notes and calculations in pencil. Map lined with archival paper on verso. Many tears along edges. Horizontal tear across the middle of the sheet.</note>
+  </physicalDescription>
+  <note>Manuscript map. Cartographer unknown. Visual scale [38 mm = 100 feet]. Map begins at MacNab Street in the west extending east to Great Mary Street [currently Mary Street] and is bounded by Oak Street [currently Strachan Street] in the north and Stuart Street in the south [currently Stuart does not extend beyond James Street]. Map also shows the Great Western Railway and over 70 numbered lots. Illegible signature near lower right corner which includes date "1836". Stamped in upper left corner, "City".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the survey of part of lot no 46 in the 2nd Concession of the Township of Ancaster</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1842-10-24</dateCreated>
+    <publisher>[Publisher Unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1842</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7461</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:2380]</extent>
+    <note>1 map : col. ; 38 x 28 cm. Map lined with archival paper on verso. The top of the map has some tearing, not affecting the content of the map.</note>
+  </physicalDescription>
+  <note>"Scale 3 chains to an Inch". The map is numbered “No 57, Drawer 1” on left edge. There is a directional arrow on right side of map pointing down, indicating that north is towards the bottom. The bottom right hand corner of the map features a date and a signature by the surveyor: "Ths. Allen Blyth, D.P.S., Hamilton, October 24th 1842." The map is in the vicinity of the Ancaster Old Mill. The “Road from Ancaster to Dundas” [now Old Dundas Road] is shown on the map in two separate sections, the second section referred to as “Public Road”. The “2nd Concession Road” running east-west is no longer in existence today but may have been a continuation of Lower Lions Club Road. There is a “Mill” and a “Mill House” drawn at the base of the escarpment. The Ancaster Creek is shown winding through the survey with the section at Sherman Falls featured.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Ancaster (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Ancaster</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Old Mill neighbourhood</citySection>
+      <area>Lot 46, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of park-lots laid out in the north part of lot no.5 in the B.F. Con of the Township of Saltfleet</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Carroll, Cyrus, 1834-1923</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Ontario Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1893-04</dateCreated>
+    <publisher>Springer, Lewis</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1893</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7531</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1200]</extent>
+    <note>1 map : col., 71 x 56 cm., on sheet 75 x 60 cm. Map lined with archival paper on verso. Map has numerous blotches along its edges.</note>
+  </physicalDescription>
+  <note>"Scale 100 feet to an inch". The map features a plan of two blocks (Block A and Block B) located between the lakefront and Central Avenue [now Winona Road]. The lots are found north of Winona, Ontario in the former Township of Saltfleet. A large directional arrow found below the lots indicates north as the bottom of the map.  To the left of the title are the words "County 9". There are four certificates featured on the map. To the right of the title there is a certificate of reception of the map at the Deputy Office of the County of Wentworth, signed by "Lewis Springer, Registrar". On the map's left edge there is a certificate of accuracy signed by Cyrus Carroll (Ontario Land Surveyor) and G.S. Murphy (witness). At the base of the map there is another signed by the owners and the same witness. Finally, in the top right corner there is a large statement of oath by the witness "George Sisson Morphy"</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Saltfleet (Ont.)</geographic>
+    <geographic>Winona (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Saltfleet Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Winona North, Saltfleet</citySection>
+      <area>Lot 5, Broken Front</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

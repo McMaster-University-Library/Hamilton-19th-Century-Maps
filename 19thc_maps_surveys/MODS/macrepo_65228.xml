@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan showing resubdivision of lots nos. 104 to 112 Allen &amp; Matheson Survey</title>
+    <subTitle>by R.T. Wilson Esq. in the Town of Dundas, County of Wentworth</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Wilson, R.T.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Property owner</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Mackay, James J.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Ontario Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1906-02-06</dateCreated>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1906</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7538</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map : col. ; 56 x 42 cm, on sheet sheet 60 x 45 cm. Map colour is blue. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Under subtitle it reads, "Scale=50ft.=1in." Directional arrow found on the left side of the map. Includes signed oath of approval dated "6th Feby 1906" by R.T. Wilson and witnessed by Susan E. Rusk at the City of Hamilton. At the base of the map there is a certification by the surveyor "James J. Mackay, Ontario Land Surveyor, dated Feb 1906." Below the signatures there is a statement which reads "Received from R.T. Wilson and filed or registered this 16th day of February 1906 at 3:50 o'clock PM as No. 391...[illegible signature] at residence." The map shows a layout of lots between four streets: Short, Sydenham, Queen, and Alma. All four streets are in existence today, as shown, with the exception of Short Street.</note>
+  <subject>
+    <geographic>Dundas (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of West Flamborough</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Dundas - Sydenham neighbourhood</citySection>
+      <area>Lot 16 Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

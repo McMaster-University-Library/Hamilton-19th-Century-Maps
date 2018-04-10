@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Hamilton, bounded by Burlington, Barton, Mary and James Street]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateCreated>18--</dateCreated>
+    <dateOther>[18--?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7679</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; 66 x 52 cm. Map lined with archival paper on verso. Map sheet is very damaged and street names are barely legible.</note>
+  </physicalDescription>
+  <note>Streets appearing on map include James Street, Hughson Street, John Street, Catharine Street, Mary Street, Burlington Street, Wood Street, Warren Street [now Macaulay Street], Hannah Street [now Picton Street], Wilcox Street [now Ferrie Street], and Union Street [now Simcoe Street], Strachan Street, Stinson Street [now Murray Street], and Barton Street. Hughson Street was named after Nathaniel Hughson, who named several streets on his property after family members, including James Street, after his son James Hughson, who was a road builder (Bailey, Dictionary of Hamilton Biography, p. 106).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

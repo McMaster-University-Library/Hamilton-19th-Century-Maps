@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of survey of lot 23 in the 4th Con. and lot 23 in the 5th Con., Saltfleet</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1856</dateCreated>
+    <publisher>Ths. Allen Blyth, P.L.S.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1856-10-24</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7609</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 56 x 20 cm, on sheet 57 x 33 cm. There is minor discolouration throughout on the beige map. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This survey shows a number of rural lots in the former Township of Saltfleet located on the east mountain of Hamilton. The map is oriented so that north is at its base and the directional arrow found above the title reflects this fact. The escarpment is shown spanning lots 22-24 in the 4th Concession. Streets listed on the map include: the "6th Concession" [now Mud Street], the "5th Concession" [now Green Mountain Road], the "4th Concession" [now King Street East], and the "Original Road Allowance between Lots 22 x 23" [now Upper Centennial Parkway]. In the centre of the map there is also a small prospective road following the escarpment edge [now Ridge Road]. &#13;
+In the bottom left corner the map is numbered: "No 69 Drawer 2". Along the right edge there is a note which makes mention of the map's purpose: the transfer of ownership of lot 22 and part of lot 23 in the 4th Concession from "Thos. Waddell" to "A. Corman". All of the landowners listed on the map include John Williamson, Thomas Waddell, Alfonsus Corman, and Thomas Davis. The 1875 Wentworth County Atlas does not list any of these landowners as living on the lots, but it does show relatives of Alfonsus Corman as living nearby: "H.S. Corman" and "Tanis H. Corman" (lot 22, Concession 4). The survey was completed by Thomas Allen Blyth, P.L.S. It is signed and dated by Mr. Blyth in the bottom right hand corner: "ThS. Allen Blyth, P.L.S. Hamilton, Oct. 24th 1856". Blyth was one of the most prolific surveying professionals of the area in the 19th century, the "dean of Hamilton's Victorian surveyors" (Doucet and Weaver 1991:46). Blyth became a Provincial Land Surveyor on April 20, 1836 and worked in Hamilton for years. He is listed as having an office on King Street West in 1852.  The map area is now a mix of agricultural, rural, and suburban land and includes the Devil's Punchbowl Conservation Area and the Starlite Drive In Theatre.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Saltfleet (Ont.)</geographic>
+    <geographic>Stoney Creek (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Saltfleet</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Stoney Creek, East Hamilton mountain</citySection>
+      <area>Lot 23, Concession 4; Lot 23, Concession 5</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

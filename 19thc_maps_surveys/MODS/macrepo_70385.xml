@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of village lots in Waterdown</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Mackintosh, James</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1856-10</dateCreated>
+    <publisher>Hamilton Registry Office</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+    <dateOther>1856</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:792]</extent>
+    <note>1 map : 26 x 25 cm., on sheet 36 x 36 cm. Map has multiple creases and tears throughout, most notably down the centre of the map. In the bottom left hand corner there appears to be a small burn mark. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This localized survey is of lots in the former village of Waterdown. The streets listed are "Main Street", "Kelly Street", and "John Street" (name not listed). All three streets are in existence today. Many of the homes found on these streets are now historic, likely dating back to their construction during this period. &#13;
+In its entirety, the title reads: "PLAN of Village Lots in Waterdown being composed of portions of Lots 5, 6, 13 &amp; the whole of 14 lying on the north side of John Street and on the easterly side of Main Street as shown on the PLAN of Waterdown by Henry Winter, P,L,S." Below the title is listed the scale: "Scale - One Chain to an Inch." To the right of the title is found the directional arrow which points to the top right corner as north. Near the arrow is found the map's numbering: "No 34" and a certification of the survey with a date included. Most of the writing is illegible. To the left of the title is an illegible statement and signature by the "Deputy Registrar". In the bottom left hand corner of the map is the numbering: "Book 2, Plan 34". Lastly, in the bottom right hand corner is the author's name and date: "Surveyed by MacKintosh, P.L.Surveyor, Oct. 1856".</note>
+  <subject>
+    <geographic>Waterdown (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>East Flamborough (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of East Flamboro</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Waterdown</citySection>
+      <area>Lots 5, 6, 13, 14, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7570</identifier>
+</mods>

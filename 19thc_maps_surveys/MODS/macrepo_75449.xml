@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Property of Thos. Stinson Esq Hamilton C.W.</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1830</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>[between 1830-1864?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7717</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given.</extent>
+    <note>1 map ; sheet 40 x 46 cm. Map lined with archival paper.</note>
+  </physicalDescription>
+  <note>Streets appearing on map include: Main Street, Burris Street, Argue Street [now Fairleigh Avenue], Burlington Street [now Holton Avenue], and Ida Street [what would be Aikman Avenue]. Shows 64 numbered lots. The left edge of the sheet has a handwritten note, "No 82 Drawer 6".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

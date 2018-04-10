@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the survey of that part of David Kirkendall's Survey in the town of Hamilton</title>
+    <subTitle>made by Thos. Allen Blyth D.P.S. Septr. 1845</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1845-08</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>1845</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7680</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1,440]</extent>
+    <note>1 map : colour ; 38 x 47 cm. Map lined with archival paper on verso. There are significant pieces missing throughout the middle of the map.</note>
+  </physicalDescription>
+  <note>"Scale 120 Feet to an Inch". Streets appearing on the map include Mulberry Street, Cannon Street, Vine Street, Merrie Street [not in existence today], York Street, Market Street [does not extend to this far east today], King Street, Bay Street, Park Street, Macnab Street, and James Street. "Drawer No 1 No. 25" is handwritten in bottom left corner. "Thos. Allen Blyth P.L.S. Augst 1845" is handwritten in the bottom right corner, indicating certification. The land was owned by David Kirkendall, whose son, Samuel Kirkendall settled on a piece of property in what is now Hamilton, west of James Street and north of King. The Kirkendall's farm, which had an orchard, was located on Market Street near Bay Street, and at least in the mid-1850s he was carrying on a lumber business (Bailey, Dictionary of Hamilton Biography, p. 117).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

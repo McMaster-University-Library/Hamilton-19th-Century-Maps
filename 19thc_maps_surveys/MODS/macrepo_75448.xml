@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of West Hamilton annex being a subdivision of part of the gore of Ancaster</title>
+    <subTitle>as laid out for Messrs. Burke &amp; Co.</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Barrow, Ernest G.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1908-09-26</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1908</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7710</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map ; 86 x 45 cm. Blueprint-like background with white details. Some tears near the middle of the sheet, and along the edges. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"By E.G. Barrow. O.L.S." "Scale 50' to 1"". Streets appearing on map include: Fifth Avenue [now Ward Avenue], Royal Avenue, Holmes Avenue, Whitney Avenue, Leland Street, Emerson Street, and Toronto Hamilton &amp; Buffalo Railway [now Hamilton-Brantford Rail Trail]. Certification statements with signatures at the bottom of the sheet. One certification statement handwritten in black ink reads, "I certify this is a correct copy of the original plan prepared by the E.G. Barrow O.L.S."</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

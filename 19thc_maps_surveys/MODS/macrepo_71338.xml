@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of the survey of part of lot no. 19 in the 2nd concession of the Township of Barton</title>
+    <subTitle>Containing thirty six acres - two roads, the property of Sir Allan N. MacNab</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1845-08-04</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1845-08-04</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7629</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:2380]</extent>
+    <note>1 map: 43 x 35 cm. Map has numerous mathematical equations scribbled on the sketch. There are a few tears throughout, most notably along crease folds. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This is sketch map of Burlington Heights, the property of Sir Allan MacNab (1798-1862). The map was surveyed by Thomas Allen Blyth, his signature found at the base of the sketch: "Ths. A. Blyth, P.L.S., Hamilton August [day] 1845." Blyth was a prominent surveyor in Hamilton during the Victorian era, having done countless plans of the region (for more information on Blyth, see RMC 7609: "Sketch of survey of lot 23 in the 4th Con. and lot 23 in the 5th Con., Saltfleet"). The plan's directional arrow is found in the top half of the map. Along its left edge is the word "sketch" and along its right edge is numbering "No 45 Drawer 2". The scale is found in the bottom left-hand corner: "Scale 3c to an Inch". On ther verso of the map there is also writing: "Sketch of the Survey of part of no. 19 in the 2nd Conn of Barton", "Plans", and "ThS A. Blyth P.L.S., Hamilton, August 4, 1845". The streets drawn are the "original road allowance between nos. 18 and 19" [now Dundurn Street], the "road from Burlington Heights to Hamilton" [now York Boulevard], and an unlabelled road [now Jones Street]. Of note on this map is the unusual configuration of York Boulevard, which was later altered for traffic safety purposes. This parcel of land is found at the westernmost extremity of Barton Township, sitting adjacent to Cootes Paradise. The line down the left side of the parcel reads "this line between lot no. 19 in the Township of Barton &amp; the Government Reserve." The property owner, Sir Allen MacNab, was arguably the most influential Hamiltonian in the city's history. MacNab was a Canadian political leader, businessman, land speculator, lawyer, and soldier. He was a moderate Conservative who served as a Premier for the Province of Canada before Confederation (Peter Baskerville, "MacNab, Sir Allen Napier" in Dictionary of Canadian Biography, vol. 9, University of Toronto/Université Laval, 1976). This map depicts the area just southwest of Dundurn Castle, the Italianate mansion constructed by MacNab in 1835. The map also encompasses Dundurn Park, Kay Drage Park, Hamilton Cemetery and the Chedoke Expressway.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Dundurn and Strathcona neighbourhoods</citySection>
+      <area>Lot 19, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

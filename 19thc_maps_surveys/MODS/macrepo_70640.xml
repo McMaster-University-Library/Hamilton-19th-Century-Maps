@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Binbrook Township</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1850</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+    <dateOther>[between 1850 and 1880?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7571</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 39 x 31 cm., on sheet 59 x 38 cm. Map has numerous dark blotches throughout. Map is missing a large section in the top left corner and its edges are receding. There are also multiple tears running vertically and horizontally across the map. It has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Map shows Binbrook Township (Concessions 1-4 and 7-9) and includes lots and property “blocks”. The map title is written on the right margin “Binbrook Township”. The map has a directional arrow stretching across the top of the map and pointing to the bottom as north. The town of Binbrook  [known as Hall’s Corners prior to 1875] is located between Concessions 3 and 4, block #11. In 1791, the concessions were numbered and divided into five blocks each, numbered east to west. Each 1000 acre&#13;
+block was subdivided into 200-acre single front lots. The exception was Block 5 (along the western edge), which contained only 600 acres of land and it was divided into three 200 acre lots. Additional&#13;
+lands located south of Concession 4 (Concesssions 7-10) were incorporated into the township in 1800. The approximate outlines of the map are Trinity Church Road to the west, Rymal Road to the north, Westbrook Road to the east, and Hallbrook Road to the south. In the vicinity of Binbrook is an area labeled “Glebe”, meaning an area of land used to financially support the ministerial services of a parish priest.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Glanbrook (Ont.)</geographic>
+    <geographic>Binbrook (Ont. : Township)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Binbrook Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Binbrook</citySection>
+      <area>Lots 17-33, Concession 1-4, 7-9</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

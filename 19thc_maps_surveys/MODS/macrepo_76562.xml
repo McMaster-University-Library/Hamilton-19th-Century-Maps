@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Copy of plan of ordinance property Burlington Heights in the City of Hamilton</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario. Commissioner of Crown Lands</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1830</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>[between 1830 and 1870]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7731</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; sheet 47 x 96 cm. Some details in red. Map sheet has extensive damage. Large portion of right corner lacking. Many tears along edges. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Manuscript map. "As surveyed under instructions from the Commissioner of Crown Lands". Map is bounded in the west by Cootes Paradise and extends east to Burlington Bay, showing the Desjardins Canal, the property of Sir A.N. MacNab alongside Hamilton Cemetery, Great Western Railway, and includes close to 100 numbered lots. Shows Main Road [now York Boulevard] as it branches out to possibly Old Guelph Road and currently Highway 403. Handwritten in upper corners, "Book 2, Plan 41".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+      <citySection>Burlington Heights, Cootes Paradise, Desjardins Canal</citySection>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

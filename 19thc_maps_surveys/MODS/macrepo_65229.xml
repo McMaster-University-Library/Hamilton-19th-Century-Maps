@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Hatt's Survey Dundas</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1820</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">[Canada?]</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Dundas?]</placeTerm>
+    </place>
+    <dateOther>[between 1820 and 1900]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7546/7</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map: col. ; 15 x 52 cm. Map is printed on rag linen paper and lined with a similar material on verso.</note>
+  </physicalDescription>
+  <note>Very little information is indicated on the map. To the left of the title it reads, "No 75 Drawer No 2". The map does not feature any scales, directional arrows, surveyor information, or signatures. The map is of "Hatt's Survey" in downtown Dundas. The lots shown are found on the north side of King Street West in Dundas. All of the streets shown are in existence today in the manner found on this map, with the exception of Colbourne Street [now Park Street] and Mountain Street [now Melville Street].</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Dundas (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of West Flamborough</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Dundas</citySection>
+      <area>Lots 14-16, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

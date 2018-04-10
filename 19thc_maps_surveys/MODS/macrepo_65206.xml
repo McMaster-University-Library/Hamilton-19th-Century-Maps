@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of survey of part of lot no 8 in the 1st concession of the "Township of Barton".</title>
+    <subTitle>Containing 123 1/2 acres</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1862-10-02</dateCreated>
+    <publisher>Smith, Sheldon D.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1862</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7501</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:4750]</extent>
+    <note>1 map : col. ; 24 x 39 cm. Map is printed on rag linen paper and lined with a similar material on verso. There are small tears throughout the map, including two in the upper left hand corner which make the map's numbering illegible.</note>
+  </physicalDescription>
+  <note>"Scale 6chs = one inch." The map is oriented so that the top is west, with the directional arrow pointing to the right, which is north. Below the title is the surveyor's information: "Thos. A. Blyth. P.L.S. Hamilton, C.W. Octr 2nd 1862". The map's copy hand and the individual to whom the sketch was given are also listed: "Copied by D. Sheldon Smith. Brantford, C.W. 25/10/62", "To Sheriff Smith. Brantford, C.W." The map is numbered "Drawer No 1" in handwriting. The roads included on the map are "Original Road allowance" [now Sherman Avenue], "1st Concession" [now Barton Street], and an unnamed road at the southern end of the map. The names of two property owners are mentioned on the map: "Lottridge" and "Case". An inlet of the shoreline is shown to reach well into the city.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Stipley neighbourhood, Industrial Sector C</citySection>
+      <area>Lot 8, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

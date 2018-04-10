@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of survey of lots in the Village of Ancaster the property of Mr MacCrimmon</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1869-09-18</dateCreated>
+    <publisher>[Publisher Unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Ancaster</placeTerm>
+    </place>
+    <dateOther>1869</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7516</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:2380]</extent>
+    <note>1 map : col.; 38 x 21 cm. Map is printed on rag linen paper and lined with archival paper on verso. The top right corner of the map seems to be cut out and re-pasted on the map.</note>
+  </physicalDescription>
+  <note>“Scale 3ch = 1 Inch”. The map is oriented so that the top of the map is south, with the directional arrow pointing down. Numbering is found atop the map in handwriting, “No 77 Drawer No 2.” At the base of the map there is the information of the surveyor: “Thos. A. Blyth. P.L.S. Sept 8th 1869.” The map is inscribed with the words “Copy”. The roads included on the map are “Mountain Road from Hamilton to Ancaster” [now Rousseaux Street], “Academy Street” [same name], and “Private Lane” [now Lodor Street]. The map also includes a school lot which is no longer in existence today.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Ancaster (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Ancaster</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Ancaster Village, Maywood/St. John’s neighbourhood</citySection>
+      <area>Lot 45 &amp; 46, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

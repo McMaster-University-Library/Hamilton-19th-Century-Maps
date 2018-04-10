@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Thomas Stinson's Survey of the Easterly Limits of the City</title>
+    <subTitle>Lots from no. 1 to 42 surveyed by Robt. Kerr, P.L.S. and no. 43 to 70 surveyed by me ThS. Allen Blyth, P.L.S.</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>04-1855</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>04-1855</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7627</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 27 x 28 cm, on sheet 43 x 34 cm. There is some discolouration along the edges of the map. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This map is a layout for 70 building lots within the City of Hamilton, in the former Barton Township. The survey was done for land on the easternmost border of the city during this time. The map does not feature a publisher or directional arrow. Just below the title and surveyor signature is the date: "Hamilton, April 1855." Along the left-hand border it is numbered: "No. 55 Drawer 6". The streets depicted on the map include "East Market St." [now King William], "King St. East", "Ashley St.", Steven Street [not labelled], and Nightingale Street [not labelled]. On East Market Street there is a building footprint for an "intended marketplace" which, based on subsequent maps, appears to never have been built. The land on the map divided into lots was the property of Thomas Stinson (1798-1864), a wealthy Hamilton landowner and subdivider. Along with his brothers John and Ebenezer, Thomas came to Canada from Ireland in 1826 and settled in Hamilton in 1830. The brothers began dealing dry-goods and groceries at the corner of King and John Streets, building the first brick business block in Hamilton (the Stinson Block) in 1837. Soon after Thomas entered real-estate and bought property across the city as well as in cities such Chicago and St. Paul. He also established himself as a banker, creating Stinson's Bank in 1847. There are numerous sites now named after the Stinson family including: Stinson Lofts, Stinson Street, the Stinson Block, and Stinson neighbourhood (T. Melville Bailey, ed., "Stinson, Thomas," Dictionary of Hamilton Biography vol. I, Hamilton: W.L. Griffin Limited, 1981). The land surveyors for the lots in question were Robert Warren Kerr, P.L.S. (1810-1873) and Thomas Allen Blyth, P.L.S. (dates unknown). Kerr, who surveyed lots 1 to 42, was born in Ireland and settled in Dundas in 1832. He was trained as an engineer and became a lead engineer for the Desjardins Canal Company. Kerr also worked on the original section of the Grand Trunk Railway between Hamilton and Toronto. Kerr eventually became the City Engineer of Hamilton and subsequently City Chamberlain. He is known to have been involved in numerous local and regional surveys including land in Peel Township and the Township of Egremont. (S.C. Staveley Kerr, Colin W.G. Gibson, and Col. vanNostrand, "Robert Warren Kerr and Francis Kerr," Toronto: Association of Ontario Land Surveyors Report of the Committee on Biography &amp; Repository, posted in 2013). Thomas Allen Blyth, who surveyed lots 43 to 70, was an industrious surveyor of the city. Although he appears to have completed an impressive body of work, there is very little known about Blyth (some information can be found in the description of RMC 7609: "Sketch of survey of lot 23 in the 4th Con. and lot 23 in the 5th Con., Saltfleet").</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Stinson neighbourhood</citySection>
+      <area>Lot 11, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

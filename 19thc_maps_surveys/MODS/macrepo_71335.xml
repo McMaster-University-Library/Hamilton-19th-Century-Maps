@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of subdivision of park lots nos. 13 [to] 22 in the survey of the Hon. John H. Cameron</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1856-06-17</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>1856</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC 7636</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; 26 x 52 cm. Map is printed on rag linen paper and lined with a similar material on verso.</note>
+  </physicalDescription>
+  <note>This is a plan for a subdivision in central Hamilton on land owned by the "Hon. John H. Cameron." The map does not include a directional arrow, author or publisher. On the verso of the map it is dated: "[indecipherable word] subdivision of lots 13 to 22 inclusive Hon. J.H. Cameron survey 17 June 1856." At the top of the map it is numbered: "No 88 Drawer No 1" and the number "199" is crossed out near the base of the map. The plan includes the following streets: Victoria Avenue, East Avenue, Emerald Street, Barton Street, and South Street [now Birge Street]. At the north boundary of the map (the right side) is the line of the Great Western Railway with a "surface crossing" at Victoria Avenue. The location of this map very closely resembles the location of RMC 7457 [Map of Barton and South Streets, Hamilton, Ontario]. The property owner of the lots depicted was John Hillyard Cameron (1817-1876); a lawyer, businessman, and Conservative politician. He was trained as a lawyer and was called to the bar in 1838, shortly after serving with the Queen's Rangers during the Rebellion of 1837-38. He entered politics in 1846, acting as an alderman in Toronto prior to joining the Executive Council of the Legislative Assembly of Upper Canada. In the 1848 Canadian Almanac by Scobie &amp; Balfour, Cameron was noted as being the Solicitor General for the Province. He served in the Legislative Assembly until Confederation and in 1867 was elected to represent Peel in the House of Commons (Library of Parliament, "Cameron, John Hillyard, Q.C.," Parliament of Canada, accessed May 22, 2015). Throughout his life Cameron was highly involved in Upper Canadian high society. As well as being a lawyer and a politician, he served as a director of the Grand Trunk Railway, a solicitor for the Great Western Railway, and a part-owner of the Niagara Falls Suspension Bridge Company. Cameron was also involved in insurance and helped to found the Canada Life Assurance Company in 1847.  Lastly, he served on the council of Trinity College (a Toronto Anglican university) where he also acted as a professor of law and served as chancellor from 1863 until his death (Donald Swainson, “Cameron, John Hillyard,” in Dictionary of Canadian Biography, vol. 10, University of Toronto/Université Laval, 2003).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Landsdale neighbourhood</citySection>
+      <area>Lot 12, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

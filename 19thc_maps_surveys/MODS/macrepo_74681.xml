@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of lot no 9 and part of lot no. 10 south of King St. in Hamilton</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1855-06-30</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1855</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7690</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:120]</extent>
+    <note>1 map ; sheet 59 x 47 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Manuscript map.  Signed, "Thos. Allen Blyth P.L.S. Hamilton June 30th 1855".  "Scale 10 ft. to an Inch."  North arrow is oriented down.  "The property of D. McInnes Esqr" is written below the title in pencil. Streets appearing on the map include John Street, and King Street.   "No 86, drawer 3" is handwritten along left edge.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

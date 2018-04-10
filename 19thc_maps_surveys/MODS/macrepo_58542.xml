@@ -1,0 +1,48 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Saltfleet</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario. Crown Lands Department</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1846-11</dateCreated>
+    <publisher>Crown Land Department</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montreal</placeTerm>
+    </place>
+    <dateOther>1846</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:31,680]</extent>
+    <note>1 map ; 55 x 59 cm. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>The scale is given under the title, listed as &quot;scale forty chains to one inch.&quot;
+
+The map is numbered with a &quot;9&quot; in the top right corner. Handwriting on the right side of the map reads, &quot;Township of Saltfleet&quot; with &quot;Book 1&quot; above crossed out. The verso of the map reads &quot;49th Page Saltfleet.&quot;The map shows the concessions, early lot lines, and rivers or streams in the area but does not show roads, buildings, typography, vegetation, or other map details. On the bottom of the map, it reads &quot;Crown Land Department, Montreal, November 1846, True Copy, C.R.&quot; A faded signature is also featured on the bottom of the map reading &quot;D.B. Papineau, C.C.L. [Commissioner of Crown Lands]&quot;.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Saltfleet Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Stoney Creek</citySection>
+      <area>Concessions BF-8</area>
+    </hierarchicalGeographic>
+    <geographic>Saltfleet (Ont.)</geographic>
+    <geographic>Stoney Creek (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_7500</identifier>
+</mods>

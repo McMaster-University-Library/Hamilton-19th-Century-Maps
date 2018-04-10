@@ -1,0 +1,40 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>[Survey of properties adjacent to Victoria Avenue and Wellington Street at Barton Street]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1852-11-22</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1852</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1,200]</extent>
+    <note>1 map : colour ; 44 x 39 cm. Map lined with archival paper on verso. There are two large tears reaching in from the left and right edges. Two dark stains near the bottom of the map.</note>
+  </physicalDescription>
+  <note>&quot;Scale 100 ft = 1 inch.&quot;  &quot;Ths. Allen Blyth P.L.S., Hamilton - Nov. 22nd 1852.&quot;  &quot;J.H. Cameron&quot;.  The pink line running down the centre of the map indicates the location of the Great Western Railway. North arrow lacking; north is oriented to the left.  Along upper edge, &quot;110 13, Drawer No 1&quot;.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Landsdale neighbourhood</citySection>
+      <area>Lot 12, Concession 1</area>
+    </hierarchicalGeographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_7458</identifier>
+</mods>

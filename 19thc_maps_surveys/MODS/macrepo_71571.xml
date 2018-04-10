@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Ground Plan of Buildings in the Town of Hamilton</title>
+    <subTitle>The property of Buchanan, Harris and Co.</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>[Author unknown]</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton?]</placeTerm>
+    </place>
+    <dateOther>[between 1840-1860]</dateOther>
+    <dateCreated>1840</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7632</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:225]</extent>
+    <note>1 map : 54 x 66 cm.  Map contains minor discolouration and spotting throughout, notably along its edges. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This map shows a basic building plan for lots along Catherine Street, between King and King William Streets. There are a number of buildings which are shaded in yellow and brown, presumably they are the properties in question, belonging to the company Buchanan, Harris &amp; Co. The map is numbered in the bottom left-hand corner "No. 85 Drawer 3". At the base of the map is the scale, drawn as a ruler up to 150 feet. The equivalent ratio for the slide is 150 feet is equal to 8 inches (18.75 feet = 1 inch). The map is similar, in many ways, to a fire insurance plan, listing the height and material constitution of each building. There are numbers written in bold on each lot which, presumably, correspond to a missing index indicating relevant property information. The company Buchanan, Harris and Co. was a large dry goods and mercantile importer based in Hamilton. The firm was a partnership of Isaac Buchanan (1810-1883), Peter Buchanan (1805-1860), Robert William Harris (1805-1861), and John Young (1808-1873). Founded in 1840, the company became extremely profitable and and was described as "the largest mercantile house in the province." (Douglas McCalla, "Buchanan, Peter," in Dictionary of Canadian Biography, http://www.biographi.ca/en/bio/buchanan_peter_8E.html). As is evidenced by the 1857-58 Hamilton City Directory, the company owned land on King Street East, presumably pointing to the same property located on this map. The company's central figure, Isaac Buchanan, originally moved to Canada in 1830 to set up an outpost of the Glasgow-based dry goods firm William Guild Jr. and Co. Isaac and his brother Peter bought out the company in 1834 and established Isaac Buchanan and Co., in Toronto and Peter Buchanan and Co., in Glasgow (H.J. Bridgman, "Buchanan, Isaac,"in Dictionary of Hamilton Biography, 31-36). After establishing Buchanan, Harris and Company in Hamilton, the partners decided to close the company branch in Toronto (ca. 1843) also opened a Montreal branch that would be run by assistant James Law. It was well known that Isaac provided the company's entrepreneurial energy while other partners Peter Buchanan and Robert Harris provided sound, long-term prudence. Isaac also often ran into contention with his partners and in 1853 both Young and Law left the firm (Douglas McCalla, "Young, John" in Dictionary of Canadian Biography, http://www.biographi.ca/en/bio/buchanan_peter_8E.html). In 1856 Isaac recklessly used the firm's capital and all of his reserves to secretly secure rights to build a portion of the Great Western Railway to Amherstburg. The railway declined to build the southern leg and both partners were outraged. The company was pushed to near bankruptcy and both Harris and Peter Buchanan struggled to save the firm. Buchanan, Harris and Co., never fully recovered and the 1850's and 1860's proved difficult for the company. Harris was permanently injured in a riding accident and Peter Buchanan died in 1860. Isaac Buchanan was unable to adequately manage the firm on his own and died financially insolvent.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Beasley neighbourhood</citySection>
+      <area>Lot 14, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

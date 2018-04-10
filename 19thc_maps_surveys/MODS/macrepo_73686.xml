@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the survey of the north part of lot no. 13 in 4th Conn of Barton as laid out into lots by R J Hamilton Esqr.</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7650</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <note>1 map : colour ; 52 x 45 cm. Map is missing a large rectangular piece in the top left hand corner. There is also minor deterioration along its edges. Roads have been highlighted in yellow and the escarpment face has been coloured in grey and black. The verso of the map is filled with mathematical calculations and has a floor plan drawn with measurements. The map is lined with archival paper on verso.</note>
+  </physicalDescription>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Centremount neighbourhood</citySection>
+      <area>Lot 13, Concession 4</area>
+    </hierarchicalGeographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+  <name type="personal">
+    <namePart>Greer, James K.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1820</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>[between 1820 and 1860?]</dateOther>
+  </originInfo>
+  <note>This is a subdivision plan for land within lot 13, concession 4 on the Hamilton Mountain. The lots were laid out by Robert Jarvis Hamilton (1811-1892) and the plan "drawn by James K. Greer". The map contains two versions of its title: one found in the bottom right corner and the other in the top right corner. There is no date on the plan. There is also no directional arrow on this plan but it is oriented with north pointing down. The scale is located at the base of the map: "Two Chains and one inch." The map is numbered along its left edge: "Book 2 Plan 43." The verso of the map contains a two-level housing floor plan for a "cottage" and a large number of numerical calculations. The plan is bounded by three roads: "Barton Street" [now Queensdale Avenue], "Fourth Con. Road and South Limits of the City of Hamilton" [now Belvidere Avenue], and "Original Road Allowance Between Lots No. 12 and 13" [Upper Wellington Street]. There are two other streets labelled: "Moore Street" [now Inverness Avenue] and "Melville Street" [now the southern section of Belvidere Avenue]. There are a total of 40 lots subdivided in this development plan. There is also land owned by numerous individuals: "N.Merritt", "N.Campbell", "Major Bowen", "Richard Bull", and "John Bradly". Major Arthur Bowen was listed in the 1853 Hamilton City Directory as owning land on the mountain and living at 10 Upper Wellington Street. John Bradley (1811-1865) was an Irish immigrant that owned land throughout the city and ran a number of well-known hotels. Richard Bull was the son of Irish loyalist George Perkins Boothesby Bull (1795-1847) and also owned land across Hamilton. Information could not be found on the other two landowners. Robert Jarvis Hamilton was the son of town-creator George Hamilton. Worked as a banker and was involved in real estate under the direction of his father ("Hamilton, Robert Jarvis," Dictionary of Hamilton Biography, Hamilton: W.L. Griffin Limited, 1981, 94). The escarpment is featured prominent at the base of the map (northern extremity) and labelled as the "Summit of Mountain".</note>
+</mods>

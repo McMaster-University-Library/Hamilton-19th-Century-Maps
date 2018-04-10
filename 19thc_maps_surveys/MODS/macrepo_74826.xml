@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Part of the Beasley Farm in the City of Hamilton] as laid out [into] lots for the Hon. M. Cameron</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1856</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1856</dateOther>
+    <publisher>H. Gregory Lith.</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7694</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; sheet 84 x 68 cm. Map lined with archival paper on verso, reinforcing many tears across the sheet. Large portions of sheet edges lacking.</note>
+  </physicalDescription>
+  <note>Full title statement lacking. Title portion taken from Winearls' Mapping Upper Canada 1780-1867, entry 1441, p. 318. "By Thos. A. Blyth P.L.S." Inset map in bottom right corner showing the location of "the property to be sold" within Hamilton. "This Extensive Sale will take place on the ground on Wednesday 1st October 1856 at 12 o'clock, Noon. Best &amp; Green Auctioneers." Written in ink in right corner, "Book 2, Plan 12". Shows west limits of the City of Hamilton around Paradise Road.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+  <name type="personal">
+    <namePart>Gregory, H. (Lithographer)</namePart>
+  </name>
+</mods>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Dundas]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1810</dateCreated>
+    <place>Canada</place>
+    <place>[Hamilton?]</place>
+    <dateOther>[between 1810 and 1875]</dateOther>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.?]</placeTerm>
+    </place>
+  </originInfo>
+  <language>eng</language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map on 2 sheets ; colour ; 35 x 61 cm, on sheet 40 x 65 cm. Map is printed on rag linen paper and lined with archival paper on verso. Colouration is used (red and blue) to outline lots and streets. Map has a small rip in right hand corner. It also has a section scribbled out with what appears to be blue coloured pencil or pen. The map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Sheet 2 of 2; north sheet. This map does not include a title, scale, date, or directional arrow. The map shows the lots found just north of the former "Northern Boundary of Town of Dundas" which, as per the map, runs along Cayley Street.  The streets listed on the map are all the northern extensions of Sydenham Road, Cross Street, Cayley Street, and two unnamed streets [now approximately Parkside Avenue and Helen Street]. The map features a "cemetery" [Grove Cemetery] and three large properties belonging to "Judge Logie", "W. Macdonald", and "G. Rolph". Just above Logie's property is the "Boundary of the G.W. [Great Western] Railway Property". The map also shows planned lots 121-124 and 164-171. Judge Alexander Logie (1823-1873) was the judge for the Wentworth County Court from 1854 until his death. He also served as Justice of the Supreme Court of Ontario, a city councillor, and was a major landholder in Dundas and Hamilton. Logie was a very active Presbyterian and has a dedicated plaque at St. Paul’s Presbyterian where he was a member and elder.</note>
+  <subject>
+    <geographic>Dundas (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>West Flamborough</region>
+      <county>Ontario</county>
+      <city>Hamilton</city>
+      <citySection>North Dundas, Flamborough South</citySection>
+      <area>Lots 15-16, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7560B</identifier>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+</mods>

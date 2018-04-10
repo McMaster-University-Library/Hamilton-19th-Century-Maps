@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Hamilton, east of Wentworth Street to the Sherman Inlet]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1850</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>[between 1850 and 1880?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7725</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : colour ; sheet 59 x 92 cm. Hand coloured. Map lined with archival paper on verso. Map is worn along edges. Map is largely done in pencil, making some notes and street names difficult to read.</note>
+  </physicalDescription>
+  <note>Manuscript map. Cartographer unknown.  Lacking north arrow; north is oriented to the left. Map is bounded by Wentworth Street in the west, Richie Street [non-existent today] in the east, Ship Street in the north, and the Great Western Railway along branches of the Sherman Inlet in the south. Also appearing on the map from east to west are McKinstrey Street, Dickson Street [both shorter streets today], Hillyard Street, and [illegible street name which is now Niagara Street]. From north to south are Land Street, Gilkison Street [now Burlington Street], Blyth Street [now Brant Street] and Munro Street [now spelled Munroe Street]. Lightly penciled and barely legible on the right side of the map are the properties of J.M. Williams, the Land family and others. A detailed orchard is shown around Land Street. The Sherman Inlet frames much of the map in blue and a couple of its branches have coordinates noted within it. A circled "F" appears in the upper left corner. McMaster has another map which covers the same area entitled, "Plan of survey of lots adjoining the City of Hamilton, the property of J.T. Gilkison Esq" (see RMC_7718).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

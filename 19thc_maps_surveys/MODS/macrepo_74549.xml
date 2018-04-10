@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of lots in the City of Hamilton between Concession and Markland Streets being part of lot 16 in 3 Concession</title>
+    <subTitle>Township of Barton the property of Alexander McInnes Esq</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1872-11-5</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton Ont.</placeTerm>
+    </place>
+    <dateOther>1872</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7651</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map ; sheet 45 x 46 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"Scale 50 ft = 1 inch". Date appears below the title, "Hamilton Nov 5, 1872". Shows 27 numbered land parcels. Streets appearing on map include: Concession Street [now Aberdeen Avenue], Markland Street, [Hess Street], and [Bruce Street]. "No 105 Drawer 4", written along left edge.</note>
+  <subject>
+    <geographic>Barton (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+      <citySection>Barton</citySection>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of park-lots laid out on lot no. 5 in the 1st and B.F. Cons. in the Township of Saltfleet</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Carroll, Cyrus, 1834-1923</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Ontario Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1893-11-22</dateCreated>
+    <publisher>Springer, Lewis</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1893</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7573</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1200]</extent>
+    <note>1 map : colour ; 49 x 38 cm, on sheet 76 x 60 cm. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>The map's scale is found in the bottom left hand corner, "Scale 100 feet to an inch". The map plan corresponds to another similarly titled plan surveyed by Cyrus Carroll in our collection. The map shows a number of lots near Lake Ontario in present-day Winona in the former Township of Saltfleet. Roads mentioned include Centre Avenue [now Winona Road] and two private avenues [both non-existent in the configuration shown]. The homestead shown in the bottom left hand corner was the family farm of John Willson. The family home became the well-known palatial Winona Park Hotel. There are four blocks listed in the plan with block 3 having 49 lakefront lots. A large directional arrow is found on the right side of the map, pointing downwards to indicate the north is at the bottom of the map. In both bottom corners there are certificates signed and dated at Hamilton on November 22 1893. Both certify that the plan follows the "terms of the Registry Act" and have been signed by witness Charles E. Martin. One is signed by Cyrus Carroll, Provincial Land Surveyor, and the other by two property owners [names illegible]. To the right of the title is the full witness statement of Charles E. Martin, signed January 25 1894. There is also a signature statement by Lewis Springer, Registrar, indicating that the plan's duplicate copy has been filed in the Registry Office on April 28, 1894.</note>
+  <subject>
+    <geographic>Saltfleet (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Saltfleet</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Winona North, Saltfleet</citySection>
+      <area>Lot 5, Concesssions BF-1</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

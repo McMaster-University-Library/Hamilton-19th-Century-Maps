@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Hamilton</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burwell, Lewis, 1794-1865</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Deputy Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1830-02-12</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Burford</placeTerm>
+    </place>
+    <dateOther>1830-02-12</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7677/8</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1580]</extent>
+    <note>1 map : 66 x 98 cm. Map is in poor condition with a large sections missing, most notably on the left side. There is significant tearing throughout. The letters of the title (“Hamilton”) are coloured, it appears, with a wax-based pencil crayon. Map is lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This map is a plan of the city of Hamilton in 1830. It shows that, at this time, most of the city’s urban development was found between Bay Street and Victoria Avenue. Just below the title are found the geographic coordinates of the map: “North Latitude 43°.13.4” and “West Longitude from Greench  80°.0.5”  The scale, date, location of authorship, and surveyor signature are also all found below the title: “Scale two chains to one Inch”; “Burford February 12th 1830”; “Lewis Burwell, Deputy Surveyor.” The directional arrow is found, pointing north, to the right of the title. Map numbering is located to the left of the title: “No. 188, Drawer 5”. The map itself depicts over 200 lots in central Hamilton, surrounding the original townsite laid out by George Hamilton (1788-1836) and Nathaniel Hughson (1755-1837) in 1816.&#13;
+The landowners listed on the map include numerous names well known in Hamilton: George Hamilton, Nathaniel Hughson, Richard Beasley, Robert Land, Richard Ferguson, David Kirkendall, Peter Hess, James Crooks, Thomas Taylor, Richard Springer, David Springer, and Peter Hamilton, among others. There is a “market” listed (found between John and Hughson, just north of Augusta Street). There is also a “School House”, “Methodist Chappel”, and “Grave Yard” located east of Wellington, between King and Main Streets. The mapmaker, Lewis Burwell, was one of the most well known surveyors in Brant and Haldimand Counties. He is listed as having completed one of the first surveys of the Town of Brantford and early surveys of Burford, Dumphries, Oxford, and North Southwold Townships. He also designed surveys laying out the villages of Bishopsgate, Burford, Cayuga, and Newport. Burwell served in the Middlesex Militia during the War of 1812. His brother Mahlon Burwell was also a renowned surveying personality in Upper Canada during the 19th century. Lewis Burwell is buried in the Burford Pioneer Cemetery (Association of Ontario Land Surveyors,”Lewis Burwell,” Toronto: AOLS Report of the Committee on Biography &amp; Repository, posted in 2003).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Central, Durand, Beasley, Corktown, Landsdale, and Stinson neighbourhoods</citySection>
+      <area>Lots 12-15, Concessions 2-3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

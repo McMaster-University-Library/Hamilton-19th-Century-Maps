@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of lots the property of Hutchinson Clark and Burton &amp; Sadlier</title>
+    <subTitle>On Victoria Avenue and opposite the foundry of McQuesten &amp; Co.</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1865</dateCreated>
+    <publisher>The Hamilton Spectator</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>[between 1865 and 1875]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7639</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map : 75 x 57 cm, on sheet 83 x 58 cm. Map has two horizontal tears across its length. Both have been reattached with archival paper. Map is lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This map is a plan of property in the north end of the city of Hamilton. There are 73 individual lots depicted along with two large featured lots, belonging to Hutchinson Clark (1806-1877) and the law firm Burton &amp; Sadlier. The map features an ornate directional arrow in the top left hand corner where it is numbered: "No. 8 Drawer 4." Below the title, the publishing information is written “Lith Spectator Office, Hamilton, C.W.”  Unlike most maps in this series, the scale on this map is not lexical but rather in linear, bar form with a visual ratio of 2 inches to 100 feet. This is found at the base of the map. Geographically, the plan is located in between the Keith and Landsdale neighbourhoods in the industrial district of the city. The streets listed include Alma Street, Balaclava Street, George Street, Inkerman Street, and Victoria Avenue. Today, the streets roughly correspond to Shaw Street, Clark Avenue, Ferrie Street, Burton Street, and Victoria Avenue. Clark Street was named for Hutchinson Clark and Burton Street for the founder of Burton &amp; Sadlier, G.W. Burton. Alma, Balaclava, and Inkerman Streets are appear to be named after celebrated British engagements during the Crimean War (all in 1854). Victoria Avenue and George Street are named for famous British monarchs; Queen Victoria (1819-1901) and King George V (1865-1936). One of the central property owners featured on this map, Hutchinson Clark, was an architect and politician who served as the mayor of Hamilton in 1868. He was also responsible for designing numerous buildings throughout the city including the Mechanic’s Institute on James Street (Thomas Melville Bailey ed., "Clark, Hutchinson," in Dictionary of Hamilton Biography, 51). Another section of the map belonged to the law offices of Burton &amp; Sadlier (sometimes spelled “Sadleir”).  The 1851and 1853 City of Hamilton Directories lists Burton &amp; Sadlier as “barristers and attornies at law” working out of an office on King Street East. Principal George W. Burton is listed on the Board of Directors for the Canada Life Assurance Company in 1859. They were high profile legal professionals in the city, hiring young lawyers such as John Morrison Gibson (1842-1929) in 1866. The subtitle on the map indicates that the foundry of McQuesten &amp; Co. was located on the western side of Victoria Avenue. The company—which was originally located at the corner of James and Merrick Streets [now York Boulevard—relocated to the foot of Welllington Street, to the west of Victoria Avenue in 1855. In 1857, co-founder Calvin McQuesten (1801-1885) decided to retire and soon after the company was renamed the Sawyer and Massey Company after partners Luther Sawyer and Hart Almerrin Massey (David G. Burley, "McQuesten, Calvin," in Dictionary of Canadian Biography, http://www.biographi.ca/en/bio/mcquesten_calvin_11E.html).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Keith and Landsdale neighbourhoods</citySection>
+      <area>Lots 12, Concessions 1</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

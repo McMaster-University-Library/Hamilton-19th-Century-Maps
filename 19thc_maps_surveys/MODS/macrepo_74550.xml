@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of subdivision of part of north half of lot 11 and the north half of lot 12 in the Fifth Concession</title>
+    <subTitle>of the Township of Barton</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateCreated>1850</dateCreated>
+    <dateOther>[between 1850 and 1900?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7676</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <note>1 map ; sheet 41 x 61 cm. Map lined with archival paper on verso.</note>
+    <extent>Scale not given.</extent>
+  </physicalDescription>
+  <note>Shows 40 numbered land parcels, as well as the location of the "estate of the late Joseph Kirkendall". Streets appearing on the map include: Fifth Concession Road [now Fennell Avenue East], Mountain Drive [now Howe Avenue], South Street [likely 15th Street], Wellington Street [now transitions into Upper Wellington Street], original road allowance between lots 10 and 11 [now Upper Wentworth Street]. Written in top left corner, "No 67 Drawer 3".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan shewing the subdivision of part of lot no 8 of Allan W. MacNab's survey of part of lot no 17</title>
+    <subTitle>in the first (otherwise called second Concession) of the Township of Barton into building lots</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Murray, David</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1856-04-22</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1856</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7693</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:320 approximately]</extent>
+    <note>1 map : colour ; sheet 75 x 55 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Visual scale [95mm = 100 feet]. "By David Murray Hamilton CW". "Great Western Railway Compy Grounds" appears at the top of the sheet. Streets appearing on map include Concession Street [now Barton Street] and Locomotive Street [now Ray Street]. On lower left edge, "No 3 Drawer 4". On verso: handwritten note by David Murray dated April 22nd, 1856.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

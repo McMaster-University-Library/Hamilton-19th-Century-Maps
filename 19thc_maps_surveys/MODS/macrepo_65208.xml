@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Barton</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <publisher>Crown Lands Department</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montreal</placeTerm>
+    </place>
+    <dateOther>1846</dateOther>
+    <dateCreated>1846-11</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7519</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:31680]</extent>
+    <note>1 map : col. ; 59 x 47 cm. Map lined with archival paper on verso. The bottom right hand edge is torn and cut. There are also crease tears across the map from folding or rolling.</note>
+  </physicalDescription>
+  <note>“Scale Forty Chains to One Inch” is written below the title. In the bottom right of the map it reads “Crown Lands Department, Montreal, November 1846, True Copy, C.R.” The map is signed "D.B. Papineau C.C.L. [Commissioner of Crown Lands]". Denis-Benjamin Papineau was the joint premier of the Province of Canada for Canada East from 1846 to 1848 and the Commissioner of Crown Lands from 1844 to 1847. There is a number “2” featured just above this information. At the top of the map there is handwriting “Barton Township” and “Book 1” which has been crossed out. There are 8 concessions featured along with the “B.Front” [Broken Front]. No details are shown on the map except for waterways, concessions, and lot lines. A directional arrow is found faded just above the title. The verso of the map reads “43rd Page Barton”.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Old City of Hamilton area boundaries include: Rymal Road to the bay and Upper Paradise to Shearman Ave.</citySection>
+      <area>Lots 1-21, Concessions BF-8</area>
+    </hierarchicalGeographic>
+  </subject>
+  <name type="corporate">
+    <namePart>Ontario. Department of Crown Lands</namePart>
+  </name>
+</mods>

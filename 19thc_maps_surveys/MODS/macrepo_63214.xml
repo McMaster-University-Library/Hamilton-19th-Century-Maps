@@ -1,0 +1,40 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Plan of lot no 10 in the 5th Concession, Township of Barton, 1853</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Peters, Samuel, 1822-1882</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1853-06-21</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1853</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:3,170]</extent>
+    <note>1 map : colour, 47 x 30 cm, on sheet 50 x 33 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>&quot;Scale 4 Chains to an Inch&quot;.  In the bottom right corner of the map, &quot;Saml Peters, P.L. Surveyor, London C.W. [Canada West], June 21 1853&quot;.  &quot;M.M.&quot; is initialed along the north arrow.  The majority of the map features the property of &quot;Richard Martin Esqre. and others.&quot; The roads listed are &quot;Side Road&quot; on the west [now Upper Wentworth], &quot;Road allowance in front of 5th Concession&quot; [now Fennel Avenue], and &quot;Road allowance in front of 6th Concession&quot; [now Mohawk Road]. According to area maps, this lot plan was never carried out. The land featured on the map was undeveloped until at least 1954. The first streets laid in Lot 10, Concession 5 were East 21st Street and MacLennan Avenue.  Handwritten along left neat line, &quot;No 61, Drawer 3&quot;.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Burkholme neighbourhood</citySection>
+      <area>Lot 10, Concession 5</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7483</identifier>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+</mods>

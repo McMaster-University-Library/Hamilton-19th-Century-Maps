@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the road along the centre of the 8th Concession of the Township of East Flamborough[...]</title>
+    <subTitle>From the centre road through lots 7,6,5 and a portion of lot 4 [...]</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>MacKintosh, James</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1858-01-30</dateCreated>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1858</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7558</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:3170]</extent>
+    <note>1 map : col. ; 48 x 64 cm., on sheet 49 x 65 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"Scale= 4 Chains to an Inch." The directional arrow found in lot 4 along the right edge of the map. Just below the title it reads "Surveyed for Messrs Thos. Allison, Andrew Patton &amp; James Kievell on the 29th &amp; 30th Jany. 1858 by J. MacKintosh, P.L. Surveyor." The map is very detailed and includes a good deal of writing. It is a plan for two roads, as depicted in yellow, running north-south and east-west. To the right of the title there is a "N.13" encircled and an officiate statement, "Filed in the Registry Office of the County of Wentworth this twenty first day of April A.D. 1858., John H. Greer, Registrar."  At both bottom corners of the map there are the numbers "Book 2, Plan 13". Near the base of the map there are two signature statements each certifying the legitimacy of the plan and the proper practice of the surveyor James MacKintosh. Both signatures are signed by all three land owners implicated. One is signed "the Sixth day of February 1858" and the other "at Carlisle this 20th day of April 1858." The location of the plan is within lots 4 to 7 of the 8th Concession, near the town of Carlisle. The creek which runs through lots 4 and 5 is Twelve-Mile Creek [now Bronte Creek]. The map also includes the location Campbell's Mill [now Progreston Falls] along the creek. Roads featured are: "Road allowance" between 8th and 9th Concessions [now Carlisle Road], "Centre Road" [same name], and two connecting roads to be built in the plan [now all Progreston Road].</note>
+  <subject>
+    <geographic>Carlisle (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>East Flamborough (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of East Flamborough</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Carlisle</citySection>
+      <area>Lots 4-7, Concession 8</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

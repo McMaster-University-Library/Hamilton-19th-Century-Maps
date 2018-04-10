@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of subdivision of lot, 4, 6 &amp; 10 in the survey of the late James Mills, City of Hamilton</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1816</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>[between 1816 and 1852?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7716</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given.</extent>
+    <note>1 map ; 22 x 30 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Streets appearing on map include Main Street, Market Street [now Nelson Street approximately], Pearl Street, and Railway Street [now Locke Street]. As described in Hamilton Street Names edited by Margaret Houghton, Market Street "has grown shorter with the years. As one of the earliest streets in the police village of Hamilton, Market Street used to extend from MacNab Street North on the east, to Sophia Street (now Strathcona Street) on the west" (p.79). According to the Dictionary of Hamilton Biography, Volume 1: "James [Mills] came to Canada in 1793 to pursue the fur trade in the Niagara area.... After several moves, he located permanently in Hamilton in 1816, where he and his brother-in-law, Peter Hess, purchased 500 acres between the bay and the Mountain (stretching from what is now Bay Street to Locke)...." (p.154). "No 30 Drawer 6" written along left edge of sheet. Near lower left corner, "195" is noted and circled in pink/purple ink.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

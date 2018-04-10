@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of park lots adjacent [to Guelph Road, containing the property of Peter Carol esq.]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Carroll, Peter, 1806-1876</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateCreated>1840</dateCreated>
+    <dateOther>[between 1840 and 1880?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7714</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; sheet 63 x 48 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Manuscript map.  Title is written in pencil near the sheet's lower edge and is barely legible. Map shows Guelph Road [now Old Guelph Road] surrounded by 25 numbered lots, and extending south to the "main road to Toronto" [now Highway 403]. The map also shows the Desjardins Canal, Waterdown Creek and ravines in the area. "No 64 Drawer 1" is handwritten along the lower left edge of the sheet. "Peter Carol" is handwritten on verso. According to the Dictionary of Hamilton Biography, Peter Carroll (spelled with two r's and two l's) was a surveyor and businessman who "in the early 1840s settled on forty acres of the northwest corner of Burlington Bay in East Flamborough.  The area came to be known as Carroll's Point, while the property was named 'Rock Bay' after early settler and tavern keeper Peter Rock" (vol. 1, p. 42).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+      <citySection>Flamborough</citySection>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

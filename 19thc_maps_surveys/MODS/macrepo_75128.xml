@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of part of lot 18 in 3rd Con Township of Barton, known as the "race course", City of Hamilton</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7687</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <note>1 map ; 22 x 39 cm. Map lined with archival paper on verso.</note>
+    <extent>[1:1,200]</extent>
+  </physicalDescription>
+  <note>Surveyor's signature is illegible due to tears in the sheet's lower right corner. "Scale 100 ft = 1 inch". "Reserve No 1. in R. Beasleys Survey". Richard Beasley, an influential merchant and politician owned and developed land in the area. North arrow points to the bottom of sheet. Streets appearing on map include "Lock Street (produced)" [now spelled Locke Street], Poulette Street, William Street [now Hunter Street], and "Robert (prodcd)" [now Bold Street]. According to Hamilton Street Names (2002, p. 72), "when Locke Street was named (approximately 1840), it was west of Hamilton's town limits. The southern limit of Locke Street was Hunter Street (then named William) because of a deep ravine called Beasley's Hollow" which is delineated on the map with an irregular line. Many of the homes in this area were built to house railway workers and their families (Hamilton Street Names, p. 72). "Beasley no 36 Drawer no2" handwritten at the top of sheet. "R C Beasley" written in blue pencil near Lock Street.</note>
+  <subject>
+    <geographic>Hamilton, (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan No. 1 Ancaster</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1846</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>[1846?]</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 50 x 49 cm., on sheet 56 x 51 cm. Map is missing significant sections. Left and right sides have been shortened by tearing; showing only lots 16-52. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Ancaster (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Ancaster</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Ancaster</citySection>
+      <area>Lots 16-52, Concession 1-7</area>
+    </hierarchicalGeographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7580</identifier>
+  <note>Map shows the former Township of Ancater. It is a copy of the other Ancaster plan entitled: “Ancaster”. The map shows only concessions, early lot lines, waterways, and communities (drawn in pencil). The following villages and towns are labeled: Alberton, Ancaster, Carluke, and Jerseyville. Dundas Street [now Governor’s Road or Highway 99] is shown at the top of the map. On the verso of the map it reads “Page 42nd Ancaster”.  Very little subsequent detail is shown.</note>
+</mods>

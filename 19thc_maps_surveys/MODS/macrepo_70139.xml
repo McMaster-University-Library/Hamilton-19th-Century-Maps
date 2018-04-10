@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Plan of the Village of Inverness in Burlington, Ontario]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1830</dateCreated>
+    <publisher>[Tho. Allen Blyth, P.L.S.?]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton?]</placeTerm>
+    </place>
+    <dateOther>[between 1830-1890?]</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map on 2 sheets ; sheet 2, 30 x 42 cm., on sheet 44 x 43 cm. The map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Sheet 2 of 2, north sheet. This plan does not include a scale, title, date, author or directional arrow. It is a copy (with less detail) of the "Plan of the Village of Inverness" by Thomas Allen Blyth, P.L.S. as prepared for Andrew Mackenzie Chisholm. The map depicts an area near the former community of Aldershot; the south east corner of the former Township of East Flamborough [present day Burlington, Ontario]. Subsequent historical maps of the area show a different configuration of streets and lots, indicating that Chisholm's plan was never built and the "Village of Inverness" never materialized. At the westernmost edge of the map is written "Hamilton", indicating the directional location of the city. The map includes the following streets: "Argyle St", "Queen St", "Ontario St", "Wellington St", "Flamboro St", and "Wentworth St". Only "Argyle St" and "Ontario St" have become modern roads (as King Road and Francis Road, respectively). The rest of the streets laid out in this plan are non-existent. Most of the land shown in the map is now used for commercial or industrial purposes. The Ontario Highway 403 is now found in this area. For additional geographical and historical information see sheet 1 (south sheet).</note>
+  <subject>
+    <geographic>East Flamborough (Ont.)</geographic>
+    <geographic>Burlington (Ont.)</geographic>
+    <geographic>Flamborough (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Flamboro East</region>
+      <county>Wentworth County</county>
+      <city>Burlington</city>
+      <citySection>Aldershot</citySection>
+      <area>Lot 1, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7559B</identifier>
+</mods>

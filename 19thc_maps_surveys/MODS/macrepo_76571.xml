@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of Sir A.N. MacNabs survey between Railway Street &amp; Dundurn in the City of Hamilton</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1850</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>[between 1850 and 1858?]</dateOther>
+    <publisher>[Publisher unknown]</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7856</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:800 approximately]</extent>
+    <note>1 map ; 40 x 68 cm, on sheet 44 x 70 cm. Lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Manuscript map. North arrow oriented to right. "Scale 1 Chain = 1 Inch". Map covers area from Railway Street [currently Locke Street] in the east to the eastern limits of Dundurn Park in the west and extends to York Street [currently York Boulevard]. Appearing in the centre of the map is Inchbuy Street, named for the MacNab family burial plot at Dundurn Castle [currently Inchbury Street], and Kinell Street. Along lower left edge, "No 11, Drawer 5". In lower right margin, "26".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+      <citySection>Dundurn Park</citySection>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

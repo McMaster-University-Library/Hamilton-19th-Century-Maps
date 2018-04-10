@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of Kenview Park</title>
+    <subTitle>Being the subdivision of part of lots 56 &amp; the Gore [lot 57] in Con. 2, Township of Ancaster</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Webster, William Gourlay, 1884-1965</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Ontario Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1913</dateCreated>
+    <publisher>J.J. MacKay &amp; Co., Engineers &amp; Surveyors</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1913-05-31</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC 7626</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:2400]</extent>
+    <note>1 map : 69 x 47 cm, on sheet 71 x 49 cm. Map is printed on blue lithograph paper and lined with archival paper on verso. There is discolouration and fading throughout, most notably on the right side of the map. There is also a small piece of the plan missing from the left side of the map.</note>
+  </physicalDescription>
+  <note>This map shows a proposed plan for "Kenview Park" on the West mountain, at the border of the former Township of Ancaster and the Township of Barton in the current City of Hamilton. The plan's scale is listed under the title: "Scale 200ft to 1 in". The directional arrow is found on the right side of the map, pointing northwards. There are numerous signatory statements present on the map including those by owners, witnesses, mortgagees, clerks, registrar, reeve, mayor, surveyor, municipal commissioner, and chairman of the Ontario Railway and Municipal Board. There is a key plan inset on the left side of the map showing the wider geographical area in which the plan is located. There are also three seals placed on the plan: two for the City of Hamilton and one for the Township of Ancaster ("Ancaster Township Municipality Incorporated 1850"). The streets laid for Kenview Park include: "Redfearn Avenue", "Goulding  Avenue", "Gordon Avenue", "Brooks Avenue", "Gray Avenue", "Orton Avenue", and "Gore Avenue". Outside of the survey, the plan includes "Craigmore Drive", "Lonsdale Avenue", "Crescent Road", "Mountain Boulevard", and "Dunlop Avenue".  Today there is very little to indicate that this plan was ever realized. Most of the streets in this location now follow a curvilinear design and nearly all (in this tract) were given names of Spanish/Hispanic origin. The homes in this neighbourhood are all new or built within the last 40 years (post-1970s). There are two streets drawn on the plan which do exist today, roughly in the same locations: Redfearn Avenue and Goulding Avenue. Running diagonally across the base of the survey is the "Dominion Power and Transmission Co. Powerline". Dominion Power was formed in 1907 (from the Hamilton Cataract Power, Light and Traction Company) and was the first company to bring hydro-electric power to Hamilton (Carolyn Gray, "Business Structures and Records: The Dominion Power and Transmission Company, 1896-1930," in Archivaria 19:5 (1984): 151-161). The plan was produced by J.J. MacKay &amp; Co., Engineers &amp; Surveyors. More information on this company can be found by consulting RMC 7606/7 ("Plan of Wilson Park"). The surveyor of this plan was William Gourlay Webster (1884-1965). Webster was born in Toronto and educated as a civil engineer. He obtained his commission as an Ontario Land Surveyor in 1912 and began articling in Brantford. Gourlay completed the survey of Kenview Park in 1913, shortly before enlisting with the Canadian Engineers during the First World War. Webster went on to work as an MPP in the Ontario Legislature between 1943 and 1948 (S.W. Archibald, "Hon. William Gourlay Webster, C.E., O.L.S," Toronto: Association of Ontario Land Surveyors Report of the Committee on Biography &amp; Repository, posted in 2013). Also mentioned on the plan is John Allan (1856-1922) who was the mayor of the City of Hamilton between 1913-1914. Allan also went on to act as an MPP, his tenure between 1914-1919. This plan features a grid plan, typical of surveyors and planners of the late 19th and early 20th centuries. Though this plan was never realized, its structured grid has been reproduced not only across the lower city but also across the mountain (David Premi and Paul Shaker, "Mountain's History is Rich and Diverse" in the Hamilton Spectator, May 7, 2015).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Ancaster</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Mountainview neighbourhood, West mountain</citySection>
+      <area>Lot 56, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

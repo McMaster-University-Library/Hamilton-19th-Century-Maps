@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of Enright's farm being composed of the rear part of lots 5&amp;6 in the Second Concession of the Township of West Flamborough</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Mackintosh, James</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1871-08</dateCreated>
+    <publisher>[Publisher Unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <dateOther>1871</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7521</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1: 3960]</extent>
+    <note>1 map : col. ; 47 x 23 cm. Map is printed on rag linen paper and lined with archival paper on verso. There is a tear in top right corner and some minor tears throughout.</note>
+  </physicalDescription>
+  <note>“Scale 5 chs to an Inch.” Directional arrow found above title. There is a note below the title that reads, “Surveyed in August 1871”. In the bottom right hand corner there is a signature, in red, by the surveyor “Jos. MacKintosh, P.L.Surveyor, 1st Sept. 1871”. Map is numbered along left edge “No 70, Drawer No 1”. There is additional writing in the bottom right corner which is very faint, next to which there is a small hand pointing to the base of the map. The property line is drawn in detail at the bottom of the map, following the contours of the “creek” [Spencer Creek]. There are two roads featured on the plan: “Concession Road” dividing the 2nd and 3rd Concession [now Ontario Highway 5] and “Side Road” [no longer in existence]. The area is now the home of Christie Lake Conservation Area, which covers most of the map, and the Rothsay recycling plant which covers the upper portion of lots 5 and 6. A road known as Crooks Hollow was built in the southern section of the map. Along this road, within the boundaries of this map, is found the Darnley Cascade Waterfall upon which was built the Darnley Gristmill.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Flamborough (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Flamboro West</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>West Flamborough, Crooks Hollow, Greensville</citySection>
+      <area>Lots 5 &amp; 6, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

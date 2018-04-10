@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of six acres of land at the north west corner of lot No11 3rd concession of Barton</title>
+    <subTitle>devised by the late Ephraim Laud to his two daughters.</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1857-07-21</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1857</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7652</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <note>1 map ; sheet 35 x 59 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"Scale 100'-1"". The left side of the map reads, "No 2 Drawer 5". The map is situated in North portion of Main Street and Emerald Street. Location was determined with the aid of the 1851 Smith Map. Streets appearing on the map include: Main Street, Emerald Street, and Clark Street. Clark street appears to never have been implemented. The land owner to the West had the sir name of Clark. In the middle of the map there is a detailed boundary drawn in with latitude and longitude coordinates.</note>
+  <subject>
+    <geographic>Hamilton, (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

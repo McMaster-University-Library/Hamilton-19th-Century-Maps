@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of lots in the City of Hamilton, and adjacent thereto.</title>
+    <subTitle>The property of [Thomas] Stinson, Esqr.</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1841</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>Hamilton, Ont.</place>
+    <dateOther>[between 1895 and 1899?]</dateOther>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+  </originInfo>
+  <language>eng</language>
+  <identifier type="local">RMC_7640</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:840]</extent>
+    <note>2 maps on 1 sheet : colour ; 47 x 51 cm and 33 x 51 cm, on sheet 84 x 54 cm. Lower left and lower right corners lacking. Lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Printed map. "T.A. Blyth,P.L.S." Scale "70 Feet to an Inch" North arrows are oriented to the lower right. Upper map shows 98 numbered lots which are bounded by King Street and the properties of Michael Aikman, Samuel Aitkin, E.M. Simons, A. Wood, and Andrew Steven in the south and Colonel Robert Land's property as well as Willson Street in the north [currently Wilson Street, with single 'l' spelling]. The map extends from Samuel Tovel's land in the east to Steven Street and V.H. Tisdale's survey in the west. The lower map shows 64 numbered lots which are bounded by Ida Street in the south, Burris Street in the east, and Burlington Street [currently Sanford Avenue] in the west. Argue Street [currently Gladstone Avenue] runs through the centre of the map. The lower, north section of this map is lacking.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+      <citySection>Downtown</citySection>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

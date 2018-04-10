@@ -1,0 +1,59 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Sketch of lots taken from title deeds, April 6th 1857.</title>
+    <subTitle></subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Kirkendall, D.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text"></roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <genre authority="lctgm"></genre>
+  <originInfo>
+    <dateCreated>1857-04-06</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">[Canada]</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+    <dateOther>1857</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract></abstract>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given.</extent>
+    <note>1 map : col. ; 27 x 47 cm. Map lined with archival paper on verso.
+</note>
+  </physicalDescription>
+  <note>There is a number &quot;52&quot; in the bottom left hand corner. The north arrow is penciled in the bottom left hand corner, indicating the top of the map is east.
+Writing on the map details the footage of each lot and its geographic coordinates. The deed date and owner of each lot is also featured therein. The lots featured in this survey go from 8 to 12. Handwritten note on verso: &quot;Plan of Lots 8.9.10.11.12, Block 5, Compiled from Title Deeds, D. Kirkendall&apos;s Survey, 9th April 1857.&quot;
+
+Lots are located at the corner of MacNab and Merrick Streets. Merrick Street has now been changed to York Boulevard. The site is now home to a public parking garage at the Hamilton City Centre. </note>
+  <subject>
+    <topic></topic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <temporal></temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Central Hamilton</citySection>
+      <area>Lot 15, Concession 2</area>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates></coordinates>
+    </cartographics>
+  </subject>
+  <identifier type="local">RMC_7498</identifier>
+</mods>

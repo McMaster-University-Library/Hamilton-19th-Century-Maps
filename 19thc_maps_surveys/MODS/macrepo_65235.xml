@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of lots in the City of Hamilton property of Mess. Kerr, McLaren, &amp; Street</title>
+    <subTitle>Copy</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1830</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>[between 1830 and 1910]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7535</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : col., 67 x 51 cm. Map lined with archival paper on verso. To the left of the title there is faded writing which is illegible. The base of the map has several small tears. There are a few small red blotches at the top and the middle of the map.</note>
+  </physicalDescription>
+  <note>No scale or directional arrow found on map. The map is laid out with north at the base and south at the top. On the left edge of the map it reads "No 22 Drawer 5". Survey shown is the property of Kerr, McLaren, &amp; Street; owners listed in the 1875 Wentworth County Atlas. Streets listed on the map include: Queen Street, Markland Street, Herchimer Street [now Herkimer Street], Caroline Street, Hesse Street [now Hess Street], Bowery Street [now Bay Street], Bold Street, Duke Street, Robinson Street, and Anderson Street [now Charlton Avenue].</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Durand neighbourhood</citySection>
+      <area>Lots 15 and 16, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

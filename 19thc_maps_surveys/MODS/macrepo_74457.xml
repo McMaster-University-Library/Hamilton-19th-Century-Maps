@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of portion of Ferguson Avenue North and area]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1853-06-08</dateCreated>
+    <dateOther>1853</dateOther>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1,200]</extent>
+    <note>1 map : colour ; sheet 54 x 52 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"Scale 100 F. to one Inch". The bottom left includes surveyor's signature and date, " Ths. Allen Blyth P.L.S., Hamilton, June 8th 1853". The left edge of the sheet has handwritten note, "No 2 Drawer 6". &#13;
+Streets appearing on the map include: Cannon Street, Gore Street [now Wilson Street], Rebecca Street, Mary Street, Elgin Street, Ferguson Avenue, Nelson Street [now continuation of Ferguson Avenue], Cathcart Street, and Wellington Street.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_7649</identifier>
+</mods>

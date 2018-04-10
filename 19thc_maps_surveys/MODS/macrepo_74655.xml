@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of lots in the township of Barton &amp; adjacent to the City of Hamilton, the property of Michael Aikman Esq</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1854</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1854</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7682</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1,200]</extent>
+    <note>1 map ; sheet 42 x 28 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>“Scale 100 ft to an Inch”. Streets appearing on the map include King Street, Aikman Avenue, Main Street, Wentworth Street, and Burlington Street [now Sanford Avenue]. Written in the bottom right corner, “(Signed) Ths. Allen Blyth. P.L.S. Hamilton January 12, 1854”. Written in the top right corner, “No 76 Drawer 2”. Written on the left side reads, “Easterly limits of City of Hamilton”. Aikman Avenue, was named after John Aikman (1764-1841). John Aikman was a United Empire Loyalist who settled with his wife, Hannah, in the area in 1787. The family lived near what is now King Street and Sanford Avenue.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of park lots in the Township of Saltfleet</title>
+    <subTitle>being the subdivision of part of lots 29, 30, &amp; 31 in the 1st concession part of the estate of the late William Blaikie</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1858</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+    <dateOther>[between 1858 and 1869]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7610</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 18 x 44 cm, on sheet 27 x 51 cm. Map has considerable wear throughout, primarily along the edges. There is a noticeable crease or cut running along the bottom of the map. Map is printed on rag linen paper and lined with a similar material on verso.</note>
+  </physicalDescription>
+  <note>This plan shows lots 29-31 in Concession 1 of the former Township of Saltfleet. The map shows the properties of Peter Gage (15 acres) and William Gage (20 acres) and part of the estate of the late William Blaikie. Along the northern road the map depicts [now approximately Brampton Road] there are a number of landmarks listed: "stone monument &amp; oak tree", "white oak tree", "hickory tree", and another "stone monument". This map features no scale or directional arrow. In the top left corner are found the numbers "200" with a strike through it and "No 96, Drawer No 1". The plan focuses on the estate lands of the late William Blaikie. The 1852 Canada West Census shows that a Scottish-born William Blaikie as a 51 year old Presbyterian living in Saltfleet and working as a farmer. According to the land record books at the Stoney Creek Historical Society, Blaikie was first cited as buying lots 29-31 in Concession 1 in either 1834 or 1837. Blaikie is shown to still own some land in this location on the 1859 Map of Wentworth County by Robert Surtees though part of his land was deeded to the Great Western Railway in 1852 [likely just south of the area shown in this plan] and other lots appear to be sold between 1858-1861. The map highlights the land of two Gages: Peter (1804-1869) and William (1801–1888). Peter and William also had a brother Andrew Gage (1824-1893) who was listed as purchasing land in 1858. It is likely that this Andrew had in fact purchased the subdivided survey lots in question from Blaikie. These Gages were the grandchildren of settler William Gage (1744-1820) who came to Saltfleet from Ireland via New York and was granted 600 acres of land in 1790. Part of William's farm was used as the site of the 1813 Battle of Stoney Creek and his farmhouse was used by both British and American military personnel during the war.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Saltfleet (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Saltfleet</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>McQuesten</citySection>
+      <area>Lots 29-31, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

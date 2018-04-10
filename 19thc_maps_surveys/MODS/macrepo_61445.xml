@@ -1,0 +1,40 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Map of the Town of Dundas in the Counties of Wentworth and Halton, Canada West</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Smith, Marcus, 1815-1904</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1851</dateCreated>
+    <publisher>Published by the Author</publisher>
+    <place>
+      <placeTerm type="text">[Dundas, Ont.?]</placeTerm>
+    </place>
+    <dateOther>1851</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:3,000 approximately]</extent>
+    <note>1 map : colour ; 67 x 103 cm, on sheet 79 x 109 cm.  Sheet has been reinforced on a larger archival mat, 89 x 115 cm.</note>
+  </physicalDescription>
+  <note>Printed map.  &quot;Surveyed &amp; Drawn by Marcus Smith.&quot;  Visual scale, [1 cm = 100 feet].  &quot;Note. The limits of the Corporation are marked by a strong line of pink color.&quot;  Includes illustrations of 3 buildings with headings:  Town Hall; Merchants Exchange Hotel; and, James Coleman Esqre., Mayor of Dundas.  Described in Winearls&apos; Mapping Upper Canada, 1780-1867, entry 1299, p. 297: &quot;...a very detailed map showing the town from the GWR to South St, and from Head St to East St; all bldgs are shown, most named; names of owners; cleared land and treed areas distinguished; escarpment.&quot;  Donated by Elmar C. Hodsoll, Toronto, July 1995.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+      <citySection>Dundas</citySection>
+    </hierarchicalGeographic>
+    <geographic>Dundas (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_107000</identifier>
+</mods>

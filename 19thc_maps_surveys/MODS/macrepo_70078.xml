@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the Village of Inverness, being the subdivision of lot no.1 first concession, Flamboro East [north sheet]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <publisher>Ths. Allen Blyth, P.L.S.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Flamboro East?]</placeTerm>
+    </place>
+    <dateOther>[1848-1875]</dateOther>
+    <dateCreated>1848</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map on 2 sheets ; sheet 2, 30 x 20 cm., on sheet 61 x 25 cm. Map has been lined with archival paper on verso. Map has two large creases which run across it horizontally and vertically. There are tears found along these creases, attempts have been made to mend them by adhering archival paper.</note>
+  </physicalDescription>
+  <note>Sheet 2 of 2. Title appears on sheet 1. There is very little information found on this section of the map. In the top left hand corner it reads "No 56, Drawer 6", and [...Copies] just above the map detail. On the verso can be found the number "56". The map itself features lots 133-153 and the western extensions of "Ontario St.", "Queen St.", and "Argyle St." Running vertically across the lots is the tree-lined Niagara Escarpment.&#13;
+&#13;
+For additional geographical and historical information, see sheet 1.</note>
+  <subject>
+    <geographic>East Flamborough (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Flamboro East</region>
+      <county>Wentworth County</county>
+      <city>Burlington</city>
+      <citySection>Aldershot</citySection>
+      <area>Lot 1, Concession 1</area>
+    </hierarchicalGeographic>
+    <geographic>Burlington (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_7564B</identifier>
+</mods>

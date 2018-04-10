@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Glanford</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Canada. Crown Lands Department</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1846-12</dateCreated>
+    <place>
+      <placeTerm type="text">Montreal, Que.</placeTerm>
+    </place>
+    <dateOther>1846</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7685</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:31,700 approximately]</extent>
+    <note>1 map : colour ; sheet 52 x 41 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"Scale 40 chains to one inch". Concessions one through eight are shown. This township was created in 1798 in Lincoln County, was transferred to Wentworth County in 1854 and later amalgamated with Binbrook Township to form Glanbrook (Rayburn, Place Names of Ontario, p.134).</note>
+  <subject>
+    <geographic>Glanford, (Ont.)</geographic>
+    <geographic>Glanbrook, (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <area>Glanbrook</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

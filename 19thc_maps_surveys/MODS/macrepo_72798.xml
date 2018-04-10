@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Subdivision of property at the corner of Queen &amp; Concession Streets</title>
+    <subTitle>Belonging to John Brown, Esq</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1842</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+    <dateOther>[between 1842 and 1888]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7672</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map : 44 x 40 cm. Map's title is written in pencil but faded. It is found along the right side of the map. Map is lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This is a plan for the subdivision of lots belonging to John Brown (1824-?) in the Durand neighbourhood of central Hamilton. The title is found, in faded pencil, along the right side of the map. The scale is found at the base of the map: "Scale 50 Ft to 1 Inch." There is also numbering at the base of the map: "No. 9 Drawer 6." There is no directional arrow but the map is oriented so that it is upside down. The streets listed are Concession Street [now Aberdeen Avenue], Queen Street, Markland Street, and Hess Street. The map maker's initials are found at the end of the title and along the left-hand margin where it reads "Copy - C.[?]B." There is a possibility that these are the initials of Charles Edward Booth (1821-1919). Booth was a surveyor who did professional work in Hamilton and died in the city in 1919 (Allan Davis, "C.E.S. Booth," Association of Ontario Land Surveyors, Toronto: AOLS Report of the Committee on Biography &amp; Repository, accessed August 14, 2015). In the centre of the map there are 29 lots subdivided on the property of "John Brown, Esq." Brown was a merchant who lived in Hamilton. Brown was active in civic life in the city. It is possible that he acted as City Chamberlain, as evidenced by the 1851 City of Hamilton Directory (W.A. Shepard, The City of Hamilton Directory, 1851). In 1861, Brown built an elegant estate on Aberdeen Avenue (between Bay and Ravenscliffe) known as Highfield. The property was converted into the Highfield School for Boys in 1901; a predecessor to Hillfield Strathallan College ("History of HSC," Hillfield Strathallan College, http://www.hsc.on.ca/discover/history-of-hsc, accessed August 14, 2015). Brown was, also, at one point an owner of the famous hillside mansion "Rock Castle" (1848) built by Alexander Carpenter. In the 1871 Canadian Census, John Brown is listed as being 47 years old and a "wholesale merchant."</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Durand neighbourhood</citySection>
+      <area>Lot 16, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

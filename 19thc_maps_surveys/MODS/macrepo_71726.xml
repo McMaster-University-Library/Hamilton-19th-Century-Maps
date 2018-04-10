@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>A Plan of 20 Town Lots</title>
+    <subTitle>Composed of the South West part of Lot No. 14 in the 3rd Concession of Barton, Gore District</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ryckman, Samuel, 1777-1846</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Deputy Provincial Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1842-02</dateCreated>
+    <publisher>[Publisher Unknown]</publisher>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1842-02</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7674</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1580]</extent>
+    <note>1 map : 59 x 46 cm. Map has significant tearing throughout including a large rip running up the middle of the map. It is lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This 1842 map is a layout of 20 lots in the Corktown neighbourhood, at the base of the escarpment. Since Hamilton did not achieve official city status until 1846, the lots are shown as "town lots." Writing on the map is very faint but some details can be discerned. To the right of the title is the directional arrow indicating that the map is oriented in an upside down format. To the left of the title is a signature by the surveyor, "Samuel Ryckman, Dept. Provl. Surveyor," and a date "February 1842." In the bottom left hand corner is found the scale: "2 chains to one inch." The map is also numbered in the bottom left hand corner: "No. 24 Drawer 4." The streets listed on the map include: John Street, James Street, Hannah Street [now Charlton Avenue], and a "Road" on the escarpment [now Concession Street]. The "mountain" figures prominently on this map, being clearly labelled and shaded. All lots (13-15) and concessions (3-4) are also labelled. The surveyor, Samuel Ryckman (1777-1846) was a Deputy Provincial Surveyor who completed surveys across Upper Canada. Ryckman (alternatively spelled "Rykman") was given a total of 11,042 acres in recompense for his surveying work (Randy William Widdis, "Speculation and the Surveyor," in Social History (15)30:1982, 443-458). In Hamilton, Ryckman was reimbursed with 700 acres of land, centring on Upper James Street and Rymal Road. The hamlet of "Ryckman's Corners" was named after Samuel (Donna Reid and Robin McKee, "Samuel Ryckman" in The Hamiltonians, Margaret Houghton, ed. Toronto: James Lorimer and Co. Publishers, 2003). Many of the names of property owners drawn onto the map have faded, but the few that remain legible include: William Orr, R.P. Street, J.B. Freeman, and J.C. Richardson. There are numerous other names included on the map.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Corktown and Centremount neighbourhoods</citySection>
+      <area>Lot 14, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

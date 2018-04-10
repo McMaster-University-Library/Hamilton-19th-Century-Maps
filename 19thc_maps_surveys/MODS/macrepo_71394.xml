@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Part of lot no. 12 in the 3rd Con. of the Township of Barton]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>McKenzie, Alexander</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1837-03-27</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+    <dateOther>1837-03-27</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7634</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map: 27 x 20 cm, on sheet 37 x 20 cm. Map is drawn on rag linen paper and lined with a similar material on verso.</note>
+  </physicalDescription>
+  <note>This map depicts part of Lot 12 in the 3rd Concession of the former Township of Barton. There is no title on the map but there is a directional arrow along the left side. In the bottom left hand corner the map is numbered: "No. 92 Drawer No. 1". Just below the lots is this description: "The above Diagram represents the figure of part of lot no.12 in the 3rd Con. of the Township of Barton as divided by David R. Springer and Oliver Springer as Arbitrators between Hutchison Clarke, Tristram Bickle, and William Fieley. The 22nd day of December 1836. Surveyed 27th March 1837 by Alexander McKenzie P.L.S." Just below the description are the words "Copy [illegible signature] August 17 1872." Not a great deal of information is available on McKenzie. He was a local surveyor during the 19th century and was responsible for the "Plan of part of the tract of land belonging to the Six Nation Indians on the Hamilton and Port Dover Road" (date unknown) as well as "A Plan of the Town of Hamilton, Upper Canada" (1836). He may have also been a member of Robert Bell's (1841-1917) geological survey group (Henri Pillon, "Bell, Robert" in Dictionary of Canadian Biography, vol. 10, University of Toronto/Université Laval, 1976). There are numerous landowners listed on the map including the following names: "William Fieley", "Tristram Bickle", "William Blaikie", "Hutchison Clarke", and "Aaron [illegible surname]". Tristram Bickle (1801-1875) was a druggist born in Devonshire, England who immigrated to Canada in 1835 (Egerton Ryerson, ed., "Biographical Sketches", The Journal of Education for Ontario, vols. 27-28, 1875). Hutchison Clarke (1806-1877) (whose name spelling fluctuates) was an English-born architect and politician who moved to Hamilton in 1834. Clarke was responsible for designing the Mechanics' Institute on James Street North [now non-existent] as well as numerous other local buildings. He was involved in local government, representing St. Andrew's ward and serving as mayor in 1868. Interestingly, the Dictionary of Hamilton Biography notes that Clarke owned land matching the land outlined on the map and intended to use it for a "pleasure-ground east of Wellington Street at the mountain."  (Melville Bailey ed., "Clark, Hutchinson" in Dictionary of Hamilton Biography, vol. 1. Hamilton: W.L. Griffin Limited, 1981) For more information on William Blaikie, see RMC 7610 ("Plan of survey of park lots in the Township of Saltfleet".) No information was found on William Fieley or Aaron [illegible surname]. The streets drawn on the map are "road allowance between lot 12 &amp; 13" [now Upper Wellington &amp; Wellington Street], unnamed road between Concessions 3 &amp; 4 [now Concession Street], and "road 40 ft wide" [now Charlton Avenue]. Featuring prominently on this sketch is the escarpment ("Mountain Rocky Wood Land"). Today, the area is dominated by highways; notably the Sherman Access and the Jolley Cut.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Stinson &amp; Inch Park neighbourhoods</citySection>
+      <area>Lot 12, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

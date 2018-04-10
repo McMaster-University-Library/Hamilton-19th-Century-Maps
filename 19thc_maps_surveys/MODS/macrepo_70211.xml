@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Map of Michael Aikman's Survey]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1872-02-29</dateCreated>
+    <publisher>Hamilton Registry Office</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1872</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; 25 x 47 cm., on sheet 43 x 52 cm. Map is printed on rag linen paper and lined with archival paper on verso. Map ink has been smudged in parts. Left hand corner has a small hole. Along the top edge of the map there is writing in red, "284[?], Aikman, Drawer 1, 1". The map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This map does not include a title, scale, or directional arrow. The map is a survey of Michael Aikman's property in central Hamilton. It faces east and shows the Niagara Escarpment on the right side of the map. The streets listed on the map area: Main Street, Wentworth Street, Ida Street [now Delaware Avenue], Burlington Street [now approximately Myrtle Avenue] and the Fourth Concession Road [now Concession Street]. 13 lots are shown including a large open tract of land in the centre. At the base of the map there are signatures of reception and certification by the Registry Office in Hamilton: "Registry Office Hamilton, 29th February 1872." It features two dates: April 8, 1852 [certified] and February 29, 1872 [registered]. It is signed by the "Dep. Reg." [Deputy Registrar] and listed as a "copy". &#13;
+&#13;
+Landowner Michael Aikman (1797-1881) was a well known politician and businessman in the area. He served as the Justice of the Peace in the Gore Disctrict, a member of the board of directors at the Gore Bank, an officer in the Upper Canada Rebellion of 1837, and a representative of Wentworth County in the Legislative Assemby of Upper Canada.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>St. Clair neighbourhood</citySection>
+      <area>Lot 10, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7561</identifier>
+</mods>

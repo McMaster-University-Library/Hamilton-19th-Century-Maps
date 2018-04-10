@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Survey of J. Hopkins' property in Flamborough East &amp; West]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1820</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Flamboro East?]</placeTerm>
+    </place>
+    <dateOther>[between 1820 and 1851]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7623</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 31 x 45 cm. There are three prominent creases spanning the length and width of the map, indicating that it was likely folded for years. There are also a number of details written in pencil on the map which are faded. The map is lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This survey contains very little identifying information. Lacking is the title, author, surveyor, date, directional arrow, and any road names. On the verso some helpful information is given. Along with the word "Plan" and the number "141", it reads: "Survey of J. Hopkins property in Flamborough East &amp; West".  This indicates that the property depicted was likely that of Joseph Hopkins (1748-1811) or one of his sons: John Kelsey Hopkins, Joseph Hopkins Jr., or James Hopkins. The former village of Hopkins Corners, located at the intersection of York Road and Valley Road, was named after the family. The family moved to Upper Canada in 1797 as Loyalists following the American Revolutionary War (Lee, Kevin. "The Hopkins" in Stoney Creek Historical Society Newsletter, ed.61, June 2014). According to the Wentworth County Atlas, by 1875, much of the land owned by the Hopkins' family had been sold to other property owners. There is a small piece of land owned by a "J.Hopkins" (either John Kelsey, James, or Joseph Jr.) at lot 28, concession 2 in West Flamborough. In East Flamborough there is a "C.Hopkins" (likely Caleb Hopkins) depicted as a property owner in lots 11 &amp; 13, concession 2. &#13;
+Also listed on the survey is the name Ezra Hopkins (1813-1851). In the 1852 Canada West Census Ezra Hopkins is listed as being a farmer, Wesleyan Methodist, and a resident of Flamboro West. On lot 28, concession 2 is found the Hopkins Family Cemetery today (also known as the Valley Cemetery). Many of the individuals mentioned above are buried there. For more information on this cemetery, see RMC 7494 ("Plan of survey of part of lot no 24 in the 2nd conn Flamboro' West containing 18 1/2 acres").</note>
+  <subject>
+    <geographic>West Flamborough (Ont. : Township)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of West Flamborough</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Hopkins Corners, the Guelph neighbourhood</citySection>
+      <area>Lots 23-28, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

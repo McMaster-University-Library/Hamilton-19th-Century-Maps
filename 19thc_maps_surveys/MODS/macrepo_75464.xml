@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Flamborough</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Canada Crown Lands Department</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1847-01</dateCreated>
+    <place>
+      <placeTerm type="text">Montreal, Que.</placeTerm>
+    </place>
+    <dateOther>1847</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7710_11</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:31700 approximately]</extent>
+    <note>1 map : colour ; 64 x 81 cm. Hand coloured. Map lined with archival paper on verso. Tears along edges and fold lines.</note>
+  </physicalDescription>
+  <note>"Scale Forty chains to One Inch". "Crown Lands Department, Montreal January 1847, true copy, C.R., [signed] "D.B. Papineau C.C.L." [Commissioner of Crown Lands]. The north arrow points down. The map features lots and concessions west of Dundas Street and Burlington Bay within East and West Flamborough with basic waterways. Some handwritten notes along edges.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Flamborough (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+      <citySection>Flamborough</citySection>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

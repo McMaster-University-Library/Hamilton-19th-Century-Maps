@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>A sketch of lot 16 in the 5th Con of Barton</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Kerr, Robert Warren, 1810-1873</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1852-07</dateCreated>
+    <publisher>[Publisher Unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1852</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7482</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:3170]</extent>
+    <note>1 map : col. ; 32 x 47 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"Scale of 4 chains to an Inch." The top of the map features handwriting numbering the document: "No 63, Drawer No 1, Barton (16 in 5th con)". The surveyor has signed and dated the map in the bottom right hand corner, "Surveyed by Robert W Kerr, P.L.S., Hamilton July 1852." The directional arrow atop the map points towards the upper right edge as north. The roads listed are all allowances yet to be given proper names. Eventually, the "Road between the 4th and 5th Conns" [becomes Fennel Avenue], the "Road between the 5th and 6th Conns" [becomes Mohawk Road], and the "Road to Hamilton" [becomes West 5th Street]. The westerly "Road allowance between lots 16 &amp; 17" was never built. Subsequent maps indicate this part of lot 16 was never realized as planned on this sketch and remained undeveloped until the mid-20th century. It is interesting to note that the northern half of this lot is where Mohawk College now stands. A portion of the southern half (on land partially owned by Ann Terryberry) is now home to the Terryberry Library</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Buchanan and Mohawk neighbourhoods</citySection>
+      <area>Lot 16, Concession 5</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

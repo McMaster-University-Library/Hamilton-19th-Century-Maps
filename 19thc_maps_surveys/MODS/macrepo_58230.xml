@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Proposed survey of lots in Hamilton, the property of J. M. Williams</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1800</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">[Canada]</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+    <dateOther>[between 1800 and 1890]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1200]</extent>
+    <note>1 map : col. ; 25 x 39 cm. Scale &quot;100 ft to an Inch.&quot; There is tearing and ripping at the edges, particularly along the top of the map. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Below the title is a handwritten signature, &quot;Dr. Billings &amp; Joseph Lister, Esq.&quot; On left side of the map appears handwritten note, &quot;Billings &amp; Lister No 48, Drawer No 2&quot;.  Some handwriting is evident on the verso of the map which is difficult to fully decipher.
+
+The map has a north arrow penciled in, it is aligned so east is on top and west is on the bottom. Streets included are: Barton Street, Wentworth Street and Williams Street. Williams Street is now &quot;William Street&quot; on current maps of the City of Hamilton. On the northern boundary of the map is a portion of the Great Western Railway. Between the railway allowance and the lots is a small road labelled only as &quot;Street&quot;. To the west of Williams Street is a small unnamed laneway shown on the map and present on current maps of the area. In later maps it appears as though this road eventually became Birge Street. Off William Street, the lots are subdivided and coloured in pink. Handwriting on these lots read: &quot;12 Houses 18 x 24&quot;.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Landsdale neighbourhood</citySection>
+      <area>Lot 11, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7497</identifier>
+</mods>

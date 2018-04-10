@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of Wilson Park</title>
+    <subTitle>Being part of lot 33, Con 2 and part of parcel 'A' in Normanhurst, Township of Saltfleet</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Phillips, E.P.A. (Edwin Percy Argall)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Ontario Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1913-05-01</dateCreated>
+    <publisher>J.J. MacKay &amp; Co., Engineers &amp; Surveyors</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1913-05-01</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7606/7</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1200]</extent>
+    <note>1 map : 46 x 26 cm, on sheet 71 x 50 cm. Map is in good condition. There is minor fading atop the logo of the surveying company in the bottom left hand corner. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>The map is a plan for an early subdivision in east Hamilton, in the McQuesten and Normanhurst neighbourhoods (the former Township of Saltfleet).  The map is of the same style as other plans in our collection created by J.W. Tyrell and J.J. MacKay. The map features a directional arrow found in the top left corner and a scale found directly underneath the title; "100 feet = 1 inch". The map is dated and certified by the land surveyor along the right margin: "May 1, 1913". There are numerous other signatures and approvals by the Registry Office, the Commissioner, the mayor, the reeve, the clerk, the developer, witnesses, mortgagees, and the Ontario Railway &amp; Municipal Board.  There is also an embossed seal of approval by the developer "Wilson Park Limited Hamilton Ont."  Above the legal writing is found an inset key plan showing the location of the proposed development as part of lot 32, concession 2. The streets listed on the map include "Roxborough Avenue", "Britannia Avenue", "Barton Street", "Adeline Avenue", "Glennie Avenue", "Parkdale Avenue", and "Ivon Avenue". Other features on the map include labelled adjacent properties: "Normanhurst Survey", "Lands of Catherine Harris", and "Lands of Broadbent". The 1875 Wentworth County Atlas shows a "Miss K. Harris" owning area around lot 32, concession 2.  The name of the plan "Wilson Park" is likely a tribute to Hon. John Willson (1776-1860) or John Wesley Willson (1819-1889). The surname "Willson" is also often found as "Wilson". For more information on the Wilsons, see the "Plan of Ontario". It appears as though the area on the map was annexed by the City of Hamilton (from the Township of Saltfleet) in 1943 (John Weaver, Hamilton: An Illustrated History. Toronto: James Lorimer &amp; Company Publishers, 1982). &#13;
+&#13;
+The map was surveyed by Edwin Percy Argall Phillips, O.L.S. (1884-1970). Phillips was born in Oshawa, educated in Toronto, and trained as an engineer and surveyor in Bracebridge, Ontario.   Phillips played an extensive role in the surveying and development of northern Ontario. Biographical accounts indicate that Phillips only spent two years surveying in Hamilton (1912-13) before returning to work in northern Ontario (P.R. Milton and T.L. Wilson, Edwin Percy Argall Phillips, BSc., O.L.S., D.L.S., P.Eng., M.E.I.C.. Toronto: AOLS Report of the Committee on Biography &amp; Repository, posted in 2013).&#13;
+&#13;
+The company responsible for publishing and certifying the plan was J.J. MacKay &amp; Co., Engineers &amp; Surveyors. James John MacKay, O.L.S. (1876-1959) was a land surveyor originally from Zorra Township. In 1902, MacKay joined with J.W. Tyrell, O.L.S as a partner in Hamilton. In 1912 he formed his own engineering-surveying firm with his brother Col. E.G. MacKay and was joined by Edwin P.A. Phillips later that year (Association of Ontario Land Surveyors, John James MacKay, O.L.S., P.Eng. Toronto: AOLS Report of the Committee on Biography &amp; Repository, posted in 2013). MacKay served as the chairman of the Hamilton Suburban Roads Commission and was involved in laying the nation's first concrete road from Toronto to Hamilton, now the Queen Elizabeth Way (John Sewell, The Shape of the Suburbs: Understanding Toronto's Sprawl. Toronto: University of Toronto Press, 2009). MacKay's company undertook thousands of area surveys and plans, including two others in our collection: "Plan of Kenview Park" and "Plan showing resubdivision of lots nos. 104 to 112 Allen &amp; Matheson Survey".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Saltfleet</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>McQuesten, Normanhurst</citySection>
+      <area>Lot 32, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

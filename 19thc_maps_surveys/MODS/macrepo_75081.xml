@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Map shewing the several divisions as devised by will of the late Robert Vandusens portion of lot no 32 in the 7th Concession</title>
+    <subTitle>in the Township of Saltfleet in the County of Wentworth, Province of Ontario</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1873-11-12</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1873</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7692</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <note>1 map : colour ; sheet 60 x 35 cm. Map lined with archival paper on verso.</note>
+    <extent>[1:2,380]</extent>
+  </physicalDescription>
+  <note>Certification statement in lower left corner signed, "Hamilton November 12th 1873, Thomas C. Brownjohn P.L.S." "Scale 3 Chains = One Inch". "Side road allowance between lots 32 &amp; 33" is approximately where Mount Albion Road is today. "Road allowance between 7th &amp; 8th Cons" is approximately where Highland Road is today. Albion Street is no longer in existence. "Received from Walter R Macdonald this 5th day of October A.D. 1875 at 2.50 P.M. [illegible signature]". "Book 3, Plan 78" written twice near upper edge. The "Van Dusen Estate" appears on the Saltfleet map in the 1875 Illustrated Historical Atlas of the Country of Wentworth Ont.</note>
+  <subject>
+    <geographic>Hamilton, (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+      <citySection>Stoney Creek</citySection>
+    </hierarchicalGeographic>
+  </subject>
+  <name type="personal">
+    <namePart>Brownjohn, Thomas C.</namePart>
+  </name>
+</mods>

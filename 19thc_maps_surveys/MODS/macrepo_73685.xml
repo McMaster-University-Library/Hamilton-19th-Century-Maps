@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Old Race Course</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1872-11-25</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1872-11-25</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7671</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:2380]</extent>
+    <note>1 map : 47 x 46 cm. There is some numbering on the verso of the map, what appears to be mathematical equations. Map is lined with archival paper.</note>
+  </physicalDescription>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Kirkendall neighbourhood</citySection>
+      <area>Lot 18, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+  <note>This is a plan for the development of "The Old Race Course," along Locke Street, within the Kirkendall neighbourhood of Hamilton. The map is oriented upside down, with the directional arrow pointing to the bottom of the map. The map is without an official title although later writing along the left hand side has given it the title of "Old Race Course." It is also numbered along the left hand side: "No. 20 Drawer 3." The scale is located at the base of the map: "Scale 3chs or 19sft to one Inch," along with the surveyor information: "Thos. A. Blyth P.L.S., Hamilton, Nov. 25th 1872." Blyth was a very well known surveyor in Hamilton during the Victoria era. For more information on Blyth, see RMC 7609: "Sketch of survey of lot 23 in the 4th Con. and lot 23 in the 5th Con., Saltfleet." The boundaries of the map are Main Street to the north,  "the fourth concession and south limits of City of Hamilton," [now Aberdeen Ave] to the south, "Lock Street" [now Locke Street] to the east, and "Road allowance between no. 18 and 19," [now Dundurn Street]. Other streets shown on the map include: Poulette, Robert [now Bold], Wentworth [now Jackson], Canada, William [now Hunter], Duke, Robinson, "Maple or Anderson" [now Charlton], Herkimer, Markland, and South [now non-existent]. There are two small parcels on the plan belonging to "M. Fanning" and "T. Coyle," found at the northeast corner of Locke and Duke Streets. Today there is small side street known as Fanning Street in this location. To the west of Poulette Street it reads "The Beasley Survey." The majority of the land on the plan originally belonged to Richard Beasley (1761-1842). Beasley was one of the earliest settlers in the Hamilton area and acquired the land from Anne Morden (1743-1832) sometime after the War of 1812. It is unclear as to when Beasley had the race track built but the 1850-51 Map of the City of Hamilton by Marcus Smith shows the grounds when they were in operation. The 1859 Map of Hamilton by Robert Surtees also shows this lot labeled as the “race course” lot. The 1878 County Atlas map showed “cricket grounds” situated here. Given that Blyth's plan was completed in 1872, it is evident that the land was not subdivided for housing until some years later. Copp, Clark &amp; Co.'s Map of the City of Hamilton shows the race track removed and the urban grid pattern in place by 1882.</note>
+</mods>

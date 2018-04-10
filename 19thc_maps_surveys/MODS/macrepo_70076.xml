@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the Village of Inverness, being the subdivision of lot no.1 first concession, Flamboro East [south sheet]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <publisher>Ths. Allen Blyth, P.L.S.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Flamboro East]</placeTerm>
+    </place>
+    <dateOther>[1848-1875]</dateOther>
+    <dateCreated>1848</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given.</extent>
+    <note>1 map on 2 sheets ; sheet 1, col., 38 x 62 cm., on sheet 61 x 65 cm. Map has been lined with archival paper on verso. Map is in good condition with the exception of one large tear which spans the bottom of the map horizontally. It appears that one vertical strip of tape has been added along the left side of the map.</note>
+  </physicalDescription>
+  <note>Sheet 1 of 2. This plan does not include a scale, date, or directional arrow. There are a few additions which have been added, in pencil, to the title: "County of Wentworth",  "A.M. Chisolm", and "by Thos. A. Blyth, P.L.S." The map shows a residential plan for the "Village of Inverness" prepared for A.M. [Andrew Mackenzie] Chisholm (1810-1894) in the south east corner of the former Township of East Flamborough [present day Burlington, Ontario]. The map is bounded by "Hamilton and Nelson Gravel Road" [now Plains Road] to the south, "Argyle St" [now King Road] to the west, "Flamboro St" [now nonexistent] to the north, and "Ontario St" [now approximately Francis Road] to the east. &#13;
+Most of the land shown in the map is now used for commercial or industrial purposes. The "Burial Ground" drawn in the southeastern corner of the plan is a loyalist cemetery still in place today and known as the Job's Lane Cemetery or the Union Burying Grounds. It was established in 1848 by a number of loyalist families who were members of the Methodist Union. The railway spanning the southern portion of the map is another feature that is still located in place today. Subsequent historical maps of the area show a different configuration of streets and lots, indicating that the plan was never built. Remnants of the land owner, A.M. Chisholm, remained in the creation of Inverness Avenue (approximately following the outline of "Mary Street") and the survival of the historic "Inverness" House. The house was built by Andrew's father George Chisholm in 1832 and was eventually demolished in 1987. The archives of the Burlington Historical Society indicate that Andrew had the family property surveyed and auctioned off in 1856. Two Hamilton Spectator advertisments from 1856 by auctioneers "Best &amp; Green" promote Chisholm's land as the "New Town of Inverness". As noted, the area was never developed as such. By 1875, Lot 1 and Lot 2 of Concession 1 were owned by the Easterbrooks, who held the land until it was sold in the 1980’s. Chisholm himself moved to Elizabeth Street in Wellington Square and had a new home built in that same year.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Flamboro East</region>
+      <county>Wentworth</county>
+      <city>Burlington</city>
+      <citySection>Aldershot</citySection>
+      <area>Lot 1, Concession 1</area>
+    </hierarchicalGeographic>
+    <geographic>East Flamborough (Ont.)</geographic>
+    <geographic>Burlington (Ont.)</geographic>
+  </subject>
+  <identifier type="local">RMC_7564A</identifier>
+</mods>

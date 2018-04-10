@@ -1,0 +1,50 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Plan of survey of the block lying between Bold, Duke, MacNab, and Bond Streets</title>
+    <subTitle>the residence of the late P.H. Hamilton Esqr.</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Land surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1866-06-18</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1866</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map ; 33 x 42 cm. 
+
+The bottom, left corner of the map is lacking, making the scale statement somewhat illegible. It is uncertain, but scale is likely 50 feet to 1 inch.  Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Sheet 1 of 2. Scale: &quot;50 Feet=to one Inch&quot;. The number &quot;51&quot; is written in the top, left corner and in the top, right corner, it reads, &quot;No 44 Drawer No 2.&quot; The map covers a downtown block, highlighting the dwelling of the late P.H. Hamilton. In the map are MacNab Street South to the east, Bond Street (now Park Street South) to the west, Duke Street to the south, and Bold and Charles Streets to the north.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Durand neighbourhood</citySection>
+      <area>Lot 15, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="local">RMC_7459</identifier>
+</mods>

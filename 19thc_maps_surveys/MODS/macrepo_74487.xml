@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the survey of lots in the City of Hamilton, the property of Robt. J. Hamilton Esqr</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1847-10-13</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton (Ont.)</placeTerm>
+    </place>
+    <dateOther>1847</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7675</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1,200]</extent>
+    <note>1 map ; sheet 67 x 47 cm. Map lined with archival paper on verso. Some tears along folds.</note>
+  </physicalDescription>
+  <note>"Scale one hundred feet to an Inch". In the bottom right corner of the map, there is a certification statement signed and dated by "Thos. Allen Blyth P.L.S. [Public Land Surveyor], Hamilton Oct 13th 1847". In the middle of the map, there is a gradient of shading depicting the "Summit of Mountain". On the left side of the map there is a portion of land labeled: "City property". Statement on the map's right indicates, "the boundary between Lots 13 and 14 in the 3rd Conn of Barton". Streets appearing on map include: Cherry Street [now Ferguson Street], Walnut Street, Jane Street [now Charlton Avenue East], and Morison Street [now Foster Avenue]. There is a street labelled, "Macadamized Road" [likely Arkledun Avenue], indicating that this is a paved road.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

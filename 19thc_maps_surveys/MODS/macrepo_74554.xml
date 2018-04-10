@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Subdivision of lots nos. 11, 12 &amp;13 in the late James Hughson's survey in Hamilton</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1858-05-18</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>1858</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7673</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <note>1 map ; sheet 44 x 28 cm. Map lined with archival paper on verso.</note>
+    <extent>Scale not given.</extent>
+  </physicalDescription>
+  <note>Title is uncertain as penciled writing is barely legible. "May 18/58" is penciled under title. Streets appearing on map include, John Street North, Catharine Street North, Henry Street [now Cannon Street East], and Lind Street [now Robert Street]. Land was originally owned by Nathaniel Hughson. He named several streets after members of his family including Catharine Street. "No 40, Drawer 5" is written along the upper edge.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+</mods>

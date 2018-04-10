@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of lots A.B.C.D.E.F. and of lots G, H, I, J, K, (south side of canal), at Burlington Beach, Saltfleet Township.</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Barrow, Ernest G.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1895-07-24</dateCreated>
+    <dateOther>1895</dateOther>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7689</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map : colour ; 38 x 70 cm, on sheet 50 x 79 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"Scale - 50 Feet to the Inch." At head of title in blue ink, "Curtis Survey." Includes "Surveyor's certificate" signed by "Ernest G. Barrow, Ontario Land Surveyor [and] dated 24th July 1895", "Owners' certificate" and "Affidavit of owners." "City Survey (Registered.)" is written on the left side of the sheet. Shows Beach Road [now Beach Boulevard]. The Grand Trunk Railway and government reserve land, framed by Lake Ontario, the Burlington Canal and Burlington Bay.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Burlington</city>
+      <county>Halton</county>
+    </hierarchicalGeographic>
+    <geographic>Burlington Beach</geographic>
+    <geographic>Burlington (Ont.)</geographic>
+  </subject>
+</mods>

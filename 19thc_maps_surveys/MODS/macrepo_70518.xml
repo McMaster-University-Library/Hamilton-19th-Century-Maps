@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of Goodwin Park</title>
+    <subTitle>being a subdivision of part of lot 34, concession IV, Township of Saltfleet</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bandy, Oliver R.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Ontario Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1913-07-17</dateCreated>
+    <publisher>J.W. Tyrrell &amp; Co., Engineers &amp; Surveyors</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1913</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7581</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1800]</extent>
+    <note>1 map : colour ; 69 x 47 cm, on sheet 71 x 49 cm. Map is printed on blue lithograph paper. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This map shows a proposed survey for "Goodwin Park" in the Rosedale neighbourhood, at the border of the former Township of Saltfleet and the Township of Barton in the current city of Hamilton. The plan's scale is listed under the title: "Scale: 1inch = 150 feet". The directional arrow is found on the right side of the map, pointing northwards.  There are numerous signatory statements present on the map including those by owners, witnesses,  the mayor and clerks, the surveyor, the municipal commissioner, and the vice-president and secretary-treasurer of "Goodwin Park Limited" [likely the development company]. There is a key plan inset on the left side of the map showing the wider geographical area in which the plan is located.  There are 271 lots listed on the map. There is a section of subdivided lands and another, smaller section of lands owned by Goodwin Park Ltd. that are not subdivided. The streets listed are: Greenhill Avenue, Dumbarton Avenue, Cochrane Road, Rousseau Road, Newlands Road, Dundonald Avenue, Montrose Avenue, Hixon Street, and Aberdeen Avenue. All streets are active as shown today with the exception of Newlands Road [now Charlotte Street] and Aberdeen Avenue [now Lawrence Road]. The T.H.&amp;B. railway crosses the map below Hixon and is still present today. The plan was produced by J.W. Tyrrell &amp; Co., Engineers &amp; Surveyors and surveyed by Oliver Roland Blandy. Blandy was an apprentice, and eventually a partner, with Tyrrell in his surveying and engineering company.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Saltfleet</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Rosedale neighbourhood</citySection>
+      <area>Lot 34, Concession 4</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

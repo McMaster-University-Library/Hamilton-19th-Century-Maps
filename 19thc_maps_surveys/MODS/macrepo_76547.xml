@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of subdivision of lots nos. 3, 4 &amp; 6 corner of Main and Railway Streets in the late James Milles' [Mills] survey</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>J. D. McKay &amp; Co.</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1850</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>[between 1850 and 1870?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7728</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map ; sheet 27 x 33 cm. Map lined with archival paper on verso.  Large tear extending vertically near the right edge.</note>
+  </physicalDescription>
+  <note>Manuscript map.  "J. D. McKay &amp; Co." faintly handwritten near lower edge. Scale "50 ft = 1 inch".  North arrow is oriented down.  Streets appearing on map are Main Street and Railway Street [now Locke Street], alongside 6 numbered lots.  "No 41" is handwritten in the top left corner.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

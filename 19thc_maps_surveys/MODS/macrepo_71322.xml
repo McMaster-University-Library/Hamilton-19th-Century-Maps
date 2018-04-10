@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of part of Abbotsford</title>
+    <subTitle>Laid out into acres lots, the property of Lockart Duff</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Public Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1854-06</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1854-06</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7628</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1580]</extent>
+    <note>1 map : 54 x 49 cm, on sheet 56 x 51 cm. Map contains some staining along its edges but is otherwise in good condition. Map is lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This is a survey for part of Abbotsford, a planned residential community on property owned by Lockart Duff (1793-1858). The survey is likely located in West Hamilton. The map has been surveyed by Thomas Allen Blyth, a well-known surveyor in the area during the 19th century. Blyth's signature found in the bottom right-hand corner "ThS. Allen Blyth, P.L.S." Below his signature the survey is dated "Hamilton June 1854". The scale is found at the base of the map "Scale=2 Chains to 1 inch" and the directional arrow is found along the left edge. In the bottom left-hand corner the map is numbered: "No 62 Drawer 2". The proposed streets listed are "George Street" [estimated to be approximately where Broadway Street is today], "Lockart Street" [estimated to be approximately where Bowman Street is today], and the "Macadamized Road to Dundas" [estimated to be approximately where Main Street West is today]. A macadamized road is a type of road construction invented in 1819 by engineer John Loudon McAdam (1756-1836). It involves layering small stones and coating them with a binder. Given the street names listed on the map it is unclear whether the plan was built as surveyed but it is clear that all of the roads listed were given new names. It is assumed that the "George Street" listed does not refer to the George Street located between King Street and Main Street in central Hamilton. Lockart Duff (sometimes spelled Lockhart) was a Scot who moved to Hamilton in 1830. He purchased 250 acres on the eastern edge of Dundas. In 1838 he built a ten-room stone house at the corner of Main and Broadway which he named "Abbotsford Hall" . The house was demolished in the 1950's. Today the site is home to a modern commercial plaza (opposite McMaster Hospital). Duff chose the name Abbotsford as a tribute to the former estate of his close friend, the famous novelist and poet Sir Walter Scott. Scott built his baronial mansion, Abbotsford, in the initial part of the 19th in the Scottish Borders. He is buried in Hamilton Cemetery. (Melville Bailey ed., "Duff, Lockhart," in Dictionary of Hamilton Biography, vol. 1. Hamilton: W.L. Griffin Limited, 1981). The former community of Duff's Corners (at the intersection of Garner Road and Wilson Street) was named after Duff's family name (Arthur Bowes ed., Ancaster: A Pictorial History vol.1 (Ancaster: Ancaster Township Historical Society, 1999).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Dundas (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Ancaster</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Ainslie Wood East, Binkley-Forsyth settlement area</citySection>
+      <area>Lots 56-57, Concession 2</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

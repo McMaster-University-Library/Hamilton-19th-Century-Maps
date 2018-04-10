@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of lots adjoining the City of Hamilton, the property of J.T. Gilkison Esq</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateCreated>1850</dateCreated>
+    <dateOther>[between 1850 and 1880?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7718</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; sheet 54 x 92 cm. Map lined with archival paper on verso. Tear extends along the middle of the sheet.</note>
+  </physicalDescription>
+  <note>Manuscript map.  Cartographer unknown.  Lacking north arrow; north is oriented to the left. Map is bounded by Wentworth Street in the west, Vulcan Street [non-existent today] in the east, Ship Street in the north, and the Great Western Railway along branches of the Sherman Inlet in the south. Also appearing on the map from east to west are McKinstrey Street, Dickson Street [both shorter streets today], Hillyard Street and Macnab Street [now Niagara Street]. From north to south are Land Street, Gilkison Street [now Burlington Street], Blyth Street [now Brant Street] and Munro Street [now spelled Munroe Street]. The Great Western Railway has lines drawn in red ink on either side of its full extent. There are also lines in red ink within some branches of the Sherman Inlet with coordinates noted alongside them. The map shows over 200 numbered lots. A circled "F" appears near the upper right corner.  McMaster has a manuscript map covering the same area with supplied title, "[Map of Hamilton, east of Wentworth Street to the Sherman Inlet]" (see RMC_7725).</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

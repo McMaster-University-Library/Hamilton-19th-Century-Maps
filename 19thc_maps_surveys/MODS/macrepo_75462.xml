@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of block in the late James Mills's survey made by me</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1869-02-25</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1869</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7719</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1,600 approximately]</extent>
+    <note>1 map : colour ; sheet 27 x 43 cm. Hand coloured. Some tears near the middle of the sheet. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"Scale 132 feet = 1 inch". Survey signed, "Thos A Blyth PLS Hamilton Fer. 25th 1869". According to the Dictionary of Hamilton Biography, Volume 1, "After several moves, he [James Mills] located permanently in Hamilton in 1816, where he and his brother-in-law, Peter Hess, purchased 500 acres between bay and the Mountain (stretching from what is now Bay Street to Locke)...." (p.154). "No 28 Drawer 6" is handwritten on the left side of the sheet. Map pencilled on verso showing lots between John Street and Bowen Street, and above the map are mathematical calculations.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

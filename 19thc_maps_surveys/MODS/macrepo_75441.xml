@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of lots in the village of Waterdown, being subdivision of park lot no 9 (shewn on H. Winters plan) and park lot no 2</title>
+    <subTitle>in A. Griffin's survey and being part of lot no 7 in the 3rd Conn of the township of East Flamborough as laid out for Hugh Green</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>O'Keeffe, David Charles</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1870-07-08</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1870</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7706/7</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:800 approximately]</extent>
+    <note>1 map ; sheet 59 x 40 cm. Map lined with archival paper on verso. Upper right corner of sheet lacking.</note>
+  </physicalDescription>
+  <note>Remainder of title reads, "...being subdivision of park lot no 9 (shewn on H. Winter's plan) and park lot no 2  in A. Griffin's survey and being part of lot no 7 in the 3rd conn of the Township of East Flamborough as laid out for Hugh Green Esqr." Certification statement in lower right corner is signed, David Chas. O'Keeffe, Provincial Land Surveyor, Hamilton July 8th, 1870". visual scale [1 chain = 25 mm]. Shows 20 numbered lots around "Main St or Stone Road", plus "W. Heissie" property next to lot 20. "Book 3, Plan 14" handwritten near bottom edge.</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+      <citySection>Flamborough</citySection>
+      <area>Waterdown</area>
+    </hierarchicalGeographic>
+    <geographic>Waterdown (Ont.)</geographic>
+    <geographic>Flamborough (Ont.)</geographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+</mods>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>[Sketch of survey of industrial property at Stuart and Hess streets]</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1870</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">[Canada]</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton?]</placeTerm>
+    </place>
+    <dateOther>[between 1870 and 1881]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 25 x 57 cm. There is discolouration and wear throughout. The left side of the map has a yellowing. Pencil marks found in multiple places. There is a hole where an inked word has been crossed out next to "Hess". Map is done on rag linen paper and lined with a similar archival paper on verso.</note>
+  </physicalDescription>
+  <note>The map features no title, scale, directional arrow, or author/publisher. The location of the map is in the north end, just south of Bayfront Park. It fits within Lot 15, Concession 1 of the former Township of Barton. The area is still industrial today. In the top left hand corner of the map it is numbered: "No 125 Drawer 6". The streets listed on the map include "Stuart Street", "Caroline", and "Hess" Streets. Each of these streets are in existence today. The map is oriented in an upside down format so that north is at the bottom of the map. Just off the left side of the map (east) is Tiffany Street and just off the top edge of the map (south) is Barton Street. The location of Stuart Street's diagonal path (as found today) can be seen on the right side of the map. Maps of the middle part of the 19th century indicate the additional street within the boundaries of this map is "Eliza Street" (between Hess and Caroline).  Just north of Stuart Street is the CN/Southern Ontario Railway yard (formerly the Great Western Railway). Within the survey are 23 narrow lots (each 23-24 feet wide) and two larger industrial lots. One is listed as "Tool Company property" and the other "Gartshore". John Gartshore (1810-1873) was one of the leading manufacturers in the country during the 19th century. He moved to Canada from Scotland in 1829 and after a fire destroyed his flour mill in Fergus, Ontario he moved on to Dundas. There he built a foundry in 1838 with James Bell Ewart and manufactured steam engines, mill machinery, and parts for the Great Western Railway. Between 1857 and 1859, Gartshore cast the boilers and beam engines for the Hamilton waterworks found in the Hamilton Museum of Steam and Technology today. In 1870, the foundry was sold to a local apprentice Thomas Wilson (Houghton, Margaret. Hamilton Street Names. Toronto: James Lorimer &amp; Co., Ltd., Publishers, 2002). John's son Alexander Gartshore (1839-1904) moved his industrial efforts to Hamilton and formed a partnership under the name Gartshore &amp; Cowie, acting as the first iron pipe manufacturer in Ontario. Alexander Gartshore soon acquired full control of the foundry (Cochrane, William. The Canadian Album: Men of Canada. Vol. 1. Brantford: Bradley, Garretson, 1891.) This was likely the earliest period in which the survey may have been drawn. The company was eventually named the Canada Pipe Foundry and subsequently the Gartshore-Thompson Pipe &amp; Foundry Company. These cast iron pipes connected Hamiltonians with water, sewer and gas lines and helped to build the infrastructure of the city. The company was purchased by Canada Iron Foundries in 1939 (Gartshore Ian and Sandra (Gartshore) Jernigan. An Engineering Entrepreneur in Early Canada: John Gartshore in the 1800s. Kingston, The Engineering Institute of Canada, 2003). In nearby Pier 4 Park on Macassa Bay is found the Gartshore-Thompson Building (ca. 1900), a relocated historic building that once acted as the offices for the Gartshore-Thompson Pipe &amp; Foundry Company. The "Tool Company property" shown on the map was the Hamilton Tool Works Company founded by William Hendrie in 1872. The Hamilton City Directory from 1874 shows the company as being located on Caroline and Stuart Streets. In 1881, the company was reorganized as the Hamilton Bridge and Tool Company (Burely, David. William Hendrie: The Dictionary of Canadian Biography, online edition, 2015). Due to its proximity to the rail line, the company started making railway bridges and was renamed the Hamilton Bridge and Tool Works and then again the Hamilton Bridge Works Company Limited (H.B.W.) in 1894. (Hamilton Special Collections. Industrial Hamilton: The Trail to the Future, Hamilton Public Library, 2001). Among the many bridges built by the company, two include the railway swing bridge over the Burlington Canal and the Prince Edward Viaduct truss bridge in Toronto. The company was prolific in bridge manufacturing not only in Hamilton but also across Ontario. According a study of bridges in the Region of Waterloo "Almost every steel bridge that exists or existed in Waterloo Region was built by this company or its predecessors" (Fontaine, Mike. Spanning the Generation: A Study of Old Bridges in Waterloo Region. Waterloo: Waterloo Planning and Community Services, 2004). The company remained in existence, under various names, at Stuart and Caroline Streets until 1962. Regarding the smaller, adjacent lots on the survey, the Hamilton City Directories of the 1800s indicate that the area was filled with industrial workers. The directory of 1869, for example, lists blacksmiths, machinists, labourers, carpenters, and engine drivers as property owners and tenants. There are, as well, a number of vacant lots in the vicinity during this time period.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Central Hamilton, North End</citySection>
+      <area>Lot 15, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

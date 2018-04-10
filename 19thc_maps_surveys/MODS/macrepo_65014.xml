@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>A plan of survey of lots in the city of Hamilton, corner of Bay and Concession Streets</title>
+    <subTitle>being part of lot 16 in the 3rd Concession, Township of Barton, the property of RP Street Esq.</subTitle>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1872-11-2</dateCreated>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1872</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7536</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:600]</extent>
+    <note>1 map : col. ; 49 x 39 cm. Map lined with archival paper on verso. There are cutting marks on the bottom edge.</note>
+  </physicalDescription>
+  <note>“Scale 50 Ft = 1 Inch.” The outline of the lots and roads has been done in ink but street names, property owners, the title, and the scale have all been written in pencil. On the left edge, written in pen, it reads “No 5 Drawer 5.”  The map possesses no directional arrow. The orientation of the map is upside down, with Markland Street (the northernmost street) appearing at the base of the map. All streets listed (Bay Street, Hilton Street, and Markland Street) are in existence today, with the exception of Concession Street [which is now Aberdeen Ave]. In the 1875 Historical Atlas of Wentworth County, the property owner is listed as “RP Streets”. The location and names of neighbouring property owners correspond exactly with those shown on the map, including: John Brown, Alexander McInnes and Thomas Swinyard. To the left of the title it reads “Office Copy” and has a signature below. There is no surveyor or author listed.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Durand neighbourhood</citySection>
+      <area>Lot 16, Concession 3</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

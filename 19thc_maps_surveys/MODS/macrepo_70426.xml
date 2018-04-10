@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan showing lots numbers 1, 2 and 3 in the subdivision of part of lot no.1 in the Broken Front Concession</title>
+    <subTitle>of the Township of East Flamborough in the County of Wentworth. The property of John J. Filman</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Hewson, Thomas Ringwood, 1856-1898</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Ontario Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1897-03-25</dateCreated>
+    <publisher>Registry Office Hamilton</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton, Burlington</placeTerm>
+    </place>
+    <dateOther>1897</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7565</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:2380]</extent>
+    <note>1 map : col., 40 x 63 cm., on sheet 41 x 63 cm. Map is printed on rag linen paper and lined with a similar material as archival paper on verso. The map is full of detail including three lots which have been coloured red at the base of the map. There are a few minor tears along the edges.</note>
+  </physicalDescription>
+  <note>Map outlines 10 lots in the vicinity of Aldershot, including land found in both the former counties of Wentworth and Halton. The title, in its entirety, reads: "Plan showing Lots Numbers 1, 2 and 3 in the Subdivision of part of Lot No. 1 in the Broken Front Concession of the Township of East Flamboro in the County of Wentworth, the property of John J. Filman". The Filmans are a significant family in the early history of Aldershot, and several historic Filman houses remain in Burlington. John J. Filman (1861-1932) was the son of James Conrad Filman (1821-1888), who is shown as the owner of lots 1 &amp; 2, in East Flamboro's Broken Front Concession in 1875. When James died, brother David inherited the northern half of the property while John inherited the southern half. Below the title is the landowner's certifying statement: "This plan and subdivision has been prepared under and with my approval for registry. Burlington Mar 30th 1897. [Signed] John J. Filman". To the right of the title is a statement and signature by the clerk for the County of Halton, "George Arthur Watson", on March 30, 1897. One can also find, in the top right corner, a certification statement by the plan's surveyor "Ths. R. Hewson, O.L.S.", "Dated...Hamilton, Ont. 25th March 1897". Thomas Ringwood Hewson (1856-1898) was an Irish-Canadian surveyor who partnered with James Williams Tyrrell (1863-1945) while in Hamilton. At the very bottom of the map is a statement which appears to indicate that this copy of the plan is a duplicate given to the County of Wentworth. It reads: "Duplicate original fyled in the Registry Office for the County of Wentworth at 3:23 O'clock P.M. of the First day of April A.D. 1899 as County No 15. [Signed] George Aurey, Deputy Registrar".&#13;
+The scale is listed as: "Scale : 3 chains to 1 inch". The directional arrow is found in the upper right hand corner, decorated fancifully with a "magnetic N". Of note are three lots which are highlighted in red and accompanied by a note: "The part which has been subdivided is colored Red." Geographically, the area is found in eastern Aldershot, just below the Queen Elizabeth Way. Greenwood Cemetery is listed on the map as well as the "Road to Burlington" [now approximately Greenwood Drive] and a "Lane 50 links wide" [now approximately Francis Road].</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>East Flamborough (Ont.)</geographic>
+    <geographic>Burlington (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of East Flamboro</region>
+      <county>Wentworth County</county>
+      <city>Hamilton, Burlington</city>
+      <citySection>Aldershot</citySection>
+      <area>Lot 1, Concession BF</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

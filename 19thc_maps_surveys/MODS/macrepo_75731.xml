@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>A true copy of survey of lots in the Township of Barton and adjacent to the City of Hamil[ton], the property of Michael Aikman</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1854-01-12</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>1854</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7730</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map ; sheet 21 x 41 cm. Map lined with archival paper on verso.  Some tears along edges.</note>
+  </physicalDescription>
+  <note>Manuscript map.  "Thos. A. Blyth, Janry 12th 1854".  Covers area east of the city limits at this time [currently Wentworth Street] and extends east to Burlington Street [currently Sanford Avenue South] and is bounded north to south by King and Main Streets with an "Avenue" in the middle which is currently named, Aikman Avenue. Map shows 49 numbered lots within these boundaries.  According to the Dictionary of Hamilton Biography  (v. 1, p. 9), Michael Aikman is the son of settler John Aikman (1764-1841) and, following his father's death, he inherited the family property which now bears the family name.  "No 46 Drawer No 2" is handwritten in upper right corner.  Handwritten on verso, "Michael Aikman [illegible word]".</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth</county>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

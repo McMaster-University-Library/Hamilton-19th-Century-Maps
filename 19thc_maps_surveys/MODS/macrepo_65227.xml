@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the survey of the north end of lot no 19 in fourth conn of Barton into acre lots the property of W.H. Nicolls Esqr.</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1854</dateCreated>
+    <publisher>Unknown</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton]</placeTerm>
+    </place>
+    <dateOther>1854</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7532</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1580]</extent>
+    <note>1 map : col. ; 33 x 23 cm. Map lined with archival paper on verso. Map colouring is blue-green.</note>
+  </physicalDescription>
+  <note>"Scale 2 ch. to an Inch". The map is numbered in handwriting as “Book 1 Plan 60”. To the right of the title it reads, “True Copy of Survey, Nos. 1854. Ths. Allen Blyth.” Writing on the map’s verso reads, “Capt Nicolls [illegible word], north end of lot 19 in 4th Conn of Barton” Streets listed on the map include: Dundurn Street, Willougby Street [now Hyde Park Ave], Holloran Street [now Flatt Avenue], Nicolls Street [now Glenside Avenue], and Fourth Concession Road [now Aberdeen Avenue]. The 1876 Wentworth County Atlas lists the area as “Nicoll’s Sy” [Survey] with lots and streets. Later maps depict the area differently, indicating that it was either re-developed in the late 19th century or the 1854 survey was never realized as planned on Nicolls’ property. The more modern 1913 Map of the City of Hamilton shows the current configuration of lots and street names that continues to this day.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Kirdendall South neighbourhood</citySection>
+      <area>Lot 19, Concession 4</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

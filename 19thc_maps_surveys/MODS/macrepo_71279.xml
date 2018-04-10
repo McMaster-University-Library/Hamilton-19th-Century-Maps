@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sketch of part of lot no. 19 containing 41 1/2 acres</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[Hamilton?]</placeTerm>
+    </place>
+    <dateCreated>1820</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <dateOther>[between 1820 and 1876]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7625</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : 33 x 51 cm. There is discolouration and tearing throughout. Along the right edge there is some paper missing. Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This map depicts 41.5 acres of land subdivided into blocks and lots. It is located at the intersection of King and Dundurn Streets, in the Strathcona neighbourhood (lot 19, concession 2). Along the left side of the map is the title "Sketch of part of lot no.19 containing 41 1/2 acres". There is no author, date, or directional arrow listed on the map. Directionally, north would be pointing toward the right edge of the map. Just below the title is listed the scale "2ch to one Inch". In the top left-hand corner the map it is numbered: "No 47 Drawer No 2". The streets shown are unmarked but they are King Street (running east-west) and Dundurn Street (running north-south). There are 130 individual lots depicted on the sketch within 10 blocks. There is also, along King Street, a "Brick Yard" and a large property belonging to "Captn. Stewart". At the top of the map (eastward) is open space, shown as "54 acres". Local historical maps show that this area was largely natural land, on higher elevation. The 1850-51 Map of the City of Hamilton by Marcus Smith confirms the location of this map and shows this a small portion of this land becoming a "Catholic Cemetery" [now the location of the Cathedral Basilica of Christ the King] and the rest as undeveloped land belonging to "the honorable Malcolm Cameron" (1808-1876). The Marcus Smith map also includes a "Capt. Stuart" as an individual owning land in the same location as the sketch. It is unclear as to which Captain Stuart/Stewart the map refers. One possibility is that it is well-known abolitionist and former military officer Captain Charles Stuart (1783-1863) who immigrated to Upper Canada in 1817 and settled in Amherstburg. We know that he was in the region during this period,  because he assisted in the formation of the Anti-Slavery Society of Canada at Toronto in February 1851 (Simpson, Donald. "Stuart, Charles" in Dictionary of Canadian Biography, accessed May 1, 2015). Other options come from the Hamilton City Directories: in 1853 there is a Stuart listed as the clerk for the district court on King Street West. In 1880 there is a John Stewart listed as an "excise officer" living on King Street. Finally, in 1886 there is an Alex Stewart listed as a mason and living on King Street West. In the centre of the verso of the map is found a signature "Lot 19, Charles Bain, Esq" as well as the number 133 encircled. In the top right-hand corner of the map is another mention of "Charles Bain, Esq". Very little seems to be written of Bain although some sources indicate he was an assistant surveyor for the Grand River Navigation Company. He worked as an understudy to Marcus Blair of Hamilton who was the area's senior deputy surveyor and Warden of the Forest on the Grand River (Hill, Bruce Emerson. The Grand River Navigation Company. Brantford: Brant Service Press, 1994). Bain was deputized as the surveying assistant to Blair by the efforts of James Winniett (1777-1849), superintendent of the Indian Department. Both Bain and Blair dealt regularly with complaints, mistreatment, and illegal squatting on the Six Nations land surrounding the Grand River. In 1837 Bain was made Deputy Warden after the firing of Blair by Sir Francis B. Head (The Legislative Assembly of the Province of Canada, Appendix to the Sixth Volume of the Journals of the Legislative Assembly of the Province of Canada, Montreal: Steam Press, Rollo Campbell printer, 1847). By 1841, Bain was made Director of the Grand River Navigation Company. On behalf of the Grand River Navigation Company, Bain was likely involved in surveying and laying out plans for the villages of Paris, Indiana, of Oneida and Seneca [modern day Caledonia].</note>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <area>Lot 19, Concession 2</area>
+      <region>Barton Township</region>
+      <citySection>Strathcona neighbourhood</citySection>
+    </hierarchicalGeographic>
+    <geographic>Hamilton (Ont.)</geographic>
+  </subject>
+</mods>

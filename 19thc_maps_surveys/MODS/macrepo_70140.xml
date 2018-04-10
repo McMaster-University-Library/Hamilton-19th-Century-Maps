@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of Lawrence Park</title>
+    <subTitle>being a subdivision of a part of lot 56, con. 1., Tp. of Ancaster</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Webster, William Gourlay, 1884-1965</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1913-10-10</dateCreated>
+    <publisher>MacKay, MacKay, &amp; Webster. Engineers &amp; Surveyors. Hamilton, Can.</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hamilton</placeTerm>
+    </place>
+    <dateOther>1913</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1200]</extent>
+    <note>1 map : col. ; 68 x 46 cm., on sheet 71 x 49 cm. Map has a small tear in bottom left hand corner. Map is a blue print on paper retained by the "Registry Office of the County of Wentworth". Map has been lined with archival paper on verso.</note>
+  </physicalDescription>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <geographic>Ancaster (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Township of Ancaster</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Ainslie Wood</citySection>
+      <area>Lot 56, Concession 1</area>
+    </hierarchicalGeographic>
+  </subject>
+  <note>"Scale, -100ft=1in." Directional arrow found to the left of the title. Map details the "Plan of Lawrence Park" in the former Township of Ancaster. The map details an area south of Main Street West, not far from McMaster University. A subsequent Hamilton map, "City of Hamilton: Western Section" by "J.W. Tyrell and Co." [1927?], indicates that the subdivision was built as shown in this plan. This blue print is the formal copy of the subdivision plan retained by the "Registry Office of the County of Wentworth". It is signed by "W.G. Webster", the provincial land surveyor; "John Allan", the Mayor of Hamilton; as well as the Ontario Railway and Municipal Board secretary, city clerk; mortgagee; reeve; owner; and witnesses. For more information on both William Gourlay Webster (1884-1965) and John Allan (1856-1922), see RMC 7626 ("Plan of Kenview Park"). All signatures on the plan are dated 1914, written with black pen over top of the originally printed 1913 date. At the base of the map, below the company information of the surveyors, is the printed date: "Dated Hamilton Oct. 10th 1913". In the bottom right hand corner is the key plan inset which shows the location of the plan in greater geographic detail. There are 220 lots included in the subdivision.</note>
+  <identifier type="local">RMC_7563</identifier>
+</mods>

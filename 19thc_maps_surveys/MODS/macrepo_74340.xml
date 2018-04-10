@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of survey of lots in the City of Hamilton, the property of Walter Dickson Esq</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Dickson, Walter</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1856</dateCreated>
+    <place>
+      <placeTerm type="text">[Hamilton, Ont.]</placeTerm>
+    </place>
+    <dateOther>1856</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7646</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1,580]</extent>
+    <note>1 map ; 51 x 28 cm. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>"2 chains = 1 inch".  Map is oriented with south at the top.  Map is bounded by King Street on the south and York Street on the north, and Sophia Street on the west and Railway Street on the east.  "No 27 Drawer 6" along left edge.  "57" in lower left corner.  "201" appears faintly in circle in the lower left corner.  Date and handwritten note on verso. Streets appearing on the map include: Augusta Street [now Market Street], Julia Street [now Napier Street], Louisa Street [now Peter Street], Florence Street, Sophia Street [now Locke Street], and Railway Street [now Ray Street].</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

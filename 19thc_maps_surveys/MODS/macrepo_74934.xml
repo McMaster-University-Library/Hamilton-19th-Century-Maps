@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of the subdivision of park lots nos. 4 and 7</title>
+    <subTitle>north side of York St. in the late Sir Allen MacNabs Bart survey of park lots in the City of "Hamilton"</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Blyth, Thomas Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1868-July</dateCreated>
+    <place>
+      <placeTerm type="text">Hamilton, Ont.</placeTerm>
+    </place>
+    <dateOther>1868</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7686</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>Scale not given</extent>
+    <note>1 map : colour ; 34 x 69 cm. Hand coloured. Map lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>Signed below title, "Thos. A. Blyth PLS, Hamilton July 1868". Streets appearing on map include York Street [now York Boulevard], Locomotive Street [now Ray Street], and Concession Street [now Barton Street]. The street parallel with Locomotive Street is now present day Magill Street. On the left side of Locomotive Street is noted, "Sir Allen MacNabs of subdivision, Park Lot No 3". On the right side of Locomotive Street is noted, "David Murray's Survey of subdivision, Park Lot No 8". A note below the title reads, "The part shaded pink the property of Chas. Magill Esqr. M.P. The portion shaded yellow that of Mrs. Ainslie". North arrow points to the right of the sheet. "No 27, Drawer 5" is handwritten in the top left corner of the sheet.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Hamilton</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

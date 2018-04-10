@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Plan of subdivision of lots 1,2,3,4,5,6 and the reserve lot</title>
+    <subTitle>in the survey of the front of part of lot no. 11, 4th Con. of the Township of Barton</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Fair, John, 1847-1927</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Ontario Land Surveyor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated>1903-04-16</dateCreated>
+    <publisher>[Publisher unknown]</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Brantford</placeTerm>
+    </place>
+    <dateOther>1903-04-16</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RMC_7641</identifier>
+  <physicalDescription>
+    <form authority="marcform">map</form>
+    <extent>[1:1200]</extent>
+    <note>1 map : 48 x 33 cm. Map has numerous spots on its surface. Some inked writing has faded over the years. Map is lined with archival paper on verso.</note>
+  </physicalDescription>
+  <note>This is a 1903 plan for a housing subdivision on Hamilton mountain, near the brow of the escarpment. Beneath the title are the words "Hill Survey," pointing to the plan’s geographical location. To the left of the title is the directional arrow and to the right of the title is the scale: "Scale 100 feet to 1 inch." There are 51 lots drawn between East Aberdeen Ave [now Concession St], Wentworth Ave, and Vernon Ave [now East 19th St]. The property owner is "J.P. Muir, Esq." This either refers to John Muir (1843-1899) of Grimsby or his only son. It is possible that the Muir land was subdivided and sold as a result of John's death at the turn of the century (Kathryn Maudsley, "Muir, John," in Dictionary of Hamilton Biography, 117-118). To the right of the plan's title is a date and signature by the surveyor: "Jno Fair, O.L.S., Brantford, Apr. 16th 1903." John Fair (1847-1927) was one of the earliest surveyors in Brantford. He obtained his commission as an Ontario Land Surveyor in 1875 and completed numerous plans in the Hamilton-Brantford area (Association of Ontario Land Surveyors, ”John Fair, O.L.S.” Toronto: AOLS Report of the Committee on Biography &amp; Repository, posted in 2003). He is also listed as being a civil engineer and having an office at 25 George Street in Brantford (Brantford Library, "Brantford: The Telephone City (http://brantford.library.on.ca/files/pdfs/localhistory/brantfordoftoday.pdf, accessed August 27, 2015). The plan also features a witness signature below the title: "A.A. Muir." On the left hand side of the map is a certification statement by the surveyor in accordance with the Registry Act. On the right hand side of the map is a certification statement by the Commissioner of the County of Wentworth. At the base of the map is an illegible statement and signature.</note>
+  <subject>
+    <geographic>Hamilton (Ont.)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>Barton Township</region>
+      <county>Wentworth County</county>
+      <city>Hamilton</city>
+      <citySection>Inch Park</citySection>
+      <area>Lot 11, Concession 4</area>
+    </hierarchicalGeographic>
+  </subject>
+</mods>
