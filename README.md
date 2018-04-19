@@ -18,4 +18,8 @@ This is a Shapefile dataset for 19th century maps and surveys containing the bou
 
 This is a text file containing selected metadata for 19th century maps and surveys. These include the item’s Macrepo ID, title, date, scale, surveyor or author, citation, thumbnail link, and digital archive link.
 
-### _Find the complete user guide and project documentation in the Google Doc [here.](https://docs.google.com/document/d/1HAFOTWoOgAEbdTLOw045PreZTf29dYBbQ2MMvQ0TN7g/edit#heading=h.j6b3k271jd77)
+### Resource: leaflet-tests
+
+This folder contains previously created leaflet packages through a QGIS export. The latest folder, qgis2web_2018_04_05-14_38_59_807000, contains the web data files that were later refined to create the existing 19th Century Maps and Surveys Index.
+
+### _Find the complete user guide and project documentation in the Google Doc [here.](https://docs.google.com/document/d/1HAFOTWoOgAEbdTLOw045PreZTf29dYBbQ2MMvQ0TN7g/edit#heading=h.j6b3k271jd77)_
