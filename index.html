@@ -27,7 +27,7 @@
 		<div id="buttonzone" style="right:1vw">
 		<button class="button" id="myBtn"><p>Tutorial</p></button>
 		<a href="https://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A49596" style="text-decoration:none; margin-left: 0.8vw" target="_blank"><button class="button">Digital Archive</button></a>
-		<a href="https://library.mcmaster.ca/services/maps-geographical-resource-services#tab-instructional-support" style="text-decoration:none" target="_blank"><button class="button">Contact</button></a>
+		<a href="https://library.mcmaster.ca/spaces/maps" style="text-decoration:none" target="_blank"><button class="button">Contact</button></a>
 		</div>
 	
 		<hgroup>
@@ -138,14 +138,11 @@ var bounds_group = new L.featureGroup([]);
 var osm = L.tileLayer('http://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {
 	attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
 	maxZoom: 28});
-var grayscale = L.tileLayer('http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png', {
-	attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
-	maxZoom: 28});
-var stamen = L.tileLayer('http://a.tile.stamen.com/toner/{z}/{x}/{y}.png', {
-	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>,<a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Mapdata: &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+var grayscale = L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png', {
+	attribution: '&copy;Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
 	maxZoom: 28});
 
-var baseMaps = {"OpenStreetMap": osm, "Grayscale": grayscale, "Streets": stamen}; 
+var baseMaps = {"OpenStreetMap": osm, "Grayscale": grayscale}; 
 var map = L.map('map', {center:[43.26,-79.89], layers:[osm], zoom: 11, maxZoom:28, minZoom:1});
 map.attributionControl.addAttribution('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a>');
 
